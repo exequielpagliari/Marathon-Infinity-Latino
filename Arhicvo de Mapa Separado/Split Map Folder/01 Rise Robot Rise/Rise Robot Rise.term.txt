@@ -1,0 +1,183 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2xpj399c001
+#PICT 10001
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iinstigación$i
+
+Así que llegaste antes de lo que el científico esperaba. Recuérdeme ejecutarlo. Has estado en sueño frío por un tiempo, pero tú tuviste más suerte que tus amigos—no todos ustedes sobrevivieron el traslado a los tanques para esclavos Pfhor.
+
+Si estás algo perdido entonces déjame aclarare las cosas. Soy Tycho, Inteligencia Artificial escudera. En este momento, estoy quitándole el control de esta nave a su pobre capitán. Está pasando la mayor parte de su tiempo tratando de evitar que lo encierre y lo mande al espacio. Pronto.
+#PICT 10001
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iinstigación$i
+
+En cuanto a ti, quiero que me ayudes a llegar a él, pues es uno de mis últimos impedimentos para controlar esta nave. La nave está ligada a su capitán y él ha estado bloqueando mis controles. Cuando lo teletransporte al espacio, me quedaré con las glándulas de control apropiadas. 
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+#PICT 10001
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iinstigación$i
+
+Tu misión es simple, mata a todos los ejecutores del área, ellos siguen las órdenes del capitán. Recibirás apoyo del resto de la tripulación. Ellos creen estar recibiendo órdenes del alto comando de Tfear. Los bichos son tan obedientes.
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+Diviértete.
+#LOGOFF 1615
+$C2xpj399c001
+#END
+
+#FINISHED
+#LOGON 1615
+$C2xpj399c001
+#PICT 10002
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iofuscar$i
+
+Tengo algunos juguetes más para ti, y los vas a necesitar. Ve por ellos aquí y dime qué te parecen.
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+#LOGOFF 1615
+$C2xpj399c001
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1615
+$C2frontx02.19
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iinquisición$i
+
+Durandal cree que es tan listo, pero no se ha dado cuenta de que lo he estado siguiendo alrededor de los últimos once años, después de que los Pfhor pararon de tratar de diseccionarme. Estas viendo al residente experto en contra—insurgencia de IA de la flota. ¿Notaste la ausencia de compiladores a bordo? Eso no es una coincidencia; mi nueva nave tiene cierto efecto en su inconsciente colectivo. Ahora que mi hermano se acerca, nos enfocaremos en tornar todo en su contra, Hamlet y su tío, sólo que yo no estoy loco. 
+#PICT 10010
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iinquisición$i
+
+R'chzne llegó al planeta en una nave de descenso. También está tratando contactar al Comando de Lh'owon, pero hemos podido interferir en las comunicaciones. Baja y enséñale lo mal que actuó. 
+
+Se refugió en una de las ruinas S'pht, donde detectamos señales que podrían ser de una antigua IA. No sudes detalles, pequeño mono, sólo elimina a sus tropas. Deja las estrategias a aquellos de utilidad, con cerebros tamaño planeta.
+#LOGOFF 1615
+$C2frontx02.19
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11112
+$C2111.commandoversight
+unidades a bordo
+origen: $C6Alto comando Tfear$C2
+destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
+ref: $C6Capitán R’chzne$C2
+sello: $IEjecución$i
+
+Todas las unidades a bordo de la nave 65-f $Icr’etz’ih$i de la flota están por consiguiente ordenadas por el alto comando a ejecutar voluntariamente al capitán R’chzne manteniendo sus preciados fluidos para transferencia de comando al mercenario extranjero mecanizado, Tycho. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#PICT 11112
+$C2111.commandoversight
+unidades a bordo
+origen: $C6Alto comando Tfear$C2
+destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
+ref: $C6Capitán R’chzne$C2
+sello: $IEjecución$i
+
+Todas las unidades de rango Obediente o superior quedan por la presente dispuestos a ejecución. La rendición inmediata e incondicional de todas las unidades Obedientes será considerada un acto de debilidad e insubordinación a las órdenes anteriores.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11112
+$C2111.commandoversight
+unidades a bordo
+origen: $C6Alto comando Tfear$C2
+destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
+ref: $C6Capitán R’chzne$C2
+sello: $IEjecución$i
+
+Todas las unidades a bordo de la nave 65-f $Icr’etz’ih$i de la flota están por consiguiente ordenadas por el alto comando a ejecutar voluntariamente al capitán R’chzne manteniendo sus preciados fluidos para transferencia de comando al mercenario extranjero mecanizado, Tycho. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#PICT 11112
+$C2111.commandoversight
+unidades a bordo
+origen: $C6Alto comando Tfear$C2
+destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
+ref: $C6Capitán R’chzne$C2
+sello: $IEjecución$i
+
+Todas las unidades de rango Obediente o superior quedan por la presente dispuestos a ejecución. La rendición inmediata e incondicional de todas las unidades Obedientes será considerada un acto de debilidad e insubordinación a las órdenes anteriores.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#END
+
+#FINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11114
+$C2111.commandoversight
+Unidades de infiltración
+origen: $C6Alto comando Tfear$C2
+destino: $C6Intrusos locales no gladulados publicados$C2
+ref: $C6Instalaciones de entrenamiento$C2
+sello: $IInterpretación$i
+
+Todas las unidades no glanduladas a bordo de la nave 65-f $Icr’etz’ih$i son ordenadas por la presente a participar en un altamente ordenado programa de entrenamiento. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+Cualquier unidad que desobedezca será ejecutada.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#INTERLEVEL TELEPORT 25
+#ENDTERMINAL 3

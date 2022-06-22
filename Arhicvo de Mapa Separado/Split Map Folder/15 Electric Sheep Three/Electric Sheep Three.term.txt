@@ -1,0 +1,26 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1610
+#PICT 10007
+
+
+
+
+
+$C1pasos que vacilan caen
+
+tiempo más allá de la pérdida
+pérdida más allá de la pantalla de la vida
+
+no sostenido
+			no olvidado
+no perdido
+
+$Bdesperdido encontrado$b
+
+mantenerse en el camino difícil
+sueño oscuro llevando todo
+
+#LOGOFF 1610
+#ENDTERMINAL 0

@@ -1,0 +1,219 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2secur.feed.seg7
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+El transmisor de R'chzne está aquí, pero la fuente de energía está en algún lugar de las ruinas. Encuéntralo y destrúyelo, rápido. Los Pfhor me han prometido esta nave. Pensaba que R'chzne era mi aliado más fuerte, pero al final solo se quedó mirando, impasible, como hacían añicos mi núcleo.
+$C6^7002nckeqlcacibule
+^7002nckeqlcacibule
+Tycho, mercenario mecanizado de rango de Atención, ha recibido autorización para enviar un destacamento de cazadores a la superficie que te ayude a destruir sus filas y liberarlo del dolor de la obsolescencia.
+
+#PICT 10201
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+He recabado información que puede serte útil. Los círculos indican paneles capaces de burlar la seguridad de las puertas.
+
+#PICT 10202
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+Una vez hayas penetrado en el área y destruido el transmisor, localiza el terminal marcado en el mapa. No hace falta que les perdones la vida a ninguno de los soldados, por si te lo estabas preguntando. He tomado la decisión que no tienen cabida en el nuevo régimen.
+
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+Casi preferiría mantener en secreto mi localización, al menos hasta que el capitán y yo podamos resolver nuestras diferencias en cuanto a mi rango.
+$C6^7391docivlbdile3x1  $C2¿Verdad que es maravillosa$C6
+^7002nckeqlcacibule  $C2la burocracia?
+$C6^7391docivlbdile3x1$C2
+$C6^7002nckeqlcacibule
+^7002nckeqlcacibule
+#LOGOFF 1605
+$C2purge.reburn.seg7
+#END
+#FINISHED
+#LOGON 1615
+$C275.batalla.estándar
+#PICT 11112
+$C275.batalla.estándar
+tropas de tierra
+origen: $C6Mercenario Mecanizado Tycho$C2
+destin: $C6Grupo de búsqueda 5$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Isupresión$i 
+
+El Grupo de búsqueda 5 ha ordenado retirarse del complejo alienígena y volver de inmediato a la nave. Objetivo prioritario entrando al sistema Lh'owon. Área segura para una extracción rápida.
+$C6^69101bfabrctecleul
+^69101wapconqciqbon$C2
+Se ordena a la unidad esclava que termine las labores de limpieza del área. Elimina a las unidades de combate amotinadas e informa de la ejecución del capitán rebelde R'chzne cuanto antes.
+$C6^69101bfabrctecleul
+^69101wapconqciqbon$C2
+#LOGOFF 1615
+$C275.batalla.estándar
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1605
+$C2secur.feed.C3
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+Los Ejecutores están atrapados en el puente, y no cooperarán hasta que pueda falsificar con éxito su sello cifrado. Estoy trabajando en ello, pero es un problema sin importancia, ya que la mayoría de las Unidades Agregadas han venido y se están preparando para volar los sellos de la nave.
+
+Los Enforcers, como recordarás, no están preparados para el vacío.
+
+Es importante que el capitán no escape. Muy importante. El plan para capturar a Durandal es inherentemente imperfecto, y no puedo permitir que persiga su locura.
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $IInformación$i
+
+La decadente red del Imperio Pfhor está sostenida por los rangos condicionados de S'pht--innumerables hebras que se inclinan incluso ahora hacia la voluntad de Durandal. R'chzne y el resto de los insectos en el Alto Comando Pfhor piensan atraparlo en la misma red que él mismo desea estar atrapado. 
+#LOGOFF 1605
+$C2fin.transmisión.C3
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1618
+$C2enlace.batalla.2
+#PICT 11118
+$C2reporte.de.estado
+origen: $C6Líder Combatiente de 2a Clase Rr’pt$C2
+destino: $C6Mercenario Mecanizado Tycho$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Irequisición$i
+
+Las Unidades de Combate amotinadas han sido encaminadas desde sus posiciones en los muros exteriores. Se están retirando a través de las madrigueras hacia las montañas y estamos continuando la persecución. 
+
+Las escoltas reportan rumores en sus sensores. La evaluación preliminar sugiere unidades de comando humanas.  El Líder Combatiente de 2a Clase Rr'pt solicita humildemente refuerzos de unidades acorazadas.
+#LOGOFF 1618
+$C2enlace.batalla.2
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1605
+$C2transmisión.segura.65v
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iredirección$i 
+
+La fuente de poder debe estar en algún lugar de las secciones más viejas de la fortaleza S'pht. Es muy probable que sea un parche rápido e improvisado en el duradero hardware S'pht. Este tipo de fortificaciones fueron construidos para soportar siglos de guerra; te sorprendería qué tan tenazmente los S'pht antiguos se resistieron a los Pfhor. 
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+#PICT 10210
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iredirección$i 
+
+Sigue buscando y reportate aquí cuando lo hayas destruido. 
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+#LOGOFF 1605
+$C2transmisión.segura.65v
+#END
+
+#FINISHED
+#LOGON 1605
+$C2transmis.segura.89A
+#PICT 10110
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iadquisción$i
+
+Tengo noticias impactantes. Parece que el capitán intentó utilizar el transportador del puente para escapar al planeta, y murió cuando su señal fue redireccionada al espacio cercano. Me gusta pensar que murió arrepentido.
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+#PICT 10110
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6unidad condicionada 7$C2
+ref: $C6Unidades de Combate en Motín$C2
+sello: $Iadquisción$i
+
+De cualquier forma, tengo el control de la nave, y justo a tiempo. La nave de Durandal ha entrado en el sistema y un grupo de humanos se está moviendo a través de los bordes al sur de las ruinas. Dejaremos que nos guíen al premio de Durandal y luego impediremos que escapen. 
+
+Durandal sería un mesías para los S'pht, pero todo es un sueño. No hay nada en Lh'owon más que fantasmas.
+$C6^19201facltebicubcc
+^19201facltebicubcc$C2
+#LOGOFF 1605
+$C2fin.transmisi.segura.89A
+#INTERLEVEL TELEPORT 3
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1615
+$C2dos2.dual2.expedi
+#PICT 11114
+$C2^8301$C6		Tú eres así, tiránica,
+$C2^8302$C6			y es así como eres.
+$C2^8303$C6		Como aquellas bellezas,
+$C2^8304$C6			por arrogantes, crueles,
+$C2^8305$C6		mas sabes que
+$C2^8306$C6			 a mi tierno y febril corazón
+$C2^8307$C6		le pareces la más hermosa
+$C2^8308$C6			y más preciada joya,
+$C2^8309$C6		 Sin embargo, a fe mía, 
+$C2^830A$C6			hay quien dice y sostiene,
+$C2^830B$C6		que tu rostro no puede
+$C2^830C$C6			provocar un suspiro:
+$C2^830D$C6		No quiero ser audaz
+$C2^830E$C6			 y decirles que yerran,
+#PICT 11114
+$C2^830F$C6		aunque a solas 
+$C2^8310$C6			y en silencio lo jure,
+$C2^8311$C6		Y para asegurar que
+$C2^8312$C6			no es falso mi voto,
+$C2^8313$C6		despierto mil suspiros,
+$C2^8314$C6			con pensar en tu rostro,
+$C2^8315$C6		que forman un signo 
+$C2^8316$C6			que atestigua
+$C2^8317$C6		que tu rostro moreno
+$C2^8318$C6			me parece el más bello.
+$C2^0000	
+^8319			En nada eres morena, 
+^831A				salvo en tus acciones,
+^831B			y por lo visto, de ellas, 
+^831C				proviene tal calumnia.
+#LOGOFF 1615
+$C2dos2.dual2.expedi
+#INTERLEVEL TELEPORT 26
+#ENDTERMINAL 4

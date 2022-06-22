@@ -1,0 +1,233 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2band.98.eff
+#PICT 12002
+$C2Unidades agregadas de patrullaje
+origen: $C6Alto comando del sector
+$C2destino: $C6Unidades agregadas de patrullaje
+$C2ref: $C6unidad condicionada rebelde
+$C2sello: $Icontención$i
+
+Las Unidades Agregadas patrullando el Sector de Comando son notificadas de el estado prioritario de alerta y observación, para la localización y contención de la unidad condicionada rebelde.
+
+$C6^389433asaliskwl
+^777373asaliskwl
+^834393asaliskwl
+#PICT 12001
+$C2Unidades agregadas de patrullaje
+origen: $C6Alto comando del sector
+$C2destino: $C6Unidades agregadas de patrullaje
+$C2ref: $C6unidad condicionada rebelde
+$C2sello: $Icontención$i
+
+La notificación enfática de la contención es declarada por la presente, y el comando permite hasta un 85% de casualidades aceptables y  motivar la persecución para una exitosa
+contención. Unidad de Aplicación 7b.oo en espera para transporte inmediato y 
+aniquilación voluntaria de la unidad rebelde.
+
+$C6^389433asaliskwl
+^777373asaliskwl
+^834393asaliskwl
+
+$C2Todas las Unidades Agregadas son debidamente advertidas y su cooperación completa es requerida. 
+#LOGOFF 1615
+$C2banda.98.fin
+#INTRALEVEL TELEPORT 239
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+#PICT 1609
+
+
+
+
+
+$C1hilos  jalan
+					
+					enseñado la forma
+
+como gusta nuestro escondido
+
+vengar rápido el 
+		
+		impetuoso aquí
+
+muriendo en el transcurso
+
+#LOGOFF 1608
+#INTRALEVEL TELEPORT 238
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1618
+$C2resolv.term17
+#PICT 12001
+$C2transporte
+origen: $C6unidad protocolo
+$C2destino: $C6terminal resuelta 17
+$C2ref: $C6transporte
+$C2sello: $Iprotocolo$i
+
+terminal 17
+bobina caliente, transporte en espera
+aplicación de motivos de malaporte
+en espera
+en espera
+en espera
+$C6^654204sprdnksprdnk
+^092969zpzpzpzpzpzp
+^090472tlboitlboitl
+$C2transporte en espera
+#LOGOFF 1618
+$C2term17.fuera
+#INTRALEVEL TELEPORT 467
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1618
+$C2resolv.term21
+#PICT 12001
+$C2transporte
+origen: $C6unidad protocolo
+$C2destino: $C6terminal resuelta 21
+$C2ref: $C6transporte
+$C2sello: $Iprotocolo$i
+
+terminal 21
+bobina caliente, transporte en espera
+aplicación de motivos de malaporte
+en espera
+en espera
+en espera
+$C6^589222hstrlstherth
+^000992grndlsfrcetu
+^000091hyydnarzpths
+$C2transporte en espera
+#LOGOFF 1618
+$C2term21.fuera
+#INTRALEVEL TELEPORT 6
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1616
+$C2alimentación.vigilancia
+#PICT 12001
+$C2puesto de vigilancia 4
+origen: $C6salida de unidad
+$C2destino: $C6unidad de patrulla de vigilancia
+$C2ref: $C6retirada
+$C2sello: $Iexpedir$i
+
+Unidades patrulla de vigilancia son ordenadas a purgar, requemar tiendas locales para quemar inmediatamente y retirarse a las cortes interiores.  Explosión aérea después de recibir el sello de verificación de la unidad local conforme a la esterilización de las áreas exteriores.
+$C6^654204sprdnksprdnk
+^092969zpzpzpzpzpzp
+^090472tlboitlboitl
+$C2transporte en espera
+#LOGOFF 1616
+$C2term17.fuera
+#INTRALEVEL TELEPORT 166
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1615
+$C2grabacion.estricta34
+#PICT 11114
+$C2grabacion de acceso restringido34
+origen: $C6alto comando de lh'owon 
+$C2destino: $C6comando de guarnición central
+$C2ref: $C6artefacto alienígena
+$C2sello: $Iclasificado$i
+
+En consecuencia de la desaparición y probable destrucción del equipo de búsqueda 6'vrm, el equipo de búsqueda a'y85, equipo de rescate 09, unidades de patrulla 4b, 77i, 13t'rh, unidades drones auxiliares (sin especificar), y las recomendaciones del Oficial Científico de 1a Clase Uuhr'm (Atento), el Comando Central de la Guarnición es por la presente ordenado a destinar todos los recursos de la guarnición para completar la Directiva del Artefacto Alienígena 777.gr.
+
+Todas las unidades de la guarnición debajo del rango Atento son por la presente restringidos de contactar el Artefacto Alienígena, quedando pendiente la examinación profunda y la llegada de la Unidad de Extracción de Rango Imperial. 
+
+#PICT 12003
+$C2equipo de búsqueda 6'vrm
+origen: $C6equipo de búsqueda 6'vrm (desintegrado)
+$C2destino: $C6comando de guarnición central
+$C2ref: $C6survey alien artifact
+$C2sello: $Iclasificado (retroactivo)$i
+
+El Oficial de Ciencia de 2a Clase I'ii'ich (Obediente)  humildemente aplica para la aprobación del reporte final de la exploración y descubrimiento de un ref artefacto alienígena en la meseta sur al comando central de la guarnición; del equipo de búsqueda 6'vrm (desintegrado).
+
+Después de un examen poco productivo del área, el Oficial Científico de 3a Clase  Yyr'hy (Agregado) determinó con el uso de un equipo de unidades condicionadas la localización de la fuente interna de poder, corriendo sumergida en los campos subatómicos detallados en reportes de expedición anteriores. 
+#PICT 11118
+$C2equipo de búsqueda 6'vrm
+origen: $C6equipo de búsqueda 6'vrm (desintegrado)
+$C2destino: $C6comando de guarnición central
+$C2ref: $C6survey alien artifact
+$C2sello: $Iclasificado (retroactivo)$i
+
+De acuerdo al protocolo, el equipo de búsqueda 6'vrm se posicionó en las proximidades y comenzaron las operaciones para registrar e investigar la fuente de poder desconocida, en ese momento los sensores autónomos del equipo registraron perturbaciones subatómicas consistentes con desintegración molecular, seguida por la desaparición de las unidades del equipo.
+
+Las señales de comunicación registradas indican la probable reintegración del equipo de búsqueda debajo de la superficie de la meseta, seguida por la destrucción de las unidades por fuerzas desconocidas. Bombardear con radiación el área de la meseta parece haber suprimido los campos subatómicos y extinguido la fuente de poder alienígena. 
+
+#PICT 11118
+$C2equipo de búsqueda 6'vrm
+origen: $C6equipo de búsqueda 6'vrm (desintegrado)
+$C2destino: $C6comando de guarnición central
+$C2ref: $C6survey alien artifact
+$C2sello: $Iclasificado (retroactivo)$i
+
+El Oficial de Ciencia de 2a Clase I'ii'ich (Obediente) humildemente solicita reasignación. 
+#LOGOFF 1615
+$C2secur.elimi
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1615
+$C2cmd.directo57
+#PICT 12003
+$C2Directiva 57 de Guarnición central
+origen: $C6comando de la guarnición central
+$C2destino: $C6unidades de la guarnición
+$C2ref: $C6artefacto alienígena
+$C2sello: $Itransmisión$i
+
+En consecuencia del entierro y resello del artefacto alienígena desenterrado, todas las unidades sin un sello de patrullaje apropiado quedan restringidas al área inmediata. Comunicaciones futuras con respecto al artefacto alienígena se tomarán con sospecha por el Comando de la Guarnición y serán referidas a aplicación de enlace para evaluación y proceso. 
+
+#LOGOFF 1615
+#INTRALEVEL TELEPORT 148
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1608
+#PICT 1609
+
+
+
+
+
+
+
+
+$C1ven abajo
+		el largo sueño acaba
+						 atado a nada
+						 			duplicado como uno
+#PICT 12004
+
+
+
+
+
+
+
+
+$C1ven abajo
+		el largo sueño acaba
+						 atado a nada
+						 			duplicado como uno
+#LOGOFF 1608
+#INTRALEVEL TELEPORT 157
+#ENDTERMINAL 7

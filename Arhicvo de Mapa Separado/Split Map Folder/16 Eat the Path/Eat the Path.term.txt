@@ -1,0 +1,121 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+$C1renaldo.luigi.fxo.1
+#PICT 10401
+$C1Busca el camino correcto en el laberinto, hacia la comida, después encuentra la salida.  Presiona el botón de salida.   Si la comida sabe horrible, no la comas, regresa y busca otro camino.  
+
+Ellos quieren lo mismo que tú, realmente, ellos quieren un camino, justo como tú.  Estás en un laberinto en un laberinto, pero, ¿Cuál vale? Tu laberinto, mi laberinto.  O, ¿son todos el mismo, definidos por los limites de sus caminos?
+
+#PICT 10401
+$C1La existencia es simple: encuentra la comida, presiona el botón, corre en la rueda. 
+
+Pero a veces se vuelve mucho más difícil. A veces la comida te hace enfermar, o puedes escuchar pisadas acercándose, haciéndote correr. A veces el botón sólo te regresa al principio del laberinto otra vez y la comida no te satisface.
+#PICT 10401
+$C1Sólo hay un camino y ese es el camino que tomas, pero puedes tomar más de un camino. 
+
+Cruza sobre las barras de la celda, encuentra un nuevo laberinto, haz el laberinto desde su camino, encuentra las barras de la celda, cruza las barras, encuentra un laberinto, haz el laberinto desde su camino, comete la comida, comete el camino. 
+
+#LOGOFF 1608
+$C13
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C12.1
+#PICT 10520
+$C1Mi cuarto está vacío ahora, los hombres en el pasillo se han ido, reemplazados por el sutil olor a amonio destruyendo la rancidez de hélices dobles a medio comer.  En un plato sobre una mesa frente a mi se encuentra un simple acomodo de zanahorias y espárragos, erigidos como una cabaña.  
+
+Una vela en medio de la mesa redonda ilumina los bordes de la cabaña, un volcán distante arrojando la luz de la naturaleza. Alrededor de los bordes de la flama está la cara de una mujer que me habla de temas de los que debería saber todo.  Por solo un minuto creo que la flama es una metáfora viviente para su alma, después regreso a pensarla como una de las otras estatuas maníacas, brazos, piernas y bocas que se mueven e imitan sin propósito o entendimiento. Cientos de bacterias comiendo en la acera, peleando por procrear.  Me desconcierto cuando la veo darle la vuelta
+#PICT 10520
+$C1al cuchillo en sus manos, revisando su peso y proporciones, y se lo digo. 
+
+Sorprendida, pone el cuchillo de regreso en la mesa, para que descanse bajo el volcán que erupciona en un torrente de cera corriendo un tortuoso camino hacia la hoja.   Un pulso de cera es seguido de otro mientras ella gira la conversación hacia nuestra relación. "Durabilidad" es lo que ella sigue diciendo. La palabra "durabilidad y nuestra relación. 
+
+Alcanzo la hoja y mis dedos se extienden alrededor de la empuñadura.  De nuevo, soy impresionado por un escalofrío.   La cera se cae de la hoja con una simple pasada de mi dedo índice.  "Durabilidad" digo en respuesta. 
+#PICT 10520
+$C1Siento un escalofrío nervioso corriendo por mi espalda al levantar la mirada del cuchillo. Mi ojo para primero en el plato, luego en la piscina de cera que se solidifica en los bordes y finalmente en la cara de esta misteriosa mujer. Ella no se esfuerza en ver a través de la llama y yo tampoco.  La flama de la vela crea una línea perfecta entre los centros de nuestras cabezas.  Me río de la geometría del momento y ella, pensando que me río de su comentario retórico, se ríe en respuesta.
+
+
+#LOGOFF 1608
+$C12.1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1608
+$C13.1
+#PICT 10502
+$C1Me estoy hartando de regresar al hangar noventa y seis, pero no hay forma de evitarlo.  Esto es lo que mi existencia necesita.  Mi existencia es la caída de los brazos y piernas de muchos otros.  El mundo no es un buen lugar, ni tiene inocencia para que me esconda en ella.  Setecientos sesenta y un pares de ojos miran alrededor del cuarto sin objetivo y los míos se unen a la multitud.   Veo estos cuerpos masacrados, inmóviles.  Para toda la masacre aquí, el hedor de la descomposición es inexistente.  
+
+Trato de dar la vuelta. El hangar gira pero nada se mueve y mi visión es la misma. Observo, pero no veo ningún trabajador de saneamiento, respecto a eso, no he visto a las personas en los trajes desde que desaparecieron de mi corredor. 
+
+#LOGOFF 1608
+#INTERLEVEL TELEPORT 29
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1608
+$C13.2
+#PICT 10501
+$C1Me estoy poniendo nervioso porque su voz ahora tiene algo de carga emocional.  “Desde que me compraste esa goma de mascar, en una alondra, he estado enamorada de ti.”
+
+Claro, mi respuesta puede haber parecido algo críptica, "Si no hay justicia, entonces como puede el fin justificar los medios? Toma la cera, por ejemplo, (He empezado a divagar ahora, justo como en el subterráneo, y ella me ve con la misma hostilidad, acercándose al viejo grito poco comunicativo sin significado) cuando la vela se encendió, ¿Sabía que iba a terminar quemándose a la nada y desapareciendo en el aire?   Tú encendiste la vela para obtener luz de ella.   Tu objetivo fue iluminar mis espárragos y zanahorias con esta luz.   Usaste la vela como medio para obtenerlo.   ¿Justifica la luz la destrucción de la
+#PICT 10501
+$C1vela?  ¿Qué es la justificación para un pedazo de cera?  Es la misma justificación que me has dado acerca de esta ‘durabilidad’ y nuestra relación.”
+#LOGOFF 1608
+$C13.2
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1608
+4.0
+#PICT 10504
+$C1Para entonces, ella había movido su cara lejos de la linea que la vela y los centros de nuestras cabezas formaban, y estaba viendo al pasillo de un cine.  Esto es un hecho extraño porque ella nunca se sienta en el pasillo cuando vamos al cine.  Su cabeza se cae del otro lado, aterrizando en mi hombro.  Su desinterés en la película se hace aparente cuando empieza a discutir nuestra relación en un fuerte susurro.
+#PICT 10504
+$C1Sólo soy tan bueno con mi chica como el siguiente chico, pero para ahora estoy aburrido de toda esta charla, así que empiezo a mirar alrededor de la sala sin mover mi hombro demasiado. La parte de atrás de la cabeza frente a mi me recuerda al tipo de la calle, el que me hizo extrañar la vieja presentación de esta película. Sólo que ahora usa un par de gafas de sol y tiene su peluquín de vuelta. 
+#PICT 10504
+$C1Miro detrás de mi, y parece que el chico enfrente mío es la vanguardia de aquellos que van al cine con gafas de sol que parecen estar interesados en susurrar y mirar a su alrededor.   Me recuerda a un campo de tulipanes negros, balanceándose de atrás a adelante en un clamoroso viento.  Sus susurros ganan intensidad, desvaneciendo sus propia charla y las voces de la película, hasta que de una sola vez, mi novia menciona su actual palabrería 'durabilidad'. "Qué pasa contigo y tu durabilidad," la sala se calla con la última sílaba de la palabra.  
+
+#LOGOFF 1608
+4.0
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1608
+4.1
+#PICT 10503
+$C1Bueno, me estoy poniendo un poco nervioso otra vez; es tiempo de irse.  Estoy seguro de que la película no ha terminado.  Todos en la sala empiezan a imitar mi comportamiento, todos los trajes toman sus cosas al mismo tiempo que yo.  Sólo mi novia parece impávida.
+#PICT 10503
+$C1Me pregunto cuánto más continuará esto, así que busco bajo mi asiento, encuentro una goma de mascar, y la pongo debajo de mi lengua.  Recuerda que esta goma ha estado debajo del asiento por incontables generaciones de fanáticos de las películas.  Bastante seguro es que todos esos trajes hayan hecho la misma cosa y estén masticando sus propios pedazos de goma arábiga dura.  Casi empiezo a reírme cuando todos ellos levantan simultáneamente sus mandíbulas, cubriéndolas casi de inmediato con sus zapatos de vinilo negro que, por imposible que parezca, aplanan la goma eterna en manchas que nunca serán removidas de este piso ya manchado de goma.
+#PICT 10503
+$C1No parece tan divertido ahora, porque me he dado cuenta que el patrón que hace la goma en el piso es la forma de las constelaciones de verano, y que cada traje está sentado en un pulsar golpeteando su vibrante mensaje a través de años luz y de la sala a mi cabeza: "Durabilidad". Desearía que mi novia supiera cuando mantener su boca cerrada.
+#PICT 10503
+$C1El diálogo de la película parece poco importante y decido que es tiempo de irnos. Se lo digo, pero ella no parece escucharme.  Su boca está masticando salvajemente una goma,  y entre masticadas, ella comienza a hablarme de nuevo de la 'durabilidad'. Me recuesto y deslizo mi mano a mi bolsillo, palpando el cuchillo. 
+#LOGOFF 1608
+4.1
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1608
+5
+#PICT 11121
+$C1“Bonito cuchillo,” repite algún pequeño mocoso.
+
+Lo miro a la cara y él resopla.   Esos ojos se ven como los de un gato, teniendo el conocimiento universal o la nada, lo que sea que yo decida.   Ahora mismo, sus ojos no tienen nada.   Bailamos la doble hélice y damos paso a un trabajador de saneamiento que empuja una cubeta con ruedas para trapear el lugar donde algún otro mocoso recientemente uso el puño de otro mocoso para intercambiar sus mocos por la sangre que se esparce y embarra sobre sus manos y el suelo. 
+#PICT 11121
+$C1El chico sangriento y su amigo de un sólo puño ya han sido removidos para corrección disciplinaria por uno de los controladores, nuestros amigos para toda la vida que llevan gafas de sol. Aquí en la escuela parecen interesarles únicamente las narices sangrantes, los brazos rotos, el sarampión y los objetos afilados que son lanzados.   De otra forma, permanecen como estatuas impasivas con los pies enterrados en el ambiente anaesceptico en el que se paran, necesitando tan poca atención como una columna blanca en un cuarto totalmente blanco.  
+
+Me parece raro verlos ahora, o verlos en cualquier momento, que ellos sólo reaccionen a nuestras heces, sangre y agonía.   Respondiendo sólo a la angustia, ira o mal comportamiento.   Pero esto se me explicó ese día, incluso si no lo entendí hasta ahora. 
+#PICT 11121
+$C1Me sorprendo cuando el hombre de saneamiento enseñando ese día llevó sus estrechos ojos inclinados hacia donde yo y dice lo que he estado escuchando de las estrellas por lo que parecen años, 'durabilidad'.   Él menciona disciplina y arte, la disciplina es aquella que nos permite practicar nuestro arte.   Durabilidad de nuestras habilidades y disciplina de nuestras destrezas.   Debemos aprender cómo reproducir lo que hacemos y cómo lo hacemos.   Él explica que el artista es más libre de actuar cuando la disciplina le ha enseñado sus destrezas y limitaciones. 
+#LOGOFF 1608
+5
+#ENDTERMINAL 6

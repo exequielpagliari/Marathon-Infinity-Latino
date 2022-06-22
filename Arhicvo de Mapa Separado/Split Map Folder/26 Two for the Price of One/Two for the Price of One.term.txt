@@ -1,0 +1,19 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+ws.com.o.error
+#PICT 11801
+<0x0dff>
+<0x03ef . vacillar>
+
+
+Soy de hecho un asno: puedes probarlo por mis largas orejas. Le he servido desde la hora de mi nacimiento hasta este instante, y no tengo nada en estas manos por mi servicio más que golpes: cuando tengo frio me calienta a golpes, cuando estoy caliente me enfría a golpes. Me despierta con ellos cuando duermo; me levanta con ellos cuando me siento; alejado de las puertas con ellos cuando me voy de casa; recibido en casa con ellos cuando regreso: no, lo llevo sobre mis hombros como un mendigo acostumbra a su mocoso; y creo que, cuando me haya lisiado, se lo rogaré de puerta en puerta.
+
+
+
+$BTransportese cuando esté listo.$b
+#LOGOFF 1603
+activ.scniv
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 0

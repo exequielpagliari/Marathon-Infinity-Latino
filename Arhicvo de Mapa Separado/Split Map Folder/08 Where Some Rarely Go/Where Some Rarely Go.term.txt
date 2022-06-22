@@ -1,0 +1,327 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C3ctranssegur.7
+#PICT 10801
+$C2Estación Perimetral 7AF
+origen: $C6desconocido$C2
+destino: $C6Indeterminado$C2
+ref: $C6Estación Perimetral$C2
+$C3ctranssegur.7
+
+Si hay un codo en la guarnición de Lh'owon, es este. La estación perimetral 7AF está separada del concepto Pfhor de civilización por 200 kilómetros de pantano lleno de suciedad, ahogado con unos miles de F'lckta hambrientos y con muchos años de escombros S'pht. 
+
+También es el hogar de la Unidad Científica, responsable de mantener las instalaciones de tratamiento de agua para el Comando Planetario y todos los asentamientos del este. Mi pequeño grupo de humanos no tienen esperanzas de triunfar a menos de que los rangos Pfhor estén en caos. Hundirlos bajo cinco metros de hierro debería ser suficiente. 
+#PICT 11112
+$C2Estación Perimetral 7AF
+origen: $C6desconocido$C2
+destino: $C6Indeterminado$C2
+ref: $C6Estación Perimetral$C2
+$C3ctranssegur.7
+
+$3CLa base fue establecida muy temprano en la reciente ola de exploración del planeta, pero las operaciones fueron movidas más tarde al norte debido a la alta radiación que interfiere con los transportadores. Los soldados locales están encargados principalmente de exterminar a los F'lckta, quienes defienden sus pantanos ancestrales con una tenacidad agonizante. 
+#PICT 10801
+$C2Estación Perimetral 7AF
+origen: $C6desconocido$C2
+destino: $C6Indeterminado$C2
+ref: $C6Estación Perimetral$C2
+$C3ctranssegur.7
+
+Encuentra una terminal Pfhor con acceso técnico a la planta principal de tratamiento y buscaremos una debilidad. 
+
+Esta plataforma de reabastecimiento es probablemente revisado periódicamente por los Pfhor que viven aquí, así que querrás estar lejos de la intemperie rápido. 
+
+Buena suerte. Transportaré munición cuando pueda, pero tendremos que esparcirla. La nave de reconocimiento notó nuestro truco con la Plataforma Acorazada y se está acercando rápido. Tendré que enseñarle una lección a su capitán. 
+#LOGOFF 1600
+$C3asecurmfeed.7.end
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C3jsecurmfeed.7
+#PICT 11114
+$C3Deberás acceder a todas las terminales en la red local para obtener información en el centro de tratamiento de aguas. 
+
+La nave de reconocimiento fue pan comido, pero tenemos problemas más grandes ahora. Los sensores de largo alcance muestran varios cientos de masas discretas trasladándose al sistema. La Marina Pfhor ha llegado. Otra cosa——He interceptado una señal de la nave de reconocimiento desactivada que me lleva a creer que Tycho está congeniando con los bichos. Ten cuidado.
+#LOGOFF 1600
+$C3csecurefeedm.7
+#END
+#FINISHED
+#LOGON 1600
+$C3asecurkfeedm.7
+#PICT 1604
+$C3Bien hecho.
+
+Me tomará unos cuantos milisegundos analizar los archivos que subías mientras te transportas rio abajo. Entonces aplastarás a la guarnición cuidando  los canales y destruirás el sistema de represas, abriendo camino para mis escuadrones para infiltrar el perímetro defensivo Pfhor. 
+#LOGOFF 1600
+$C3lusecurbonfeed.7
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1617
+$C27AF.eng.comm
+#PICT 10803
+$C2Estación Perimetral 7AF
+origen: $c6Ingeniero de 1a Clase K’all
+destino: $C6Unidad Comando$C2
+ref: $C6Camino Alterno a la Torre de Reabastecimiento 2$C2
+sello: $Irequisición$i
+
+Solicito humildemente el re-abastecimiento de herramientas para los rayos de corte de la Unidad de Ingeniería para completar el proyecto de Camino Alternativo como lo descrito en la propuesta.49AB3
+
+{ error: propuesta.49AB3 no  encontrada }
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Unidad Comando$C2
+destino: $c6Ingeniero de 1a Clase K’all
+ref: $C6Requisición Cutteray Ilegal$C2
+sello: $Ireprimienda$i
+
+$C6{ cmd: adjuntar respuesta }$C2
+
+Solicitud para desviar los recursos de la guarnición para completar una propuesta no aprobada.49AB3 debidamente informado por la Coordinación de Aplicación y el informe se transmitirá al comando de Lh’owon con el paquete de ciclo final.
+
+El ingeniero de 1a Clase K'all está por la presente ordenado a parar la construcción del Camino Alterno a la Torre de Reabastecimiento 2 hasta que el sello: Aprobación sea otorgado por el Comando de Lh'owon. 
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Unidad Comando$C2
+destino: $c6Ingeniero de 1a Clase K’all
+ref: $C6Requisición Cutteray Ilegal$C2
+sello: $Ireprimienda$i
+
+$C6{ cmd: adjuntar respuesta }$C2
+
+El ingeniero de 1a Clase K'all está ordenado por la presente a presentarse a la Unidad de Comando para ser restringido hasta el fin del ciclo de las degradaciones agendadas. 
+
+{ error: propuesta.49AB3 no  encontrada }
+#PICT 11114
+$C2Comando de Lh'owon
+origen: $C6Comando de Lh'owon$C2
+destino: $C6Comando de Unidad Cuarteles Perimetrales 7AF$C2
+ref: $C6Propuesta.49AB3$C2
+sello: $Iaprovación$i
+
+$C6{ cmd: ref adjuntada }$C2
+
+Esto es una aprobación de propuesta.49AB3 para el Camino Alterno a la Torre de Reabastecimiento 2, Cuarteles Perimetrales 7AF. 
+
+{ error: propuesta.49AB3 no  encontrada }
+#PICT 11120
+$C2Estación Perimetral 7AF
+origen: $C6Ingeniero de 3a Clase K'all$C2
+destino: $C6registro personal .49AF4$C2
+ref: $C6Proyecto de Camino Alterno (Aprobado)$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+El Proyecto de Camino Alterno ha sido completado sin el uso de rayos de corte funcionales. Sustitución del personal de la guarnición degradado al Rango Condicionado (ref: psiquiátrico) para trabajar en incrementar la eficacia del proyecto. 
+
+Espero respuesta formal para el reporte de estado del Comando de Unidad antes de abrir camino al personal de la guarnición. 
+{ cmd: descartar propuesta.49AB3 }
+#LOGOFF 1617
+$C2posal.49AB3
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1616
+$C2cmd: Inicio de archivo de registro personal
+#PICT 11118
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6xenomorfo nativo$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+Su ciclo de actividad coincide con el periodo de gestación de sus pequeños, los cuales son gestados en la mandíbula de la criatura por un periodo de 15-19 días locales. Mientras la mandíbula parece tener musculatura vestigial, indicadora de masticado e ingestión forzosa, consistente con un depredador, la molleja termina en un vientre en vez de el tracto digestivo. 
+
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6xenomorfo nativo$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+Como lo indican las observaciones de campo y varios exámenes post-mortem de miembros combatientes del rango Agregado, las criaturas atacan con una garra favorecida. 
+
+La garra y la mandíbula son utilizadas para competencia y demostración territorial, ya que el dominio de una criatura en particular está medida tanto por el tamaño de su territorio y el rango de sus paseos. 
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6xenomorfo nativo$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+Al principio del ciclo de apareamiento, aproximadamente cada 17avo día local, las criaturas liberan una nube de huevos en sus torrentes territoriales y comienzan a moverse por la región circundante, batallando con sus vecinos por pasar.
+
+Cada criatura traga cualquier huevo que encuentre en su camino, con las criaturas más dominantes teniendo acceso a una mayor variedad de huevos. Los huevos son llevados al vientre para fertilización y gestación. 
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6xenomorfo nativo$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+Desafortunadamente no he sido capaz de observar el nacimiento o la forma inmadura de las criaturas, ya que los padres mascan a sus criaturas en vez de llevarlos a termino en los corrales.  
+
+El siguiente periodo de actividad intent...
+
+{ cmd: ... }
+#LOGOFF 1616
+$C2cmd: limpieza de registros personales
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1615
+$C2son 7AF
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Unidad Comando$C2
+destino: $C6Display de Terminal$C2
+ref: $C6Restricción de Agregados$C2
+sello: $Itransmisión$i
+
+Todo el personal de Rango Agregado o menor están restringidos de las siguientes áreas: Ciencia, Ingeniería y Fluvial a menos que estén de guardia. 
+
+Personal de Rango Obediente o mayor son aconsejados a limitar su actividad en el área Fluvial hasta que se complete la Directiva 11 de Reducción de Hostiles y los canales hayan sido esterilizados de bípedos. 
+#PICT 11114
+$C2Estación Perimetral 7AF
+origen: $C6Unidad Comando$C2
+destino: $C6Display de Terminal$C2
+ref: $C6Fin de las degradaciones cíclicas agendadas$C2
+sello: $Itransmisión$i
+
+Es de gran pena y remordimiento que el Comando de Unidad anuncia las siguientes degradaciones agendadas para el fin del ciclo: 
+
+Ingeniero de 1a clase K'all es por la presente degradado a Ingeniero de 3a clase K'all. 
+#LOGOFF 1615
+$C2rega490c.1
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1617
+$C2r290c.29c.1a0z
+#PICT 10802
+$C2archivos internos de unidad(ref: ciencia)
+origen: $C6Unidad de Ingeniería$C2
+destino: $C6Unidad Comando$C2
+ref: $C6Esquemas de control de Tratamiento de Agua19$C2
+sello: $Irecords$i
+
+{ cmd: esquemas adjuntos }
+
+#LOGOFF 1617
+$C2r290c.29c.1a0z
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1617
+$C2co0.2c9vklq
+#PICT 10762
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6Fisiología comparativa$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+Mis repetidas solicitudes de archivos clasificados en la fisiología de la Clase Compiladora (Rango Condicionado) ha sido negadas, al igual que las requisiciones de los bio-componentes encapsulados de los Compiladores, por lo cual he sido forzado a mayor inventiva, como suele serlo el equipo de la Unidad Científica en la Estación Perimetral 7AF. Nuestras solicitudes más criticas son ignoradas por la Unidad de Comando, así que me veo forzado a comandar las unidades Compiladoras locales sin sello: $Iaprobación$i
+#PICT 10761
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6Fisiología comparativa$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+El experimento para extraer el bio componente del exoesqueleto  ha sido un fallo hasta ahora, pues la carcasa robótica es introducida de forma temprana en el crecimiento de la criatura y todos los Compiladores destinados para labores de combate son protegido por una armadura de poder reforzada.
+#PICT 10761
+$C2Estación Perimetral 7AF
+origen: $C6Oficial Científico de 2a Clase St’ngr$C2
+destino: $C6Archivos de registro personal$C2
+ref: $C6Fisiología comparativa$C2
+sello: $Imonitoreado$i
+
+{ cmd: inicio de registro personal }
+
+He canibalizado algunos elevadores y he construido un dispositivo más preciso con el cual aplicar fuerza al exoesqueleto y espero recuperar un bio componente intacto para compararlo con la criatura bipeda nativa. El Oficial Científico de 1a Clase W'rrl (Rango Atento) me ha pedido investigar una hipótesis sobre el parecido en ciertas características básicas a las criaturas Compiladores. 
+
+#LOGOFF 1617
+$C2co0.2c9vklq
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1615
+$C2coexolw.wo395.7af
+#PICT 11114
+$C2Seguridad de la Guarnición
+origen: $C6unidad de Comando$C2
+destino: $C6unidad de transmisiones$C2
+ref: $C6Seguridad de la Guarnición$C2
+sello: $Itransmisión$i
+
+Debido a la proporción de fallo del 35% en las puertas del Área de Guarnición y los continuos ataques nocturnos de los bípedos nativos habitando el Área del Rio, Unidades de Patrulla son por la presente ordenados a asegurar todas las puertas blindadas hasta que se complete la Directiva de Reducción de Hostiles 11 y la completa esterilización de los canales. 
+
+El jefe de intendencia de 5a Clase Ssh'uph(Agregado) ha comenzado a investigar la desaparición de las Unidades Compiladoras Locales. 
+
+#PICT 11114
+$C2Seguridad de la Guarnición
+origen: $C6unidad de Comando$C2
+destino: $C6unidad de transmisiones$C2
+ref: $C6unidades desaparecidas$C2
+sello: $Itransmisión$i
+
+{ aviso de transmisión adjuntado }
+
+Todas las Unidades locales son requeridas a dar aviso de la recompensa de Unidad de 4a Clase requisada para el personal que provea inteligencia pertinente a la localización y recuperación del Combatiente de 3a Clase Jrr'z(Agregado) antes del fin de ciclo.
+
+La Unidad Combatiente de 3a Clase Jrr'z(Agregado) fue vista por ultima vez por la Unidad de Patrulla llevando a cabo exploración visual de aguas profundas de acuerdo a la Directiva de Reconocimiento de Hostiles 4.
+#LOGOFF 1615
+$C2coexolw.wo395.7af
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1617
+$C2codcoe.2wo5.7af
+#PICT 11120
+$C2Comunicado interno de unidad
+origen: $C6Jefe de intendencia de 5a Clase Ssh’uph$C2
+destino: $C6Comando de la Unidad$C2
+ref: $C6Malfuncionamiento del Acceso a la Torre de Reabastecimiento 2$C2
+sello: $Irequisición$i
+
+Esto es para solicitar humildemente maquinaria y conocimientos del Comando de la guarnición para reparar el Mecanismo de la Puerta de Acceso en la Torre de Reabastecimiento 2. Las Unidades Compiladores requisadas del Comando de Lh'owon se han teletransportado de forma inadvertida a la Torre de Reabastecimiento 2 y la han dejado inaccesible. Solicitud previa enviada respetuosamente al Comandante de la Estación Perimetral 7AF de 5a Clase Re'eeer (Atento) antes de su destino final. 
+#PICT 11114
+$C2Comunicado interno de unidad
+origen: $C6unidad de Comando$C2
+destino: $C6Jefe de intendencia de 5a Clase Ssh’uph$C2
+ref: $C6Malfuncionamiento del Acceso a la Torre de Reabastecimiento 2$C2
+sello: $Idefinición$i
+
+{ cmd: respuesta adjunta }
+
+A raíz de la muerte prematura del Comandante de la Antigua Estación Perimetral 7AF de 5a Clase Re’eer (Atento) y en espíritu de renovación para el personal local, la Torre de Reabastecimiento 2 es renombrada desde ahora como Torre Conmemorativa de Reabastecimiento Re'eer en honor de nuestro camarada caído.
+
+#LOGOFF 1617
+$C2codcoe.2wo5.7af
+#ENDTERMINAL 8

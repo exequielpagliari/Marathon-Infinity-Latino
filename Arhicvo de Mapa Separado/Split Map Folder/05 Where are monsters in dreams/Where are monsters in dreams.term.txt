@@ -1,0 +1,46 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+$C11
+#PICT 10501
+
+$C1“Bueno, estaba este cuchillo, más acertadamente descrito como una espada ancha y veo, bueno, paseaba por la calle camino a ver una película y este tipo, sí. Medía unos seis pies con ocho y era enorme. Sostenía este cuchillo, solo para mí, lo describiría como una espada ancha, algo de los Caballeros de la Mesa Redonda. Antes de que puediera abrir la boca, se derrumbó. Mientras tanto, yo apenas podía levantar un dedo para volver a poner el tupé en su cabeza brillante porque estaba temblando demasiado.
+
+Él vomitaba y yo sabía que estaba vivo porque seguía diciendo algo como "durabilidad" entre convulsiones. Lo que sucedió después fue realmente extraño. Ambos extremos de la calle se inundaron de hombres con traje negro, como en una película.
+#PICT 10501
+
+$C1Estos hombres se ven duros y enojados, los ojos detrás de sus gafas de sol probablemente estén  tan fríos como mis manos se están poniendo. Siento que mi corazón se ha detenido, estoy tan jodidamente asustado. En cuanto comienzan a inundar la calle de negro, se mueven con una única voluntad.
+
+Me doy cuenta que de todos modos estoy muerto, así que tomo la espada. La cuchilla está siendo cubierta por su vómito, pero la empuñadura está limpia. Puedo escuchar a los hombres emocionarse, pero no puedo parar. Mis dedos se deslizan alrededor de la empuñadura de cuero que está extrañamente fría...
+#LOGOFF 1608
+$C11
+#END
+#FINISHED
+#LOGON 1608
+$C11.2
+#PICT 10502
+Setecientos sesenta y un cadáveres sin brazos y sin piernas flotan discretamente alrededor del hangar noventa y seis. Digo que son discretos porque son sus brazos y piernas los que me llaman la atención. Hice esto, o podría haberlo detenido. ¿Cuál es? No importa ahora. Hice esto y podría haberlo detenido, pero nada en la naturaleza sigue una curva gaussiana. Claro, te dirán que sí. Dicen que cada cinco minutos alguien muere en un accidente automovilístico, pero, ¿con qué frecuencia hay setecientos sesenta y un cadáveres sin brazos y sin piernas en un hangar?
+#LOGOFF 1608
+$C11.2
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C11.1
+#PICT 10520
+
+
+$C1Estoy en la misma calle, y cuando busco las llaves en mi bolsillo, mis ojos siguen las vetas ennegrecidas de chicle que marcan la acera. El hombre se fue y alguien en saneamiento limpió las apariciones y el vomito con mucha prisa. Me apresuro a bajar las escaleras rumbo al metro, pero mis llaves ya no están en mi bolsillo. Tendré que entrar por la ventana lateral.
+
+La estación de metro está muy brillante y reluciente debido al equipo de saneamiento que ha estado barriendo una franja frente a mí. El piso de concreto está perdiendo años de deslustre, manteniendo solo la capa protectora de las vetas de goma que forman constelaciones en un cielo que de otra forma estaría vacante.
+#PICT 10506
+
+
+$C1El tren llega a tiempo y justo antes que una masa de hombres de traje oscuro que me han estado siguiendo durante lo que parecen años. Entre el saneamiento y los trajes, debo estar volviéndome  daltónico, pero el tren está aquí ahora y esos hombres, no, no me atraparán...
+#LOGOFF 1608
+$C11.1
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 1

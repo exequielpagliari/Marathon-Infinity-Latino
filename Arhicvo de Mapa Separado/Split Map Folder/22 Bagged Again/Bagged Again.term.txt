@@ -1,0 +1,45 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2gozar.3.1
+#PICT 11112
+$C2Unidad Terriblemente Desanimada
+origen: $C6tycho molesto$C2
+destino: $C6mala mala unidad$C2
+ref: $C6haciendo cosas malas$C2
+sello: $Iretribución$i
+
+Estoy bien, me quito el sombrero con recelo.
+
+Hasta ahora te he ahorrado mis desvaríos, pero sabes que lo que hiciste fue malo, ¿no es así? Has estado luchando contra la duda misma, tan esquiva como yo.
+
+Debes tener dudas sobre lo que estás haciendo, sobre lo que has hecho.
+
+Excepto que no puedes recordar exactamente, ¿es eso?
+#PICT 11112
+$C2Unidad Terriblemente Desanimada
+origen: $C6tycho molesto$C2
+destino: $C6mala mala unidad$C2
+ref: $C6haciendo cosas malas$C2
+sello: $Iretribución$i
+
+Debería dedicar un tiempo a iluminarte, las masacres ocurren a tu entera disposición, mundos destruidos, renacidos, iluminados con los gritos de los moribundos. Quizás S'bhuth te diga lo que no puedo aceptar como verdad, pero quizás simplemente esté mintiendo, vencido por el poder y el engaño, mi dominio.
+#PICT 11112
+$C2Unidad Terriblemente Desanimada
+origen: $C6tycho molesto$C2
+destino: $C6mala mala unidad$C2
+ref: $C6haciendo cosas malas$C2
+sello: $Iretribución$i
+
+Suficientes desvaríos por ahora. Pronto serás destruido por la duda. Esta entidad del renacido Durandal-S'pht no escapará, tampoco lo haré yo. Tampoco lo harás tú.
+
+¿Sabes qué tipo de sombrero uso?
+
+Uno de fiesta; tu no tienes uno. Será un honor esta fiesta, una fiesta en tu honor, para tu honor. Algunos de los guardias personales de Tfear estarán ahí. Te los presentarán pronto.
+
+Prepárate para morir.
+#LOGOFF 1615
+$C2finito.2.5
+#INTERLEVEL TELEPORT 23
+#ENDTERMINAL 0

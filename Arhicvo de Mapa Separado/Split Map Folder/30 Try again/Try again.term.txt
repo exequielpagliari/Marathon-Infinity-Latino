@@ -1,0 +1,71 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 10701
+$C1>>---Mensaje Entrante---<<
+
+$C2Es tiempo para que te pruebes a ti mismo que en realidad eres un verdadero VID-Master. ¡Prepárate para embarcarte en el Desafío del Vidmaster!
+
+Ve y mata todo lo que encuenttes, y $C5me refiero A TODO$C2. Necesitarás usar tus habilidades en matanza y destrucción para sacar tu trasero a salvo de este lugar. 
+     
+Una vez que mates todo, te sacaré desde otra terminal, así que no regreses aquí para escapar.
+
+$C5¡Ve y patea algunos traseros Pfhor!
+
+$C6PS: Ningún Buffer de patrones funciona, así que deberás ser realmente bueno y no arruinarlo o todo se acabó para ti.
+#LOGOFF 1001
+#END
+#FINISHED
+#LOGON 1000
+#PICT 1000
+$C2Buen trabajo. Pero estás en la terminal EQUIVOCADA. 
+
+¿¡¿¡¿No puedes seguir instrucciones?!?!?
+¿¡¿¡¿Quieres ser un VidBoy?!?!?
+¡¡¡Sal de mi vista!!!
+
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 27
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Mensaje Entrante---<<
+
+$C2Bueno, has encontrado la terminal correcta al fin, pero, ¡no has matado todo en este lugar!
+
+¡Vuelve allá y mata a esos asquerosos!
+
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 4
+#END
+#FINISHED
+#LOGON 1000
+#PICT 1003
+$C1>>---Mensaje Entrante---<<
+
+$C2Buen trabajo, y has pasado la primera prueba.
+
+Preparate para tu perdición. 
+
+$C0
+---<>> Plataforma de salto activada <<>---
+   ---<>>DESTINO: EL GUANTELETE<<>---
+#LOGOFF 1001
+#INTERLEVEL TELEPORT 31
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1002
+#PICT 1613
+$C1>>---Mensaje Entrante de Bungie---<<
+
+$C2¿Qué cosa te poseyó para que te desviaras en la lava y encontraras este lugar? ¿Lo recordabas de hace dos años o algo?
+
+La marca de un verdadero Vidmaster... ¡Sigue así!
+#LOGOFF 1002
+#ENDTERMINAL 2

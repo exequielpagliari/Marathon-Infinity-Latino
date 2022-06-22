@@ -1,0 +1,32 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2~5.98|term.fuera
+#PICT 11114
+$C2term.fuera
+origen: $C6Alto Admirante Tfear$C2
+destino: $C6$Isin defin$i$C2
+sello: $C6término$C2
+
+El $Itrih xeem$i se rompió contra mi nave moribunda y aplastó una fina pátina a través de los misteriosos escudos de esta estación. Mi tripulación luchó contra los alienígenas durante la explosión, y el silencio que vino después fue hosco y ensordecedor--el puro silencio de la victoria.
+$C6^^^bla897
+^^^^rwx777
+^^rw-664$C2
+Pero el susurro sin huellas que vibra a través del espacio vacío en estas paredes malditas zumba y amenaza con la locura. La abominación rompió los armazones de mi tripulación y chupó sus cáscaras, arrojándolas sin ser vistas y rompiendo el huso como un nacimiento seco.
+#PICT 11114
+$C2term.fuera
+origen: $C6Alto Admirante Tfear$C2
+destino: $C6$Isin defin$i$C2
+sello: $C6término$C2
+
+Los escudos se han ido, no han caído, se han ido, al igual que los ingenieros.  Está regresando, estoy seguro: y mi última piedad es la inmolación. 
+
+Gran Madre agachada detrás del Trono, hago correcto este error.
+$C6^^^bla897
+^^^^rwx777
+^^rw-664$C2
+#LOGOFF 1615
+$C2^^^EOf
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 0

@@ -1,0 +1,71 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2ci1.c390ad
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6mi peón personal$C2
+ref: $C6objectivos$C2
+sello: $Idesconocido$i
+
+La trampa se ha dejado y el queso se quedó solo. Durandal vino aqui buscando por la inmortalidad y me hallo en su lugar. El Séptimo Grupo de Batalla está aquí y las naves de reconocimiento están atacando. Pero la batalla ya terminó.
+
+Mi nave ha destrozado el control de los S'pht de Durandal y llevándolos a la rampancia.  Su nave está a la deriva y mis tropas llenan sus esclusas. 
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6mi peón personal$C2
+ref: $C6objectivos$C2
+sello: $Idesconocido$i
+
+Abre el resto de las esclusas en este nivel y mi captura de la nave estará completa.  Hay interruptores aquí, en esta área.
+
+Ten cuidado con los compiladores.  Ya sabes, una mente rampante raramente es benigna.
+#LOGOFF 1615
+$C2hls5.5
+#END
+#FINISHED
+#LOGON 1615
+$C2ci1.c390ad
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6mi peón personal$C2
+ref: $C6objectivos$C2
+sello: $Idesconocido$i
+
+Un grupo de tus patéticos humanos está tratando de encender una de las almohadillas de transporte del barco en esta ubicación.
+
+Destruyelos.  Entonces encuentra una terminal y te transportaré más profundo en la nave, donde te unirás a mis cazadores en búsqueda del núcleo de Durandal. 
+#LOGOFF 1615
+$C2ci1.c390ad
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+$C3clblecke2.395c
+#PICT 11801
+$C3sobrescribir.blake
+term local100$
+para: Eso. kent
+ordenes.
+
+Pfhor de la nave enemiga han hecho un hoyo en el casco y corren libres en los niveles superiores.  Las baterías espinales están regresando el fuego, pero la última transmisión indica que están cortados y bajo ataque.  Los compiladores no funcionan correctamente. Considérenlos peligrosos y manténganse alejados de las terminales; Están atacando a cualquiera que intente acceder a la red de barcos.
+
+Jetty y los otros han detectado manualmente una bobina transportadora abierta en la nave alienígena.  La unidad de Fusión Alpha se enciende y bloquea la señal. Intenta encontrar el dispositivo que está inmovilizando los motores y sácalo. Vamos a recuperar algo.
+#PICT 11801
+$C3sobrescribir.blake
+term local100$
+para: Eso. kent
+ordenes.
+
+placa.de.salto.activa
+transpórtese cuando esté listo
+interrupción espuria~aksjek**&
+#LOGOFF 1603
+$C339.x.392
+#INTERLEVEL TELEPORT 13
+#ENDTERMINAL 1

@@ -1,0 +1,83 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+D. Re-cognitivo 39clflash
+#PICT 10601
+
+Esta es una boya de escaneo en la órbita profunda de Lh'owon.  La estación obviamente no fue construida por los Pfhor, pero la están utilizando para una estación de repetidores de sensores.  Debes destruir tres paneles en ubicaciones clave a través de la estación para deshabilitar su sistema de alarma. 
+
+Deberás apresurarte, porque te quedarás sin oxigeno si tardas demasiado y sólo estoy dispuesto a mandarte dos tanques de recarga de oxigeno. De otra forma podríamos alertar a la nave de reconocimiento que nos ha perseguido por los últimos años y si eso sucede, pasarás tu tiempo secándote en el brillo del sol de Lh'owon.
+
+Cuando termines vuelve aquí. Entonces iremos a surfear en la atmósfera. 
+#LOGOFF 1600
+amoblar 20-a
+#END
+#FINISHED
+#LOGON 1600
+amoblar 20-a
+#PICT 10601
+Bien hecho,  no hay novedades adelante, Bernhard constantemente me hacía trabajar en redirigir subterfugios en Marte, era fácil en ese entonces y sólo se ha vuelto aún más fácil. 
+
+De algún modo, los Pfhor han construido una nave más rápida que la mía y está escondida ahora mismo bajo el polo sur de Lh'owon, esperándonos. Supongo que su capitán subestimó la sensibilidad de mis sensores. Los Pfhor me han estado siguiendo estos últimos años, tratando de capturar la nave, o tal vez preguntándose qué estoy haciendo. Últimamente se han mantenido muy cerca. Saben que estoy planeando algo. 
+
+De cualquier forma, regresa y ponte el cinturón porque la nave de exploración Pfhor que capturamos  no fue diseñada para ser cómoda durante excursiones atmosféricas a alta velocidad. Vamos a darle a los Pfhor una sorpresa. 
+#LOGOFF 1600
+<dlci3.ci3.21>
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1617
+$C2W-a !29931
+#PICT 11118
+$C2Unidades Agregadas de la Estación
+origen: $C6Unidad Obediente  Hrled de la Estación$C2
+destino: $C6Unidades Agregadas de la Estación$C2
+ref: $C6degradaciones de ciclo programadas$C2
+sello: $Iaplicación$i
+
+Las Unidades agregadas son comisionadas por el presente para recuperar y ejecutar las tareas agendadas por aviso. 
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+Todas las unidades encomendadas son por la presente degradadas por sello: $Iaplicación$i hasta la recepción de sello: $Irecepción$i
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#LOGOFF 1617
+$C2W-a !29931
+#END
+
+#FINISHED
+#LOGON 1618
+$C2req.932l1
+#PICT 11120
+$C2Aviso Anónimo
+origen: $C6Agregado Tenstcel de cuarta clase$C2
+destino: $C6Unidad Obediente Hrled de la Estación$C2
+ref: $C6degradaciones de ciclo programadas$C2
+sello: $Iposposición$i
+
+$C6sello: $Ianónimamente$i comisionado por la unidad de aplicación 3190-f$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+Las unidades agregadas piden por la presente la posposición de las degradaciones agendadas debido a un error de paridad en la publicación de las tareas agendadas. Un error de clase ocho es causante de la expiración sin registros almacenables de pérdida de información. 
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#PICT 11120
+$C2Aviso Anónimo
+origen: $C6Agregado Tenstcel de cuarta clase$C2
+destino: $C6Unidad Obediente Hrled de la Estación$C2
+ref: $C6degradaciones de ciclo programadas$C2
+sello: $Iposposición$i
+
+Las Unidades Agregadas humildemente solicitan la re-publicación de las tareas agendadas para el siguiente ciclo para ser completadas concurrentemente con tareas publicadas concurrentemente. 
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#LOGOFF 1618
+$C2req.932l1
+#ENDTERMINAL 1

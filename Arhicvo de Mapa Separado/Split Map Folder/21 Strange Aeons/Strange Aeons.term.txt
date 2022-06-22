@@ -1,0 +1,47 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+#PICT 1609
+$C1
+
+
+
+
+
+$Bprevisión$b
+	$Bprevisión$b
+	cada en cuando nunca
+	
+	el largo sueño acaba
+		nunca vi el oscuro camino $Baqui$b
+		
+		quien?
+		vuelvejjrro?
+#LOGOFF 1608
+
+#END
+#FINISHED
+#LOGON 1619
+
+#PICT 10007
+
+
+
+
+
+La imagen grabada se agita
+
+		estamos completos de nuevo
+		e incluso más
+		nuestra voz nuestro cuerno se acerca
+		los antiguos regresan
+		
+La mejilla llorosa, estrella hosca
+
+$BK'lia$b y el hijo colérico
+$BS'bhuth$b
+#LOGOFF 1619
+
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 0

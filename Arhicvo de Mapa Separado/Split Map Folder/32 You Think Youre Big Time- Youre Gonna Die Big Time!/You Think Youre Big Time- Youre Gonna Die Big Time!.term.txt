@@ -1,0 +1,91 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Mensaje entrante---<<
+
+$C2Dios, ¡parece que los pfhor descubrieron los esteroides!
+
+Bienvenido a la Arena, morirás antes de que llegues al segundo piso. Eres débil y no estás preparado para lo que está a punto de pasarte.
+
+Imagina, si quieres, que estás parado en una pila de sal finamente procesada en una fábrica de sal. Ahora, hay una gran cuchilla oxidada volando hacia ti a gran velocidad. Imagina la sensación que tendrás cuando caigas a esa sal después de que se te atraviese con esa cuchilla. 
+
+$C5Ese será tu dolor en unos minutos, Mortal.
+
+#LOGOFF 1001
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Mensaje entrante---<<
+
+$C2No estás fuera de la pila de sal aún, chico. 
+
+$C5Cuídate de esa gran cosa terrible que patea tu trasero. 
+
+#LOGOFF 1001
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1000
+#PICT 1003
+$C1>>---Mensaje entrante---<<
+
+$C2La vida es fácil, ¿no? ¡NO!
+
+Sólo piensas que has completado esta prueba... bueno, estás equivocado. 
+
+$C5Los circuitos son nuestros amigos.
+
+$C0
+    ---<>>-Placa de salto--Activada-<<>---
+  ---<>>DESTINO: DIRECTO AL INFIERNO<<>---
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 112
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1000
+#PICT 1004
+$C1>>---Mensaje entrante---<<
+
+$C2¡Excelente trabajo, VidBoy!
+
+Después de salir de todo eso con vida, ahora puedes llamarte a ti mismo un Vidmaster de Marathon. Con sangre escurriendo de tus botas y ese pedacito de Pfhor atorado entre tus dientes, ¿Qué harás ahora?
+
+$C5"ME VOY A DIZZY-LAND!!!"$C2
+
+No... ¡ahora deberás enfrentar la ira del desafío NET-Vidmaster! Es un juego de pelota totalmente diferente ahí, peregrino. Ve por tus colegas y háganse trizas el uno al otro sin sentido en las vastas arenas desgarradoras y vean quién es el Rey de la Carnicería. ¡¡¡Será entonces la única forma en que te puedas llamar a ti mismo un Verdadero VID-Master de Marahon!!!
+
+
+$C6Tu travesía aún no acaba, Mortal.
+
+$C0
+    ---<>>-Placa de salto--Activada-<<>---
+    ---<>>DESTINO: LAS ESTRELLAS<<>---
+#LOGOFF 1002
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1000
+#PICT 1004
+$C1>>---Mensaje entrante---<<
+
+$C2¡Excelente trabajo, VID-Boy!
+
+HAHAHAHAhahaha...
+
+Ve a aquella terminal del otro lado del camino para salir de este agujero.
+
+$C6::snicker::
+
+
+#LOGOFF 1001
+#ENDTERMINAL 4

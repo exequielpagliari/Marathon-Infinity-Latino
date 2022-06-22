@@ -1,0 +1,105 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+
+#PICT 11801
+
+
+
+
+Equipos de asalto Pfhor han entrado en la base.
+Todo el personal tiene ordenes de retirarse por los túneles y reagruparse en
+el borde oeste del cráter. 
+
+Eliminen a los cautivos y destruyan munición que pueda caer en manos enemigas.
+#LOGOFF 1603
+$C3conexión.reestablecida
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+$C3term.salto7a
+#PICT 11802
+
+
+
+
+$C3terminal de salto7a
+clave de autorización requerida
+transportes prioritarios solamente
+prohibidos sellos magnéticos y bobinas 
+
+observar silencio radial en todo momento
+...
+#LOGOFF 1603
+$C3mejora.salto7a
+#INTRALEVEL TELEPORT 264
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1603
+$C3term.salto7b
+#PICT 11802
+
+
+
+
+$C3terminal salto7b
+clave de autorización requerida
+transportes prioritarios solamente
+prohibidos sellos magnéticos y bobinas 
+
+observar silencio radial en todo momento
+...
+#LOGOFF 1603
+$C3mejora.salto7b
+#INTRALEVEL TELEPORT 167
+#END
+
+
+
+#FINISHED
+#LOGON 1603
+$C3term.salto7c
+#PICT 11803
+$C3terminal salto7c
+clave de autorización requerida
+transportes prioritarios solamente
+prohibidos sellos magnéticos y bobinas 
+
+observar silencio radial en todo momento
+...
+#LOGOFF 1603
+$C3mejora.salto7c
+#INTRALEVEL TELEPORT 493
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1605
+$C2manej.remoto
+#PICT 11112
+$C2unidad condicionada rebelde
+origen: $C6Alto Admirante Tfear (Comando)$C2
+destino: $C6unidad condicionada rebelde$C2
+ref: $C6genocidio$C2
+sello: $Iclemencia$i
+
+Muy sorprendente. La función primaria de la inteligencia es la subordinación de nuestros deseos instintivos, la marca de una especie fuerte. Lo cual es el por qué tu especie servirá bien a las necesidades del Criadero de La Última. La Última tiene una inteligencia tan vasta que abarca el alcance del Pfhor y para aquellos, el privilegio de servirle parece una locura. Esa es la función final del Rango de Comando, el pensamiento que mantenemos por siempre en nuestras mentes, que negamos nuestras egoístas, voluntarias necesidades, para que el Imperio sobreviva.
+#PICT 11112
+$C2unidad condicionada rebelde
+origen: $C6Alto Admirante Tfear (Comando)$C2
+destino: $C6unidad condicionada rebelde$C2
+ref: $C6genocidio$C2
+sello: $Iclemencia$i
+
+Los humanos están escapando a través del cono del volcán, donde ellos han activado campos de contención para suprimir el flujo de lava. Sólo quiero aislarlos para que puedan ser capturados, para tener largas y útiles vidas en los rangos condicionados.
+
+Los campos de contención están encendidos por múltiples fuentes redundantes a lo largo del cono. Tendrás que desactivarlas todas. 
+#LOGOFF 1605
+$C2
+#INTERLEVEL TELEPORT 19
+#ENDTERMINAL 3

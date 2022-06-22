@@ -1,0 +1,22 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Mensaje Entrante---<<
+$C2Ah, así que, ¿crees que eres el mejor por pasar la primera prueba, eh? Bueno, seguramente ¡MORIRÁS AHORA!
+Esta prueba es fácil, llega al fin del Guantelete, así de simple.
+     
+No pienses en apoyarte en el piso, porque no te ayudará un poco. 
+$C5¡CORRE, CORRE POR TU VIDA! JAJAja...
+$C0---<>> Plataforma de salto activada <<>---
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 25
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#INTERLEVEL TELEPORT 32
+#ENDTERMINAL 2

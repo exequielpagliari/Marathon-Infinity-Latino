@@ -1,0 +1,20 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1619
+#PICT 10007
+
+
+
+$C1$Bel duro camino del pensamiento$b
+
+[o..s%^^66
+(k33)oee.*
+$Btu yo anteriror 		destruido$b
+
+el camino de los sueños facilitado
+
+hacia el centro aplastante
+			y perdonado de la danza de la eternidad
+#LOGOFF 1619
+#ENDTERMINAL 0

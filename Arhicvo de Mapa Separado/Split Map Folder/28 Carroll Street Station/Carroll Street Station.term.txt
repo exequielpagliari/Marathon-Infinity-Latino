@@ -1,0 +1,28 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1619
+haga.kure
+#PICT 10007
+punto oscuro no buscado
+	inesperado vino		tácito
+	
+maldijo			lamaldi		cióndelosmaldi tos
+malditos los malditos
+		y puros por igual.
+		
+	polvo justo de k'lia 
+	hogar perdido de nuevo perdido y perdido
+		retorciéndose los		niños
+				de los niños niños
+				
+desaparecidos del plan
+en					una silen	ciosa 			mirada
+
+mi última línea escrita
+
+		mi ultimo pensamiento			¡mío!
+#LOGOFF 1619
+<>
+#INTERLEVEL TELEPORT 12
+#ENDTERMINAL 0

@@ -1,0 +1,72 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2ent.ra
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6mi peón personal$C2
+ref: $C6desobediencia$C2
+sello: $Itemperamental$i
+
+Pero, ¿Qué crees que estás haciendo?
+
+Tu utilidad ha llegado a un final prematuro——¿Piensas que puedes desafiarme? ¿Ahora, que estoy tan cerca de la victoria?  Las defensas de Durandal se caen alrededor de él.  El orgullo se cae fuerte, el brillante hijo de Bernhard se muere. Sus S'pht están rampantes, alimentaban la quimera de su esperanza, un espolón de plomo caliente que goteaba en la garganta de su nave. Mira a tu alrededor. Mis compiladores lo tienen retorciéndose como una garrapata en un alfiler.
+#PICT 11112
+$C2unidad condicionada
+origen: $C6Mercenario Mecanizado Tycho$C2
+destino: $C6mi peón personal$C2
+ref: $C6desobediencia$C2
+sello: $Itemperamental$i
+
+¿Y de ti? No es el respeto agradecido que tan bien merezco, ¿no es así? En cambio, la traición de base, aspecto cruel de tu espantoso maestro, convertida en falta.
+
+Preparate para beber vacío, idiota.
+
+#LOGOFF 1605
+$C2d.ondwn4
+#INTRALEVEL TELEPORT 310
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+entiende.cumple
+#PICT 11112
+^^Qcarga piqueff(d03)
+^descambi%secular{derecho}
+Gracias, viejo amigo. O amigo de un amigo, cómo sea el caso. Los Pfhor tendrán su venganza al final, pero al precio de su propia humillación. El Séptimo Grupo de Batalla  se lamentará el día en que sus Comandantes entregaron sus naves a Lh'owon. Debo salvar algún escape para los humanos luchando en mi nave, pero no tiene caso sin los S'pht.
+
+Destruye tantos compiladores Pfhor en esta cubierta como puedas--cualquier cosa para debilitar su poder en mi nave. 
+
+Transportaré tanta munición y armas como pueda encontrar.
+#LOGOFF 1600
+noestandar.rep
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1605
+uh, huh huh
+#PICT 11112
+greg k tiene axilas muy apestosas en la noche
+olor inmortalizado en verde
+
+c.
+$C2
+#LOGOFF 1605
+um, seh.
+#END
+#FINISHED
+#LOGON 1600
+&%wk5.003
+#PICT 11112
+$C2El líder de los humanos, Robert Blake, llegó a la superficie con algunos cientos de tropas que están aisladas en mi núcleo.
+
+
+No lo dejes ganar.
+#LOGOFF 1600
+mimir.seg
+#INTERLEVEL TELEPORT 14
+#ENDTERMINAL 2

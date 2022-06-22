@@ -1,0 +1,19 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+$C3fatlin.3a
+#PICT 11801
+$C3Soy Arther Frain, Oficial Jefe Maestro, USEC Marathon.
+Arther Frain llamando a todo el personal USEC
+Llamando a comandante Robert Blake...
+Llamando a Jefe de Seguridad Jones...
+Arther Frain llamando a cualquier nave controlada por USEC en la vecinidad...
+Casco de la estación roto, perdemos presurización.  Más de la mitad de los hombres no tienen trajes de vacío.  Las patrullas reportan un intruso, última ubicación desconocida.
+Cualquier nave controlada por USEC que haya sobrevivido al evento de nova, transporténse cuando estén listos. 
+Arther Frain llamando.
+Eso es todo...
+#LOGOFF 1603
+$C3purga.3a
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 0

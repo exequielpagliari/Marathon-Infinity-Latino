@@ -1,0 +1,20 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1602
+$C2111.supervisión de comando
+#PICT 1612
+$C2111.supervisión de comando
+unidades entrenando
+origen: $C6Alto comando Tfear$C2
+destino: mercenarios no-glandulados reclutados
+ref: Arena del Mundo Robot
+año17 ciclo1 día1 4a fase
+sello: $ITerminación$i
+
+Todos los mercenarios no-glandulados reclutados que ahora se desempeñan en ejercicios de entrenamiento están ordenados ahora y para siempre a desistir. Las actividades previamente mencionadas han resultado en daños deficientes en costo a las áreas de entrenamiento.
+
+#LOGOFF 1602
+$C2111.supervisión de comando
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 0

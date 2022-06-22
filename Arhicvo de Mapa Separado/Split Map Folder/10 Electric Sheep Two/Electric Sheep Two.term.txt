@@ -1,0 +1,26 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1619
+#PICT 10007
+
+
+
+$C1la via crece
+						tenue
+
+$Bcaos hambriento acecha$b tras la
+brillante corona
+
+sueña delante más allá del camino que cae
+un millón de S'pht yacen aún sin nacer
+
+nuestra propia $Bmuerte predicha$b
+
+$Btu oscura mente cortando a través$b
+del profundo cielo
+
+otro tiempo
+otro tiempo
+#LOGOFF 1619
+#ENDTERMINAL 0

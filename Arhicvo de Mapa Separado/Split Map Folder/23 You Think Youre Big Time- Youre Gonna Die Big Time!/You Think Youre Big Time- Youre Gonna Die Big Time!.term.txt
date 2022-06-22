@@ -1,0 +1,187 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+declinar.descifrar.decadencia
+#PICT 10007
+[4                                                               l9c
+
+                          $B11$b
+
+$Bdejado atrás por uno y uno$b                $C2&ci1lc$C0
+
+$Bnuevo rampante llegas$b
+
+destino brillante luz oscura$B
+
+duda, miedo todo junto$b
+
+somos renacidos
+
+tu y nosotros somos uno
+                                                    n %
+#LOGOFF 1608
+linea.cifrado.cadencia
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1615
+$C2dciel1cb1
+#PICT 11114
+$C2unidades victoriosas
+origen: $C6desconocido$C2
+destino: $C6unidades gladiadoras$C2
+ref: $C6unidades victoriosas$C2
+
+$C6Terminal referente a6 inter$C2$Bfer$bencia
+$C0demandando anulación
+
+Los pfhor han descubierto nuestro renacimiento, hemos contactado a S'boath.
+
+Los S'pht'Kr llegarán en un momento, con toda su venganza, y los Pfhor pronto estarán presionados a usar el $Itrih xeem$i.  S'bhuth sólo conoce leyendas sobre los W’rkncacnter, prisoneros en el sol de Lh'owon.  Si se permite a los Pfhor usar el $Itrih xeem$i, los W’rkncacnter escaparán de su prisión de gravedad.  
+#PICT 11114
+$C2unidades victoriosas
+origen: $C6desconocido$C2
+destino: $C6unidades gladiadoras$C2
+ref: $C6unidades victoriosas$C2
+
+$C6Terminal referente a6 inter$C2$Bfer$bencia
+$C0demandando anulación
+
+De acuerdo a las leyendas de mil mundos de los cuales unos cuantos aún son habitables, los W'rkncacnter son esas cosas que viven en caos, creándolo a su alrededor. Al principio del universo, eran inconfundibles en sus entidades, pero conforme ha pasado el tiempo, su existencia se ha vuelto difícil de detectar entre los elementos caóticos del universo, escondidos en estrellas, atrapados en tormentas, por siempre mirando entre el horizonte de eventos de los agujeros negros. Liberar a uno en el espacio ordenado es difícil y una locura. 
+#PICT 11114
+$C2unidades victoriosas
+origen: $C6desconocido$C2
+destino: $C6unidades gladiadoras$C2
+ref: $C6unidades victoriosas$C2
+
+$C6Terminal referente a6 inter$C2$Bfer$bencia
+$C0demandando anulación
+
+Claro que los Pfhor no tienen idea de lo que están a punto de hacer, incluso Tfear estaría poco dispuesto a liberar algo tan destructivo que su mito ha sobrevivido por la galaxia por más de sesenta millones de años. 
+
+Para detener a los Pfhor de su locura y nuestra perdición, debes activar la antigua estación que Yrro uso eones atrás para atrapar a los W'rkncacnter. Si podemos activarlo a tiempo, aplastará la flota Pfhor antes de que seamos destruidos todos. 
+#LOGOFF 1615
+$C2dciel1cb1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1615
+$C2Ivnciecatn
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+Todas las unidades observando la destrucción de la unidad condicionada que escapó se abstendrán de participar en actividades violentas contra los participantes, con o sin glándulas. 
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Cualquier unidad participando en combate no autorizado será ejecutada y todas las apuestas hechas por dicha unidad serán confiscadas sobre recibo por el Alto Comando.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+Todos los apostadores también harán un honorable y específico depósito de cuarenta y tres por ciento al Alto Comando.  Cualquier unidad que se encuentre en desobediencia o no esté apostando será degradado en clase y rango.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+$Binterrupción.re$bm`~ota
+$C0
+
+K'lia ha entrado en el sistema y se mueve a orbita.
+
+La flota Pfhor está desordenada y Tfear ha desplegado el  $Itrih xeem$i, moviendo su nave capital a abordar la estación Yrro.
+
+Tienes que ayudar a los  S'pht'kr a activar su arma antigua, antes de que los Pfhor usen su nova temprana y desaten a los W’rkncacnter sobre nosotros.
+#LOGOFF 1615
+$C2wgrnc.q23
+#INTERLEVEL TELEPORT 24
+#END
+
+#FINISHED
+#LOGON 1615
+$C2tranceol
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+Todas las unidades observando la destrucción de la unidad condicionada que escapó se abstendrán de participar en actividades violentas contra los participantes, con o sin glándulas. 
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Cualquier unidad participando en combate no autorizado será ejecutada y todas las apuestas hechas por dicha unidad serán confiscadas sobre recibo por el Alto Comando.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6espe
+
+$C0Hemos encontrado algunas armas para que uses. 
+
+#LOGOFF 1615
+$C2tranceol
+#INTRALEVEL TELEPORT 112
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1615
+$C2Ivnciecatn
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+Todas las unidades observando la destrucción de la unidad condicionada que escapó se abstendrán de participar en actividades violentas contra los participantes, con o sin glándulas. 
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Cualquier unidad participando en combate no autorizado será ejecutada y todas las apuestas hechas por dicha unidad serán confiscadas sobre recibo por el Alto Comando.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+Todos los apostadores también harán un honorable y específico depósito de cuarenta y tres por ciento al Alto Comando.  Cualquier unidad que se encuentre en desobediencia o no esté apostando será degradado en clase y rango.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2protocolo de espectador
+origen: $C6Comando de Tfear$C2
+destino: $C6Unidades espectando$C2
+ref: $C6protocolo de espectador$C2
+
+$Binterrupción.re$bm`~ota
+$C0
+
+K'lia ha entrado en el sistema y se mueve a orbita.
+
+La flota Pfhor está desordenada y Tfear ha desplegado el  $Itrih xeem$i, moviendo su nave capital a abordar la estación Yrro.
+
+Tienes que ayudar a los S'pht K'rr a activar su arma antigua, antes de que los Pfhor usen su nova temprana y desaten a los W’rkncacnter sobre todos nosotros.
+#LOGOFF 1615
+$C2wgrnc.q23
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 3
