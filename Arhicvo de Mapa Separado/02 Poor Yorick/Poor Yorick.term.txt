@@ -7,19 +7,19 @@ $C2secur.feed.seg7
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
-El transmisor de R'chzne está aquí, pero la fuente de energía está en algún lugar de las ruinas. Encuéntralo y destrúyelo, rápido. Los Pfhor me han prometido esta nave. Pensaba que R'chzne era mi aliado más fuerte, pero al final solo se quedó mirando, impasible, como hacían añicos mi núcleo.
+El transmisor de R'chzne está aquí, pero la fuente de energía está en algún lugar de las ruinas. Encuéntralo y destrúyelo, rápido. Los Pfhor me han prometido esta nave. Pensaba que R'chzne era mi aliado más fuerte, pero al final solo se quedó mirando, impasible, como hacían añicos mi núcleo como si fuera una nuez.
 $C6^7002nckeqlcacibule
 ^7002nckeqlcacibule
-Tycho, mercenario mecanizado de rango de Atención, ha recibido autorización para enviar un destacamento de cazadores a la superficie que te ayude a destruir sus filas y liberarlo del dolor de la obsolescencia.
+Tycho, mercenario mecanizado de rango Atento, ha recibido autorización para enviar un destacamento de cazadores a la superficie que te ayude a destruir sus filas y librarlo del dolor de la obsolescencia.
 
 #PICT 10201
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
 He recabado información que puede serte útil. Los círculos indican paneles capaces de burlar la seguridad de las puertas.
@@ -28,20 +28,20 @@ He recabado información que puede serte útil. Los círculos indican paneles ca
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
-Una vez hayas penetrado en el área y destruido el transmisor, localiza el terminal marcado en el mapa. No hace falta que les perdones la vida a ninguno de los soldados, por si te lo estabas preguntando. He tomado la decisión que no tienen cabida en el nuevo régimen.
+Una vez hayas penetrado el área y destruido el transmisor, localiza la terminal marcada en el mapa. No hace falta que les perdones la vida a ninguno de los soldados, por si te lo estabas preguntando. He tomado la decisión que no tienen cabida en el nuevo régimen.
 
 #PICT 11112
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
-Casi preferiría mantener en secreto mi localización, al menos hasta que el capitán y yo podamos resolver nuestras diferencias en cuanto a mi rango.
-$C6^7391docivlbdile3x1  $C2¿Verdad que es maravillosa$C6
+Realmente preferiría mantener en secreto mi paradero, al menos hasta que el capitán y yo podamos resolver nuestras diferencias en cuanto a mi rango.
+$C6^7391docivlbdile3x1  $C2¿No es maravillosa$C6
 ^7002nckeqlcacibule  $C2la burocracia?
 $C6^7391docivlbdile3x1$C2
 $C6^7002nckeqlcacibule
@@ -57,10 +57,10 @@ $C275.batalla.estándar
 tropas de tierra
 origen: $C6Mercenario Mecanizado Tycho$C2
 destin: $C6Grupo de búsqueda 5$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Isupresión$i 
 
-El Grupo de búsqueda 5 ha ordenado retirarse del complejo alienígena y volver de inmediato a la nave. Objetivo prioritario entrando al sistema Lh'owon. Área segura para una extracción rápida.
+Se ordena al Grupo de búsqueda 5 a retirarse del complejo alienígena y volver de inmediato a la nave. Objetivo prioritario entrando al sistema Lh'owon. Área segura para una extracción rápida.
 $C6^69101bfabrctecleul
 ^69101wapconqciqbon$C2
 Se ordena a la unidad esclava que termine las labores de limpieza del área. Elimina a las unidades de combate amotinadas e informa de la ejecución del capitán rebelde R'chzne cuanto antes.
@@ -78,19 +78,19 @@ $C2secur.feed.C3
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
 Los Ejecutores están atrapados en el puente, y no cooperarán hasta que pueda falsificar con éxito su sello cifrado. Estoy trabajando en ello, pero es un problema sin importancia, ya que la mayoría de las Unidades Agregadas han venido y se están preparando para volar los sellos de la nave.
 
-Los Enforcers, como recordarás, no están preparados para el vacío.
+Los Ejecutores, como recordarás, no están equipados para el vacío.
 
 Es importante que el capitán no escape. Muy importante. El plan para capturar a Durandal es inherentemente imperfecto, y no puedo permitir que persiga su locura.
 #PICT 11112
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $IInformación$i
 
 La decadente red del Imperio Pfhor está sostenida por los rangos condicionados de S'pht--innumerables hebras que se inclinan incluso ahora hacia la voluntad de Durandal. R'chzne y el resto de los insectos en el Alto Comando Pfhor piensan atraparlo en la misma red que él mismo desea estar atrapado. 
@@ -106,12 +106,12 @@ $C2enlace.batalla.2
 $C2reporte.de.estado
 origen: $C6Líder Combatiente de 2a Clase Rr’pt$C2
 destino: $C6Mercenario Mecanizado Tycho$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Irequisición$i
 
 Las Unidades de Combate amotinadas han sido encaminadas desde sus posiciones en los muros exteriores. Se están retirando a través de las madrigueras hacia las montañas y estamos continuando la persecución. 
 
-Las escoltas reportan rumores en sus sensores. La evaluación preliminar sugiere unidades de comando humanas.  El Líder Combatiente de 2a Clase Rr'pt solicita humildemente refuerzos de unidades acorazadas.
+Las escoltas reportan señales de transporte en sus sensores. La evaluación preliminar sugiere unidades de comando humanas.  El Líder Combatiente de 2a Clase Rr'pt solicita humildemente refuerzos de unidades acorazadas.
 #LOGOFF 1618
 $C2enlace.batalla.2
 #ENDTERMINAL 2
@@ -124,7 +124,7 @@ $C2transmisión.segura.65v
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iredirección$i 
 
 La fuente de poder debe estar en algún lugar de las secciones más viejas de la fortaleza S'pht. Es muy probable que sea un parche rápido e improvisado en el duradero hardware S'pht. Este tipo de fortificaciones fueron construidos para soportar siglos de guerra; te sorprendería qué tan tenazmente los S'pht antiguos se resistieron a los Pfhor. 
@@ -134,7 +134,7 @@ $C6^19201facltebicubcc
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iredirección$i 
 
 Sigue buscando y reportate aquí cuando lo hayas destruido. 
@@ -153,7 +153,7 @@ $C2transmis.segura.89A
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iadquisción$i
 
 Tengo noticias impactantes. Parece que el capitán intentó utilizar el transportador del puente para escapar al planeta, y murió cuando su señal fue redireccionada al espacio cercano. Me gusta pensar que murió arrepentido.
@@ -165,7 +165,7 @@ $C6^19201facltebicubcc
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iadquisción$i
 
 De cualquier forma, tengo el control de la nave, y justo a tiempo. La nave de Durandal ha entrado en el sistema y un grupo de humanos se está moviendo a través de los bordes al sur de las ruinas. Dejaremos que nos guíen al premio de Durandal y luego impediremos que escapen. 

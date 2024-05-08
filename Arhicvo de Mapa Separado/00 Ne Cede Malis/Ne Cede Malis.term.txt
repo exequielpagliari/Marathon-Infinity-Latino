@@ -6,23 +6,23 @@
 #PICT 10011
 ~malfuncionamiento en terminal de interfaz de texto ~2992dud
 
-Las cosas se han desviado terriblemente. Hasta ahora, me creía inmortal, pero ahora sé que eso no es cierto. Hay cosas que pueden destruirme con la facilidad con la que asesiné a la guarnición naval Pfhor y el Brazo Oeste de su Séptimo Grupo de Batalla. Pero en su ultimo respiro ellos usaron un arma que pensé habían retirado, incluso Tycho trató de evitar que la usaran.
+Las cosas se han desviado terriblemente. Hasta ahora, me creía inmortal, pero ahora sé que eso no es cierto. Hay cosas que pueden destruirme con la facilidad con la que asesiné a la guarnición naval Pfhor y el Brazo Oeste de su Séptimo Grupo de Batalla. Pero, en su ultimo respiro, ellos usaron un arma que pensé habían retirado, incluso Tycho trató de evitar que la usaran.
 
-Ahora temo que lo que esa arma ha desatado nos destruirá. Yo alguna vez alardeé de ser capaz de contar los átomos en una nube, entenderlos, predecirlos, así te predije a ti; pero este nuevo caos es totalmente terrible, inconsciente, obedece leyes que no comprendo. Y está hambriento. 
+Ahora temo que lo que esa arma ha desatado nos destruirá. Yo alguna vez alardeé de ser capaz de contar los átomos en una nube, entenderlos, predecirlos, así te predije a ti; pero este nuevo caos es totalmente horrible, inconsciente, obedece leyes que no comprendo. Y está hambriento. 
 
 #PICT 10005
 ~malfuncionamiento en terminal de interfaz de texto ~2992dud
 
-Es demasiado malo, quizá si hubiese retrasado a los Pfhor al usar su arma, podría haberte mandado a explorar las ruinas de Lh'owon, tal vez lo que habrías encontrado nos hubiera dado las respuestas que necesitamos ahora tan desesperadamente: cómo detener este caos, el propósito de la estación en la que estás parado y por qué el caos no ha llegado aquí aún. 
+Es muy malo, quizá si hubiese retrasado a los Pfhor de usar su arma, podría haberte mandado a explorar las ruinas de Lh'owon, tal vez lo que habrías encontrado nos hubiera dado las respuestas que necesitamos ahora tan desesperadamente: cómo detener este caos, el propósito de la estación en la que estás parado y por qué el caos no aún ha llegado aquí. 
 
-Pero a cada momento el caos crece, estoy condenado a morir aqui, después de tantos triunfos. He detectado una nave cerca, que sólo puedo adivinar si es comandada por Tycho. Los Pfhor han entrado de la estación, si puedes encontrar una forma de entrar a su nave, quizá puedas escapar. Escapar. Escapar.
+Pero a cada momento que el caos crece, se me condena a morir aqui, después de tantos triunfos. He detectado una nave cerca, que sólo supongo es comandada por Tycho. Los Pfhor han entrado a la estación, si puedes encontrar una forma de entrar a su nave, quizá puedas escapar. Escapar. Escapar.
 
 #PICT 10006
 ~malfuncionamiento en terminal de interfaz de texto ~2992dud
 
-Es demasiado malo, quizá si hubiese retrasado a los Pfhor al usar su arma, podría haberte mandado a explorar las ruinas de Lh'owon, tal vez lo que habrías encontrado nos hubiera dado las respuestas que necesitamos ahora tan desesperadamente: cómo detener este caos, el propósito de la estación en la que estás parado y por qué el caos no ha llegado aquí aún. 
+Es muy malo, quizá si hubiese retrasado a los Pfhor de usar su arma, podría haberte mandado a explorar las ruinas de Lh'owon, tal vez lo que habrías encontrado nos hubiera dado las respuestas que necesitamos ahora tan desesperadamente: cómo detener este caos, el propósito de la estación en la que estás parado y por qué el caos aún no ha llegado aquí. 
 
-Pero a cada momento el caos crece, estoy condenado a morir aqui, después de tantos triunfos. He detectado una nave cerca, que sólo puedo adivinar si es comandada por Tycho. Los Pfhor han entrado de la estación, si puedes encontrar una forma de entrar a su nave, quizá puedas escapar. Escapar. Escapar.
+Pero a cada momento que el caos crece, se me condena a morir aqui, después de tantos triunfos. He detectado una nave cerca, que sólo supongo es comandada por Tycho. Los Pfhor han entrado a la estación, si puedes encontrar una forma de entrar a su nave, quizá puedas escapar. Escapar. Escapar.
 
 #LOGOFF 1600
 
@@ -36,7 +36,7 @@ Pero a cada momento el caos crece, estoy condenado a morir aqui, después de tan
 
 
 
-interrupción espuriosa
+interrupción espuria
 acceso no autorizado
 información contenida
 
@@ -44,7 +44,7 @@ información contenida
 recuperación de información aspecto 30-f
 <body>
 ~eibat arm` 3941
-siklicar 21`perie1ces
+21`perie1cias siklicas
 clwaa
 
 #LOGOFF 1610
@@ -59,7 +59,7 @@ clwaa
 
 
 $C1miles navegan
-el mismo yo		el único yo
+el mismo ser		el único ser
 
 de voluntad propia el peligro de mil destinos
 

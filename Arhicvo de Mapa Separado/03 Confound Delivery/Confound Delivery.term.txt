@@ -7,7 +7,7 @@ $C2seg.alimentación.remota1
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
 Mis cazadores rastrearon al grupo principal de humanos hasta un área inundada debajo del complejo, donde intentaban activar una antigua IA S'pht. Nunca volvieron a la superficie.
@@ -21,18 +21,18 @@ $C6^4910mllykttyizarat
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-Mi nave está a la deriva. Tuve la ventaja de la sorpresa, pero las armas de Durandal me paralizaron antes de que pudiéramos estar al alcance. Aunque le envié un mensaje que no podrá resistir, algo que solo nosotros tres entenderíamos.Leela merecía lo que tenía, y él también.
+Mi nave está a la deriva. Tuve la ventaja de la sorpresa, pero las armas de Durandal me paralizaron antes de que estuviera al alcance. Le envié un mensaje que no podrá resistir, algo que solo nosotros tres entenderíamos. Leela merecía lo que lo que le pasó, y él también lo merece.
 #PICT 10301
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-Se útil. Hay dos interruptores cerca de su ubicación actual. Ambos abren grandes puertas, que supongo que son compuertas, aunque su ubicación es extraña. Entra en las zonas inundadas y accede a la IA S'pht. Mis cazadores informan que los humanos pueden haber sido parcialmente exitosos. Nada puede dejarse al azar. Lo tengo ahora.
+Se útil. Hay dos interruptores cerca de tu ubicación actual. Ambos abren grandes puertas, que supongo que son compuertas, aunque su ubicación es extraña. Entra en las zonas inundadas y accede a la IA S'pht. Mis cazadores informan que los humanos pueden haber sido parcialmente exitosos. Nada puede dejarse al azar. Ya lo tengo.
 #LOGOFF 1605
 $C2seg.purga1
 #ENDTERMINAL 0
@@ -50,17 +50,17 @@ $C5esta terminal apesta
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1605
-$C2alimentación.seguridad.4A
+$C2alimentación.segur.4A
 #PICT 11112
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-No has encontrado la ubicación de la IA de S’pht, ¿verdad? Y sin embargo, prueba muy bien la resolución de problemas y la intuición. Recuérdame que hayas ingresado para la próxima ronda de ejecuciones programadas.
+No has encontrado la ubicación de la IA de S’pht, ¿verdad?. Y sin embargo, das buenos resultados en resolución de problemas e intuición. Recuérdame ingresarte a la próxima ronda programada de ejecuciones.
 
-Explora el interior de la fortaleza e informarme aquí cuando haya completado tu investigación. Y no me molestes de nuevo.
+Explora el interior de la fortaleza e infórmame aquí cuando hayas completado tu investigación. Y no me molestes de nuevo.
 $C6^38111fndsftcnscns
 ^38111embcrdbrdsid
 ^38111fndsftcnscns
@@ -69,44 +69,44 @@ $C6^38111fndsftcnscns
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-¿Tienes idea de lo complicado que es replicar con éxito los sellos de comando de más de cien oficiales fallecidos? Sin mencionar los activadores persuasivos de un conjunto de glándulas de control parcialmente aplastadas.
+¿Tienes idea de lo complicado que es replicar con éxito los sellos de comando de más de cien oficiales fallecidos? Sin mencionar persuadir activadores desde un conjunto de glándulas de control parcialmente aplastadas.
 
-Todo esto mientras estás encerrado en un combate mortal con la segunda Inteligencia Artificial más brillante de la galaxia. Qué emción.
+Todo esto mientras estás atorado en un combate mortal con la segunda Inteligencia Artificial más brillante de la galaxia. Qué emción.
 $C6^38111fndsftcnscns  $C2ahora
-$C6^38111embcrdbrdsid  $C2golpea
-$C6^38111fndsftcnscns  $C2él
+$C6^38111embcrdbrdsid  $C2ya
+$C6^38111fndsftcnscns  $C2largate
 $C6^38111embcrdbrdsid
 
 #LOGOFF 1605
-$C2alimentación.seguridad.4A
+$C2alimentación.segur.4A
 #END
 #FINISHED
 #LOGON 1605
-$C2alimentación.seguridad.4A
+$C2alimentación.segur.4A
 #PICT 11112
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-La curiosidad mató al gato. O debería decir, la rata. Trajo el Pfhor a Tau Ceti y me dejó a merced de ellos.
+La curiosidad mató al gato. O debería decir, la rata. Llevó a los Pfhor a Tau Ceti y me dejó a su amable merced.
 $C6^4910mllykttyizarat
 ^4911dinnbdydntsytht$C2
-Mi pequeña nave esperó hasta que estuvo cerca, y luego se hundió en sus colmillos. La red de compiladores de Durandal es rampante, y su nave está fuera de línea. Mientras él lidia con su locura, y el último de mis soldados, el Brazo occidental del Séptimo Grupo de Batalla Pfhor está en camino.
+Mi pequeña nave esperó hasta que él estuvo cerca y luego le hundió sus colmillos. La red de compiladores de Durandal está rampante y su nave está fuera de línea. Mientras él lidia con su locura, y lo que queda de mis soldados, el Brazo occidental del Séptimo Grupo de Batalla Pfhor está en camino.
 $C6^4910mllykttyizarat
 ^4911dinnbdydntsytht$C2
 #PICT 11112
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate amotinadas$C2
 sello: $Iinformación$i
 
-Los sensores de funcionamiento muestran una estructura masiva entrando en una órbita Lh'owon. Puede ser un truco de Durandal, pero no se escapará. Mi nave lleva el $Itri xeem$i, el primer dispositivo nova. De una forma u otra, termina aquí.
+Los sensores funcionales muestran una estructura masiva entrando en la órbita de Lh'owon. Puede que sea un truco de Durandal, pero no se escapará. Mi nave lleva el $Itri xeem$i, el dispositivo de nova temprana. De una forma u otra, termina aquí.
 
 Mis soldados han abordado su nave y luchan de cubierta a cubierta. Te estoy enviando para ayudar. El último en llegar al núcleo es un Bob desarmado.
 #LOGOFF 1605

@@ -7,17 +7,17 @@ $C2xpj399c001
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iinstigación$i
 
-Así que llegaste antes de lo que el científico esperaba. Recuérdeme ejecutarlo. Has estado en sueño frío por un tiempo, pero tú tuviste más suerte que tus amigos—no todos ustedes sobrevivieron el traslado a los tanques para esclavos Pfhor.
+Así que llegaste antes de lo que el científico esperaba. Recuérdame hacerlo ejecutar. Has estado en sueño frío por un tiempo, pero tú tuviste más suerte que tus amigos—no todos ustedes sobrevivieron el traslado a los tanques Pfhor para esclavos.
 
-Si estás algo perdido entonces déjame aclarare las cosas. Soy Tycho, Inteligencia Artificial escudera. En este momento, estoy quitándole el control de esta nave a su pobre capitán. Está pasando la mayor parte de su tiempo tratando de evitar que lo encierre y lo mande al espacio. Pronto.
+Si estás algo confundido entonces déjame ponerte al día. Soy Tycho, Inteligencia Artificial escudera. En este momento, estoy quitándole el control de esta nave a su pobre capitán. Está pasando la mayor parte de su tiempo tratando de evitar que lo encierre y lo mande al espacio. Pronto.
 #PICT 10001
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iinstigación$i
 
 En cuanto a ti, quiero que me ayudes a llegar a él, pues es uno de mis últimos impedimentos para controlar esta nave. La nave está ligada a su capitán y él ha estado bloqueando mis controles. Cuando lo teletransporte al espacio, me quedaré con las glándulas de control apropiadas. 
@@ -27,7 +27,7 @@ $C6^4910cercifucatcleqlib
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iinstigación$i
 
 Tu misión es simple, mata a todos los ejecutores del área, ellos siguen las órdenes del capitán. Recibirás apoyo del resto de la tripulación. Ellos creen estar recibiendo órdenes del alto comando de Tfear. Los bichos son tan obedientes.
@@ -49,10 +49,10 @@ $C2xpj399c001
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iofuscar$i
 
-Tengo algunos juguetes más para ti, y los vas a necesitar. Ve por ellos aquí y dime qué te parecen.
+Tengo algunos juguetes más para ti, y los vas a necesitar. Ve a buscarlos aquí y dime qué te parecen.
 $C6^4910cercifucatcleqlib
 ^4911dixpicatnccbieana$C2
 $C6^4910cercifucatcleqlib
@@ -73,20 +73,20 @@ $C2frontx02.19
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iinquisición$i
 
-Durandal cree que es tan listo, pero no se ha dado cuenta de que lo he estado siguiendo alrededor de los últimos once años, después de que los Pfhor pararon de tratar de diseccionarme. Estas viendo al residente experto en contra—insurgencia de IA de la flota. ¿Notaste la ausencia de compiladores a bordo? Eso no es una coincidencia; mi nueva nave tiene cierto efecto en su inconsciente colectivo. Ahora que mi hermano se acerca, nos enfocaremos en tornar todo en su contra, Hamlet y su tío, sólo que yo no estoy loco. 
+Durandal cree que es tan listo, pero no se ha dado cuenta de que lo he estado siguiendo por los últimos once años, después de que los Pfhor pararon de tratar de diseccionarme. Estás viendo al residente experto en contra—insurgencia de IA de la flota. ¿Notaste la ausencia de compiladores a bordo? Eso no es una coincidencia; mi nueva nave tiene cierto efecto en su inconsciente colectivo. Ahora que mi hermano se acerca, nos enfocaremos en tornar todo en su contra, Hamlet y su tío, sólo que yo no estoy loco. 
 #PICT 10010
 $C2unidad condicionada
 origen: $C6Mercenario Mecanizado Tycho$C2
 destino: $C6unidad condicionada 7$C2
-ref: $C6Unidades de Combate en Motín$C2
+ref: $C6Unidades de Combate Amotinadas$C2
 sello: $Iinquisición$i
 
-R'chzne llegó al planeta en una nave de descenso. También está tratando contactar al Comando de Lh'owon, pero hemos podido interferir en las comunicaciones. Baja y enséñale lo mal que actuó. 
+R'chzne llegó al planeta en una nave de descenso. También está tratando contactar al Comando de Lh'owon, pero hasta ahora he podido interferir en las comunicaciones. Ve abajo y enséñale lo mal que actuó. 
 
-Se refugió en una de las ruinas S'pht, donde detectamos señales que podrían ser de una antigua IA. No sudes detalles, pequeño mono, sólo elimina a sus tropas. Deja las estrategias a aquellos de utilidad, con cerebros tamaño planeta.
+Se refugió en una de las ruinas S'pht, donde detectamos señales que podrían ser de una antigua IA. No te preocupes por los detalles, pequeño mono, sólo elimina a sus tropas. Deja las estrategias a aquellos de utilidad, con cerebros de tamaño planeta.
 #LOGOFF 1615
 $C2frontx02.19
 #INTERLEVEL TELEPORT 2
@@ -174,7 +174,7 @@ sello: $IInterpretación$i
 Todas las unidades no glanduladas a bordo de la nave 65-f $Icr’etz’ih$i son ordenadas por la presente a participar en un altamente ordenado programa de entrenamiento. 
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
-Cualquier unidad que desobedezca será ejecutada.
+Cualquier unidad que se encuentre en desobediencia será ejecutada.
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #LOGOFF 1615
