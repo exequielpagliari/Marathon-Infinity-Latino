@@ -6,9 +6,9 @@ $C12.0
 #PICT 11101
 $C1Debería dejar de hablar, todos en el tren me miran ahora. Debo haber ido más lejos de lo que quería porque todos aquí son diferentes a mi. ¿Por qué debería importarles que hablo?, algunos de ellos hablan y de cosas bastante irrelevantes. "El fin justifica los medios" "Donde no hay justificación, no hay fin. Sólo medios" Yo pensé que me veían mal, pero sólo hablan. 
 
-El ruido en del tren va en crescendo mientras llega a una estación, ésta estación está forrada de hombres con trajes negros y, detrás de ellos, puedo ver la pantomima del bien y el mal continuar con los trabajadores de sanidad tratando de trapear los trajes negros fuera de los hombres con peluquín y gafas de sol quienes no se resisten en absoluto. 
+El ruido en del tren va en crescendo mientras llega a una estación, ésta estación está forrada de hombres con trajes negros y, detrás de ellos, puedo ver la pantomima del bien y el mal continuar con los trabajadores de sanidad tratando de quitarle con el trapedor los trajes negros a los hombres con peluquín y gafas de sol quienes no se resisten en absoluto. 
 #PICT 11101
-$C1Claro, ellos no tienen nada de qué preocuparse. Pueden sólo adherirse a las constelaciones de goma de mascar, no hay nada que los trabajadores de sanidad puedan hacer sobre eso.
+$C1Claro, ellos no tienen nada de qué preocuparse. Pueden simplemente adherirse a las constelaciones de goma de mascar, no hay nada que los trabajadores de sanidad puedan hacer al respecto.
 
 Todo es sólo naturaleza humana, no encajamos en la curva, tampoco. Simplemente, no hay curva, nuestra ciencia es aproximación, un buen adivinar. 
 
@@ -24,7 +24,7 @@ $C1@2.1
 #PICT 11211
 
 
-$C1Entro silenciosamente, siguiendo el ritual, bloqueo la puerta con mi bicicleta y pongo las trampas en las ventanas.  No hay una maldita forma de que alguien entre aquí sin una advertencia adecuada.  Creo que ahora hay tiempo para darle un buen vistazo a este cuchillo que me ha causado tanta pena y perder la película que iba a ver pero cuyo nombre no recuerdo.
+$C1Entro silenciosamente, siguiendo el ritual, bloqueo la puerta con mi bicicleta y pongo las trampas en las ventanas.  No hay una maldita forma de que alguien entre aquí sin advertencia adecuada.  Creo que ahora hay tiempo para darle un buen vistazo a este cuchillo que me ha causado tanta pena y perderme la película que iba a ver pero cuyo nombre no recuerdo.
 
 No es inusual, el plástico es de casi la medida de mi dedo índice.  Tiene dos navajas que se abren en ambas direcciones, una es corta y la otra es larga.  La larga es bastante obtusa y la corta bastante afilada.  Suficiente sobre el cuchillo.
 #PICT 11211
@@ -47,7 +47,7 @@ $C12.2
 
 $C1Estoy de vuelta en el hangar otra vez, pero ahora todos ellos me gritan.  Sus brazos y piernas ya no llaman mi atención.  No sería tan malo si estuvieran hablando, pero no lo hacen.  Ellos podrían hablar también.  No están gritando de dolor, sino en protesta.  No extrañan sus brazos o piernas.  Todos están de acuerdo en una cosa, no me darán la satisfacción de escucharlos hablar y nunca olvidaré sus gritos, sin sentido ni palabra, sin justificación. 
 
-(Yo hice esto y pude haberlo detenido.)
+(Yo hice esto y pude haberlo evitado.)
 #LOGOFF 1608
 $C12.2
 #INTERLEVEL TELEPORT 28
