@@ -2,17 +2,17 @@
 #TERMINAL 0
 #UNFINISHED
 #PICT 10701
-$C2^731ipamplia ^erta
-Sta181: 309c1adsion
-D^te: 3fc1a
+$C2^731ivel ^ave
+se181: 309c1aisón
+F^c&a: 3fc1a
 
 $C0¿Se siente bien estar de regreso?  reconocerás una marca de decoro que simplemente grita brazo galáctico. Esta es la masiva Plataforma Acorazada de la Unidad Naval de Lh'owon, un complemento requerido para cualquier Fuerza Naval planetaria. Es extremadamente útil para terminar disturbios en tierra, pero sin una población nativa que oprimir, no hay mucha acción aquí. Los Pfhor la utilizan como una estación orbital de reparación y servicio. 
 
-Las baterías frontales de Boomer son la escoria de la  ingeniería y se ha roto el casco par ti. Es un buen comienzo, pero ahora es tu turno.
+Las baterías frontales de Boomer hicieron pedazos a ingeniería y rompieron el casco para ti. Es un buen comienzo, pero ahora es tu turno.
 #PICT 10701
 $C2^731ipamplia ^erta
 Sta181: 309c1adsion
-D^te: 3fc1a
+F^c&a: 3fc1a
 
 $C0Más de la mitad de los Vehículos Acorazados Pfhor están anclados a esta nave. Debes destruirlos todos antes de que mis humanos puedan comenzar el asalto en tierra.
 
@@ -65,10 +65,10 @@ $C6^31882stkevctnngld
 Todas las Unidades Agregadas son ordenadas a repeler al intruso.
 $C6^31882stkevctnngld
 ^31882ybordeclqkng$C2
-$I{perseguir?}$i Groupo 8 ordenado a proliferar en el sector superior.
+$I{persecución?}$i Grupo 8 ordenado a proliferar en el sector superior.
 $C6^31882stkevctnngld
 ^31882ybordeclqkng$C2
-Unidades de aplicación $I{?liberadas?}$i, todas las Unidades Agregadas son advertidas $I{debido proces0?}$i obedecer.
+Unidades de aplicación $I{?liberadas?}$i, todas las Unidades Agregadas son advertidas $I{debido proceso?}$ia obedecer.
 #LOGOFF 1615
 $C2hck7k,.3cl1
 #ENDTERMINAL 2
@@ -78,27 +78,27 @@ $C2hck7k,.3cl1
 #LOGON 1600
 elle.48aa
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
-$C0Bonito show de luces. Los equipos de asalto humanos están en camino a la ubicación de la IA S'pht cuyas memorias quiero recuperar. La forma de vida S'pht es una perla de consciencia, flotando en el mar de su propia especie. Si queda algún conocimiento de los tiempos antiguos, será recogido en el tamiz de esta red masiva, yaciendo dormido por todos esos siglos.
+$C0Bonito espectáculo de luces. Los equipos de asalto humanos están en camino a la ubicación de la IA S'pht cuyas memorias quiero recuperar. La forma de vida S'pht es una perla de consciencia, flotando en el mar de su propia especie. Si queda algún conocimiento de tiempos antiguos, será recogido en el tamiz de esta red masiva, yaciendo dormido por todos esos siglos.
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
 $C0Transmisiones interceptadas dentro de la nave indican que están tratando de contener esta sección y minimizar tu capacidad para hacer más daño. Vamos a probar que su teoría está mal.
 
 Los estallidos de tu arte reciente han frito los sistemas de armas y los acomodos de comunicación. Los Pfhor están tratando desesperadamente de cojear a casa antes de que los motores se rompan y están usando la reserva de energía de emergencia.
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
 $C0Hay una estación de enfriamiento auxiliar aquí.
 
-Apágalo por lo suficiente como para desconectar sus motores de une vez y luego sal del área antes de que la nave se vaya. Encontraré una terminal cercana para transportarte fuera de ahí.
+Apágala por el tiempo suficiente como para desconectar sus motores de una vez por todas y luego sal del área antes de que la nave vuele. Encontraré una terminal cercana para transportarte fuera de ahí.
 
 #LOGOFF 1600
 (5%.ake)
@@ -118,7 +118,7 @@ Todas las Unidades de Mantenimiento son requeridas a activar vacío.
 	interrupción remota
 
 $C30934..a4
-El área de piloteo está apunto de fallar y esta nave está apunto de convertirse en residuos orbitantes. Con la mayoría del Acorazado Pfhor destruido, mis escuadrones pueden comenzar su asalto. El primero ya ha infiltrado un área desierta del planeta y activado una antigua IA S'pht que creo es la clave para descubrir el destino del undécimo clan.
+El área de piloteo está apunto de fallar y esta nave está apunto de convertirse en residuos orbitales. Con la mayoría del Acorazado Pfhor destruido, mis escuadrones pueden comenzar su asalto. El primero ya ha infiltrado un área desierta del planeta y activado una antigua IA S'pht que creo es la clave para descubrir el destino del undécimo clan.
 #PICT 11116
 $C2Procedimiento Puerto de Salida 13
 origen: $C6Escritor Atento&3921$C2
@@ -126,13 +126,13 @@ destino: $C6Puerto resuelto de salida 13$C2
 ref: $C6Procedimiento$C2
 Sello: $Iregulación$i
 
-Todas las Unidades de Mantenimiento son requeridas a activar vacío.
+Todas las Unidades de Mantenimiento son requeridas a prepararse para el vacío.
 	
 	interrupción remota
 
 $C30934..a4
 
-Felicidades podemos esperar hasta que estemos a una distancia segura mínima. 
+Las felicitaciones pueden esperar hasta que estemos a una distancia mínima segura. 
 #LOGOFF 1616
 $C3dec, 210ace
 #INTERLEVEL TELEPORT 8
@@ -143,27 +143,27 @@ $C3dec, 210ace
 #LOGON 1600
 elle.48aa
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
-$C0Bonito show de luces. Los equipos de asalto humanos están en camino a la ubicación de la IA S'pht cuyas memorias quiero recuperar. La forma de vida S'pht es una perla de consciencia, flotando en el mar de su propia especie. Si queda algún conocimiento de los tiempos antiguos, será recogido en el tamiz de esta red masiva, yaciendo dormido por todos esos siglos.
+$C0Bonito espectáculo de luces. Los equipos de asalto humanos están en camino a la ubicación de la IA S'pht cuyas memorias quiero recuperar. La forma de vida S'pht es una perla de consciencia, flotando en el mar de su propia especie. Si queda algún conocimiento de tiempos antiguos, será recogido en el tamiz de esta red masiva, yaciendo dormido por todos esos siglos.
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
 $C0Transmisiones interceptadas dentro de la nave indican que están tratando de contener esta sección y minimizar tu capacidad para hacer más daño. Vamos a probar que su teoría está mal.
 
 Los estallidos de tu arte reciente han frito los sistemas de armas y los acomodos de comunicación. Los Pfhor están tratando desesperadamente de cojear a casa antes de que los motores se rompan y están usando la reserva de energía de emergencia.
 #PICT 10702
-$C2^731lipamplia ^erta
-Sta1f1: a0ec1adcast
-D^te: 3fc1a
+$C2^731ivel ^ave
+se1l1: tr0ec1aisón
+F^c&a: 3fc1a
 
 $C0Hay una estación de enfriamiento auxiliar aquí.
 
-Apágalo por lo suficiente como para desconectar sus motores de une vez y luego sal del área antes de que la nave se vaya. Encontraré una terminal cercana para transportarte fuera de ahí.
+Apágala por el tiempo suficiente como para desconectar sus motores de una vez por todas y luego sal del área antes de que la nave vuele. Encontraré una terminal cercana para transportarte fuera de ahí.
 #LOGOFF 1600
 (5%.ake)
 #ENDTERMINAL 4

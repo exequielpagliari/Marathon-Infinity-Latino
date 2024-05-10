@@ -2,23 +2,23 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 1600
-$C3ctranssegur.7
+$C3ctranssegura.7
 #PICT 10801
 $C2Estación Perimetral 7AF
 origen: $C6desconocido$C2
 destino: $C6Indeterminado$C2
 ref: $C6Estación Perimetral$C2
-$C3ctranssegur.7
+$C3ctranssegura.7
 
-Si hay un codo en la guarnición de Lh'owon, es este. La estación perimetral 7AF está separada del concepto Pfhor de civilización por 200 kilómetros de pantano lleno de suciedad, ahogado con unos miles de F'lckta hambrientos y con muchos años de escombros S'pht. 
+Si hay una axila en la guarnición de Lh'owon, es esta. La estación perimetral 7AF está separada del concepto Pfhor de civilización por 200 kilómetros de pantano lleno de suciedad, saturado de unos miles de F'lckta hambrientos y muchos años de escombros S'pht. 
 
-También es el hogar de la Unidad Científica, responsable de mantener las instalaciones de tratamiento de agua para el Comando Planetario y todos los asentamientos del este. Mi pequeño grupo de humanos no tienen esperanzas de triunfar a menos de que los rangos Pfhor estén en caos. Hundirlos bajo cinco metros de hierro debería ser suficiente. 
+También es el hogar de la Unidad Científica, responsable de mantener las instalaciones de tratamiento de agua para el Comando Planetario y todos los asentamientos del este. Mi pequeño grupo de humanos no tienen esperanzas de triunfar a menos de que los rangos Pfhor estén en caos. Hundirlos bajo cinco metros de fango debería ser suficiente. 
 #PICT 11112
 $C2Estación Perimetral 7AF
 origen: $C6desconocido$C2
 destino: $C6Indeterminado$C2
 ref: $C6Estación Perimetral$C2
-$C3ctranssegur.7
+$C3ctranssegura.7
 
 $3CLa base fue establecida muy temprano en la reciente ola de exploración del planeta, pero las operaciones fueron movidas más tarde al norte debido a la alta radiación que interfiere con los transportadores. Los soldados locales están encargados principalmente de exterminar a los F'lckta, quienes defienden sus pantanos ancestrales con una tenacidad agonizante. 
 #PICT 10801
@@ -26,13 +26,13 @@ $C2Estación Perimetral 7AF
 origen: $C6desconocido$C2
 destino: $C6Indeterminado$C2
 ref: $C6Estación Perimetral$C2
-$C3ctranssegur.7
+$C3ctranssegura.7
 
 Encuentra una terminal Pfhor con acceso técnico a la planta principal de tratamiento y buscaremos una debilidad. 
 
-Esta plataforma de reabastecimiento es probablemente revisado periódicamente por los Pfhor que viven aquí, así que querrás estar lejos de la intemperie rápido. 
+Esta plataforma de reabastecimiento es probablemente revisada periódicamente por los Pfhor que viven aquí, así que querrás estar lejos de la intemperie rápido. 
 
-Buena suerte. Transportaré munición cuando pueda, pero tendremos que esparcirla. La nave de reconocimiento notó nuestro truco con la Plataforma Acorazada y se está acercando rápido. Tendré que enseñarle una lección a su capitán. 
+Buena suerte. Transportaré munición cuando pueda, pero no tenemos mucha. La nave de reconocimiento notó nuestro truco con la Plataforma Acorazada y se está acercando rápido. Tendré que enseñarle una lección a su capitán. 
 #LOGOFF 1600
 $C3asecurmfeed.7.end
 #ENDTERMINAL 0
@@ -42,7 +42,7 @@ $C3asecurmfeed.7.end
 #LOGON 1600
 $C3jsecurmfeed.7
 #PICT 11114
-$C3Deberás acceder a todas las terminales en la red local para obtener información en el centro de tratamiento de aguas. 
+$C3Debes acceder a todas las terminales en la red local para obtener información en el centro de tratamiento de aguas. 
 
 La nave de reconocimiento fue pan comido, pero tenemos problemas más grandes ahora. Los sensores de largo alcance muestran varios cientos de masas discretas trasladándose al sistema. La Marina Pfhor ha llegado. Otra cosa——He interceptado una señal de la nave de reconocimiento desactivada que me lleva a creer que Tycho está congeniando con los bichos. Ten cuidado.
 #LOGOFF 1600
@@ -54,7 +54,7 @@ $C3asecurkfeedm.7
 #PICT 1604
 $C3Bien hecho.
 
-Me tomará unos cuantos milisegundos analizar los archivos que subías mientras te transportas rio abajo. Entonces aplastarás a la guarnición cuidando  los canales y destruirás el sistema de represas, abriendo camino para mis escuadrones para infiltrar el perímetro defensivo Pfhor. 
+Me tomará unos cuantos milisegundos analizar los archivos que subías mientras te transportas rio abajo. Entonces aplastarás a la guarnición cuidando los canales y destruirás el sistema de represas, abriendo camino para mis escuadrones que se están infiltrando en el perímetro defensivo Pfhor. 
 #LOGOFF 1600
 $C3lusecurbonfeed.7
 #INTERLEVEL TELEPORT 9
@@ -78,19 +78,19 @@ Solicito humildemente el re-abastecimiento de herramientas para los rayos de cor
 $C2Estación Perimetral 7AF
 origen: $C6Unidad Comando$C2
 destino: $c6Ingeniero de 1a Clase K’all
-ref: $C6Requisición Cutteray Ilegal$C2
+ref: $C6Requisición Ilegal de rayos de corte$C2
 sello: $Ireprimienda$i
 
 $C6{ cmd: adjuntar respuesta }$C2
 
-Solicitud para desviar los recursos de la guarnición para completar una propuesta no aprobada.49AB3 debidamente informado por la Coordinación de Aplicación y el informe se transmitirá al comando de Lh’owon con el paquete de ciclo final.
+Solicitud para desviar los recursos de la guarnición para completar la propuesta.49Ab3 no aprobada debidamente informado por la Coordinación de Aplicación y el informe se transmitirá al comando de Lh’owon con el paquete de ciclo final.
 
 El ingeniero de 1a Clase K'all está por la presente ordenado a parar la construcción del Camino Alterno a la Torre de Reabastecimiento 2 hasta que el sello: Aprobación sea otorgado por el Comando de Lh'owon. 
 #PICT 11114
 $C2Estación Perimetral 7AF
 origen: $C6Unidad Comando$C2
 destino: $c6Ingeniero de 1a Clase K’all
-ref: $C6Requisición Cutteray Ilegal$C2
+ref: $C6Requisición Ilegal de rayos de corte$C2
 sello: $Ireprimienda$i
 
 $C6{ cmd: adjuntar respuesta }$C2
@@ -119,7 +119,7 @@ sello: $Imonitoreado$i
 
 { cmd: inicio de registro personal }
 
-El Proyecto de Camino Alterno ha sido completado sin el uso de rayos de corte funcionales. Sustitución del personal de la guarnición degradado al Rango Condicionado (ref: psiquiátrico) para trabajar en incrementar la eficacia del proyecto. 
+El Proyecto de Camino Alterno ha sido completado sin el uso de rayos de corte funcionales. La sustitución del personal de la guarnición degradado al Rango Condicionado (ref: psiquiátrico) para trabajar incrementó la eficacia del proyecto. 
 
 Espero respuesta formal para el reporte de estado del Comando de Unidad antes de abrir camino al personal de la guarnición. 
 { cmd: descartar propuesta.49AB3 }
@@ -252,7 +252,7 @@ sello: $Imonitoreado$i
 
 { cmd: inicio de registro personal }
 
-El experimento para extraer el bio componente del exoesqueleto  ha sido un fallo hasta ahora, pues la carcasa robótica es introducida de forma temprana en el crecimiento de la criatura y todos los Compiladores destinados para labores de combate son protegido por una armadura de poder reforzada.
+El experimento para extraer el bio componente del exoesqueleto ha sido un fracaso hasta ahora, pues la carcasa robótica es introducida de forma temprana en el crecimiento de la criatura y todos los Compiladores destinados para labores de combate son protegidos por una armadura de poder reforzada.
 #PICT 10761
 $C2Estación Perimetral 7AF
 origen: $C6Oficial Científico de 2a Clase St’ngr$C2
@@ -292,7 +292,7 @@ sello: $Itransmisión$i
 
 { aviso de transmisión adjuntado }
 
-Todas las Unidades locales son requeridas a dar aviso de la recompensa de Unidad de 4a Clase requisada para el personal que provea inteligencia pertinente a la localización y recuperación del Combatiente de 3a Clase Jrr'z(Agregado) antes del fin de ciclo.
+Todas las Unidades locales son requeridas a dar aviso a la Unidad de Recompensa de 4a Clase requisada para el personal que provea inteligencia pertinente a la localización y recuperación del Combatiente de 3a Clase Jrr'z(Agregado) antes del fin de ciclo.
 
 La Unidad Combatiente de 3a Clase Jrr'z(Agregado) fue vista por ultima vez por la Unidad de Patrulla llevando a cabo exploración visual de aguas profundas de acuerdo a la Directiva de Reconocimiento de Hostiles 4.
 #LOGOFF 1615

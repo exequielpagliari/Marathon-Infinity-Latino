@@ -4,7 +4,7 @@
 #LOGON 1600
 $C3seg 4 cargando...
 #PICT 10902
-$C3La torre de control para la planta de tratamiento de agua está al otro lado de la presa. Una vez que estés allí, accede a los terminales Pfhor y desactiva las bombas. Eso inundará las Divisiones del Este y cortará los refuerzos el tiempo suficiente para que los humanos invadan el Comando Lh'owon.
+$C3La torre de control para la planta de tratamiento de agua está al otro lado de la presa. Una vez que estés allí, accede a los terminales Pfhor y desactiva las bombas. Eso inundará las Divisiones del Este y evitará los refuerzos el tiempo suficiente para que los humanos invadan el Comando de Lh'owon.
 
 Mis equipos han activado la IA y estoy aprendiendo mucho sobre los días finales de los S'pht, pero la inteligencia es reservada e inescrutable. Espera algo, eso es suficientemente claro, pero qué es un misterio. Una vez que hayas terminado aquí, te transportaré a una antigua ciudadela S'pht donde mis humanos buscan pistas. 
 #PICT 10902
@@ -12,7 +12,7 @@ $C3Las buenas noticias son que mi primera salva de misiles de crucero destruyero
 
 Por otro lado, el Séptimo Grupo de Batalla del Brazo Oeste, la flota más condecorada en la galaxia, se acerca a máxima velocidad. Les daré algo en qué pensar. 
 
-Por mientras, síguete moviendo——Podría necesitar transportarte fuera en poco tiempo.
+Por mientras, síguete moviendo——Podría necesitar transportarte en poco tiempo.
 #LOGOFF 1600
 $C3limpiando seg 4a
 #ENDTERMINAL 0
@@ -30,7 +30,7 @@ sello: $Ipersonal$i
 
 { cmd : adjuntar}
 
-Mi hasta ahora inofensivo pasatiempo, el estudio comparativo del Narsh y el Pfhorico me han llevado a temer mi propia muerte por buscar un mayor significado en el despotrico de Robnar el Gran Seer Nar. Creo que Robnar fue profético y que predijo el establecimiento de la guarnición Pfhor en Lh'owon y su posible destrucción por aquellos que están apunto de venir aquí. 
+Mi hasta ahora inofensivo pasatiempo, el estudio comparativo del Narsh y el Pfhorico me han llevado a temer mi propia muerte por buscar un mayor significado en el despotrico de Robnar el Gran Vidente Nar. Creo que Robnar fue profético y que predijo el establecimiento de la guarnición Pfhor en Lh'owon y su posible destrucción por aquellos que están apunto de venir aquí. 
 #PICT 11116
 $C2Registro Móvil de Comando de Re'eer
 origen: $C6Re’eer$C2
@@ -40,7 +40,7 @@ sello: $Ipersonal$i
 
 { cmd : adjuntar}
 
-El pasaje particular de mi fascinación fue grabado durante una interrogación de un Aplicador de 4a Clase a Robnar después de su captura en la batalla de Bilky-cincuenta y cuatro. La grabación se traduce arduamente al Pfhorico como $Icuando uno de los nidos rotos donde los árboles amarillos cantan se parezca como un nebulon a un drinniol, entonces la lucha de seis por nueve cosas que te traen cosas serán un disparo en primavera, creciendo bajo las tablas de la cama.$i
+El pasaje particular de mi fascinación fue grabado durante una interrogación de un Ejecutor de 4a Clase a Robnar después de su captura en la batalla de Bilky-cincuenta y cuatro. La grabación se traduce arduamente al Pfhorico como $Icuando uno de los nidos rotos donde los árboles amarillos cantan se parezca a como un drinniol ve un a un nebulon, entonces la lucha de seis por nueve cosas que te traen cosas serán un disparo en primavera, creciendo bajo las tablas de la cama.$i
 #PICT 10921
 $C2Registro Móvil de Comando de Re'eer
 origen: $C6Re’eer$C2
@@ -62,7 +62,7 @@ sello: $Ipersonal$i
 
 Esta interpretación continúa al emplear la extraña metáfora inversa Narsh, donde el primer compuesto metafórico es en realidad definido por su sucesor:
 
-(en completo se lee) "cuando seis de mis nueve (en realidad hay 13) zarcillos sean arrancados de mi cuerpo y el dolor de ellos me mantenga despierto, incluso si estoy solo entre quejumbrosos de sangre amarilla, nunca hablaré (Aunque son criaturas gentiles, Drinniols son conocidos por disfrutar aplastar nebulons) porque no puedo; el dolor es demasiado." 
+(en completo se lee) "cuando seis de mis nueve (en realidad hay 13) zarcillos sean arrancados de mi cuerpo y el dolor de ellos me mantenga despierto, incluso si estoy solo y entre quejumbrosos de sangre amarilla, nunca hablaré (Aunque son criaturas gentiles, los Drinniols son conocidos por disfrutar aplastar nebulons) porque no puedo; el dolor es demasiado." 
 #PICT 11116
 $C2Registro Móvil de Comando de Re'eer
 origen: $C6Re’eer$C2
@@ -72,7 +72,7 @@ sello: $Ipersonal$i
 
 { cmd : adjuntar}
 
-Para el resto de mi estudio, tendré que esperar, pues escucho a alguien acercándose y no debo ser encontrado. 
+En cuanto el resto de mi estudio, tendré que esperar, pues escucho a alguien acercándose y no debo ser encontrado. 
 #LOGOFF 1615
 $C2fred.cictl.circe
 #ENDTERMINAL 1
@@ -97,9 +97,9 @@ $C23caf8e-Control de represa
 #LOGON 1600
 $C3AFCK3.2afce
 #PICT 1604
-$C3¿Quién habría imaginado que los Pfhor locales tendrían la claridad de cerrar los sistemas locales? Tendrás que evitarlos, con una estrategia, más torpe pero de alguna forma más satisfactoria. Encuentra los circuitos de control en esta área y aplastalos. Puede que haya desestimado ligeramente la ingeniosidad de los Pfhor. 
+$C3¿Quién habría imaginado que los Pfhor locales tendrían la claridad de cerrar los sistemas locales? Tendrás que sortearlos, con una estrategia, más torpe pero de alguna forma más satisfactoria. Encuentra los circuitos de control en esta área y aplastalos. Puede que haya desestimado ligeramente la ingeniosidad de los Pfhor. 
 
-Obviamente solo un comandante prodigio de unidades, cuya creatividad y competencia fueron entendidos por su sociedad como elementos peligrosamente volátiles y lo condenaron a este remanso.
+Obviamente solo un prodigioso comandante de unidades, cuya creatividad y competencia fueron entendidos por su sociedad como elementos peligrosamente volátiles y lo condenaron a este remanso.
 
 Qué mal que lo más probable es que esté tirado en esa pila de quitina y fluidos que se enfrían en el piso detrás de ti. 
 #LOGOFF 1600
@@ -113,7 +113,7 @@ $C3fkc2.ce4f
 #PICT 1604
 $C3¿Qué parte de “aplasta los circuitos de control” no has entendido?
 
-Tu perfil psicotrónico indica altos niveles de impulso destructivo, lo que puede ser el por qué de que me divierta tanto tenerte cerca--mi perfil psicotrónico es, bueno, olvidémonos de eso por ahora...
+Tu perfil psicotrónico indica altos niveles de impulso destructivo, lo que puede ser el por qué de que me divierta tanto tenerte cerca--mi propio perfil psicotrónico es, bueno, olvidémonos de eso por ahora...
 
 Los circuitos están en algún lugar de esta área de mantenimiento. 
 
@@ -134,11 +134,11 @@ $C3fkc2.ce4f
 #PICT 1604
 $C3Las buenas noticias son, la mayoría del Comando de Lh'owon está bajo alrededor de 5 metros de liquido, ahogado con un centenar de años de restos y plantas. Las malas noticias son que estoy recibiendo fuego de todos lados y hay algo mal con los compiladores. Estamos cojeando rápido, pero la nave capital de Tfear está cerrando la brecha. 
 
-La IA S'pht no coopera: sigue actuando confundida y desorientada. Circuitos geriátricos, no se pueden usar. 
+La IA S'pht no coopera: sigue actuando confundida y desorientada. Circuitos geriátricos, no tienen utilidad. 
 #PICT 10903
-$C3Necesito acceso a la red Pfhor, rápido, y mis escuadrones están dispersos. Te estoy mandando a instalar dos chips de enlace en ubicaciones clave en el complejo. Te mandaré en un grupo de humanos para ayudar a suavizar la resistencia, pero estarás atacando a los Pfhor donde sus defensas son más fuertes. 
+$C3Necesito acceso a la red Pfhor, rápido, y mis escuadrones están dispersos. Te estoy mandando a instalar dos chips de enlace en ubicaciones clave en el complejo. Te mandaré con un grupo de humanos para ayudar a suavizar la resistencia, pero estarás atacando a los Pfhor donde sus defensas son más fuertes. 
 
-Mejor limpias ese cargador. 
+Es mejor que te termines ese cargador. 
 #LOGOFF 1600
 $C3jll.4%
 #INTERLEVEL TELEPORT 10
