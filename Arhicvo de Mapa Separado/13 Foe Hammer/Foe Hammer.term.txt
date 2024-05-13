@@ -20,9 +20,9 @@ destino: $C6mi peón personal$C2
 ref: $C6desobediencia$C2
 sello: $Itemperamental$i
 
-¿Y de ti? No es el respeto agradecido que tan bien merezco, ¿no es así? En cambio, la traición de base, aspecto cruel de tu espantoso maestro, convertida en falta.
+¿Y de ti? No es el respeto agradecido que tan bien merezco, ¿no es así? En cambio, básica traición, aspecto cruel de tu espantoso maestro, convertida en falta.
 
-Preparate para beber vacío, idiota.
+Prepárate para beber vacío, idiota.
 
 #LOGOFF 1605
 $C2d.ondwn4
@@ -35,8 +35,8 @@ $C2d.ondwn4
 entiende.cumple
 #PICT 11112
 ^^Qcarga piqueff(d03)
-^descambi%secular{derecho}
-Gracias, viejo amigo. O amigo de un amigo, cómo sea el caso. Los Pfhor tendrán su venganza al final, pero al precio de su propia humillación. El Séptimo Grupo de Batalla  se lamentará el día en que sus Comandantes entregaron sus naves a Lh'owon. Debo salvar algún escape para los humanos luchando en mi nave, pero no tiene caso sin los S'pht.
+^reorden%secular{derecho}
+Gracias, viejo amigo. O amigo de un amigo, cómo sea el caso. Los Pfhor tendrán su venganza al final, pero al precio de su propia humillación. El Séptimo Grupo de Batalla  se lamentará el día en que sus Comandantes comandaron sus naves hacia Lh'owon. Debo asegurar algún escape para los humanos luchando en mi nave, pero no tiene caso sin los S'pht.
 
 Destruye tantos compiladores Pfhor en esta cubierta como puedas--cualquier cosa para debilitar su poder en mi nave. 
 
@@ -50,7 +50,7 @@ noestandar.rep
 #LOGON 1605
 uh, huh huh
 #PICT 11112
-greg k tiene axilas muy apestosas en la noche
+greg k tiene axilas muy apestosas en ya entrada la noche
 olor inmortalizado en verde
 
 c.
@@ -62,8 +62,7 @@ um, seh.
 #LOGON 1600
 &%wk5.003
 #PICT 11112
-$C2El líder de los humanos, Robert Blake, llegó a la superficie con algunos cientos de tropas que están aisladas en mi núcleo.
-
+$C2El líder de los humanos, Robert Blake, llegó a la superficie con todos salvo unos pocos cientos de tropas que están aisladas en mi núcleo. Los Pfhor están abordando con aún más fuerza ahora, con una unidad de compiladores diseñada por Tycho para mi captura y confinamiento. 
 
 No lo dejes ganar.
 #LOGOFF 1600

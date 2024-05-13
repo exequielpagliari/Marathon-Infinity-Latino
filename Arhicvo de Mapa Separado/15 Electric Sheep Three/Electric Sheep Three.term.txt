@@ -8,19 +8,19 @@
 
 
 
-$C1pasos que vacilan caen
+$C1los pasos que vacilan fallan
 
 tiempo más allá de la pérdida
-pérdida más allá de la pantalla de la vida
+pérdida detrás de la búsqueda de vida
 
 no sostenido
 			no olvidado
 no perdido
 
-$Bdesperdido encontrado$b
+$Bsin perder encontrado$b
 
-mantenerse en el camino difícil
-sueño oscuro llevando todo
+en el camino difícil mantente
+el oscuro soñar con todo carga
 
 #LOGOFF 1610
 #ENDTERMINAL 0

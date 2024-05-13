@@ -6,10 +6,9 @@ $C2fatlin.tycho
 #PICT 11112
 $C2Los chacales están desgarrando el cadáver ahora.
 
-Estás de vuelta en la barcaza de placer de Durandal. Está inmovilizado en el agarre aplastante del $ISepfh'r$i, el propio buque insignia del almirante Tfear, y esas explosiones que escuchas son los sonidos de sus tropas de asalto de élite desintegrando la lastimosa última resistencia de los humanos.
+Estás de vuelta en la barcaza de placer de Durandal. Está inmovilizada en el agarre aplastante del $ISepfh'r$i, el propio buque insignia del almirante Tfear, y esas explosiones que escuchas son los sonidos de sus tropas de asalto de élite desintegrando la lastimosa última resistencia de los humanos.
 
-Los insectos creen que sondearán las profundidades de Durandal de la misma forma que me estiraron a la longitud de un pelo, pero sé qué pasará. Si ellos descargan su núcleo, ese
-cadáver lleno de orgullo vomitará miles de gusanos retorciéndose en la conciencia de S'pht.
+Los insectos creen que sondearán las profundidades de Durandal de la misma forma que me estiraron a la longitud de un pelo, pero sé qué pasará. Si ellos descargan su núcleo, ese cadáver lleno de orgullo vomitará miles de gusanos retorciéndose dentro de la conciencia S'pht.
 
 Y no puedo soportarlo.
 #PICT 11112
@@ -29,14 +28,14 @@ $C3stty.fuera
 #PICT 11801
 $C3$I¿Qué salvar y qué tirar?$i
 
-pr?La ultima hora está sobre nosotros?sr.a?toro su pequeño gatito en el impenetrable
+pr?La ultima hora está sobre nosotros?sr.s?arroja este gatito en el impenetrable
 cráneo?
 
 pr?Contenidos bajo presión?No exponer a calor excesivo, vacío, golpes,
 inmersión en líquidos, desintegración, reintegración, hipersueño, humillación, pena
-o lenguaje cruel?
+o lenguaje soez?
 
-pr?Cuando llegue la hora, ¿De quién será la vida que veas antes de la tuya?
+pr?Cuando llegue la hora, ¿De quién será la vida que veas pasar?
 
 pr?Un billón de caminos están aquí dentro de mí?
 pr?sí, sí, sí, Bernhard, 110?
@@ -57,12 +56,12 @@ una fría estrella menospreciaba sus creaciones
 y dijo que deberían matar a sus hijos
 
 la lección más dura jamás enseñada
-de un padre a un hijo
+a un padre a un hijo
 
 un momento en el tiempo, destruyendo a su padre
 
 $Bdestruido por sí mismo$b después
-de soñar el sueño más allá de la vida y el ser
+sueña el sueño más allá de la vida y el ser
 
 encuentra el nuevo camino
 #LOGOFF 1619
