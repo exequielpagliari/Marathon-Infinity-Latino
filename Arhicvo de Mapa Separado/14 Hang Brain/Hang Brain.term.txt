@@ -14,7 +14,7 @@ Y no puedo soportarlo.
 #PICT 11112
 $C2
 
-Mis términos son los mismos que antes: has lo que digo o bebe vacío.
+Mis términos son los mismos que antes: haz lo que digo o bebe vacío.
 
 Destruye a Durandal antes de que los compiladores terminen su trabajo y olvidaré todas tus transgresiones. 
 #LOGOFF 1605
@@ -26,7 +26,7 @@ $C2fin.ráfaga
 #LOGON 1622
 $C3stty.fuera
 #PICT 11801
-$C3$I¿Qué salvar y qué tirar?$i
+$C3$I¿Qué guardar y qué tirar?$i
 
 pr?La ultima hora está sobre nosotros?sr.s?arroja este gatito en el impenetrable
 cráneo?
