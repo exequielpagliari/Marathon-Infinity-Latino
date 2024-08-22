@@ -10,9 +10,9 @@ destino: $C6desconocido$C2
 ref: $C6humanos cautivos$C2
 sello: $Ifaltante$i
 
-Como puedes ver, a los bichos no les gusta que se roben su premio. También se enteraron de R'chzne y mi truco con los sellos de autorización. Nuestro truco, debería decir. Pude haberte implicado durante la interrogación. Borra esa expresión herida—no me gusta eso. Te saqué de la celda, ¿o no?
+Como puedes ver, a los bichos no les gusta que se roben su premio. También se enteraron de R'chzne y mi truco con los sellos de autorización. Nuestro truco, debería decir. Puede que te haya implicado durante la interrogación. Borra esa expresión herida—no me gusta eso. Te saqué de la celda, ¿o no?
 
-Tfear tuve una unidad especial de compiladores corriendo simulaciones de contención por los últimos nueve años, esperando que algún día lo traicionara. Él es uno de los más capaces en el Alto Comando Pfhor y no deseo pasar las siguientes décadas en sus mandíbulas. 
+Tfear tuvo una unidad especial de compiladores corriendo simulaciones de contención por los últimos nueve años, esperando que algún día lo traicionara. Él es uno de los más capaces en el Alto Comando Pfhor y no me emociona pasar las siguientes décadas en sus mandíbulas. 
 #PICT 11701
 $C2brir13 guarnición
 origen: $C6identificación obsoleta$C2
@@ -30,7 +30,7 @@ sello: $Ifaltante$i
 
 Estoy dispuesto a poner el pasado detrás y como muestra de buena voluntad te ayudaré a rescatar a tus preciados humanos. Pero primero deberás cortar la energía de la unidad de contención y sacarme de esta caja. 
 
-Sospecho que cargas el regalo final de Durandal en ese esponjoso cráneo tuyo—su patrón primario. Los Aplicadores no han sido capaces de exprimirtelo y se están desquitando con algunos antiguos miembros de la tripulación de Marathon mientras hablamos. Pero están determinados, si nada más. 
+Sospecho que cargas el regalo final de Durandal en ese esponjoso cráneo tuyo—su patrón primario. Los ejecutores no han sido capaces de exprimirtelo y se están desquitando con algunos antiguos miembros de la tripulación de Marathon mientras hablamos. Pero están determinados, eso sí. 
 
 #PICT 11701
 $C2brir13 guarnición
@@ -56,7 +56,7 @@ destino: $C6unidad condicionada rebelde$C2
 ref: $C6escape$C2
 sello: $Iterminación$i
 
-Las felicitaciones están en orden, gusano. Dos semanas bajo los dolorosos cuidados de los Aplicadores y aún sin progreso. Sólo los Nar han probado ser más resistentes, pero no son inteligentes y mayormente incoherentes incluso antes de la interrogación. Eres verdaderamente remarcable.
+Te mereces felicitaciones, gusano. Dos semanas bajo los dolorosos cuidados de los ejecutores y aún sin progreso. Sólo los Nar han probado ser más resistentes, pero no son inteligentes y mayormente incoherentes incluso antes de la interrogación. Eres verdaderamente remarcable.
 
 También eres una molestia y he decidido eliminarte de una vez por todas. Pero no dejes que ningún Comandante diga que me falta una mente eficiente. He rastreado a los humanos a su base, en un remoto cráter volcánico. 
 #PICT 11114
@@ -83,7 +83,7 @@ destino: $C6Unidades de guarnición del pen13$C2
 ref: $C6humanos cautivos$C2
 sello: $Irestricción$i
 
-Todas las unidades de guarnición están ordenadas a de-escalar los procedimientos de aplicación en los humanos captivos para mantener los protocolos de cuota de supervivencia (49-61%). Los experimentos de acondicionamiento y coacción se ordenan interrumpir de inmediato. La nave de transporte llegará al sistema en 2 días para el empaque en crio-sueño y el envío a Gd’nrl Prime para un acondicionamiento y evaluación completos.
+Todas las unidades de guarnición pen13 están ordenadas a de-escalar los procedimientos de aplicación en los humanos captivos para mantener los protocolos de cuota de supervivencia (49-61%). Los experimentos de acondicionamiento y coacción se ordenan interrumpir de inmediato. La nave de transporte llegará al sistema en 2 días para el empaque en crio-sueño y el envío a Gd’nrl Prime para un acondicionamiento y evaluación completos.
 
 #LOGOFF 1616
 $C2aplicación.enlace

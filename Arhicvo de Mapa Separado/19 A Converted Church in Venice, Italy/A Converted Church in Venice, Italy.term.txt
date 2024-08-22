@@ -14,15 +14,15 @@ $C3shu.bn'gg.rth
 #END
 #FINISHED
 #LOGON 1605
-$C2lin.directo
+$C2lin.directa
 #PICT 11112
 $C2unidad condicionada rebelde
 origen: $C6Alto Admirante Tfear (Comando)$C2
 destino: $C6unidad condicionada rebelde$C2
 ref: $C6confinamiento$C2
 sello: $Iclemencia$i
-Tu devoción a salvar a los humanos es admirable. Claro, esta devoción a la especie será una de las características a las que aplicaremos condicionamiento negativo en Gr'ndl Prime.  Las Unidades automatizadas reportan la captura de cerca de trecientos humanos al rendirse y el doble de ellos peleando.  Incluyendo a las bajas capturadas en la base, eso hace más de mil de los tuyos que han sido salvados.
-Cuando estés listo serás transportado a un sitio de confinamiento antes del criosueño  y transferencia a la Unidad de Condicionamiento. 
+Tu devoción a salvar a los humanos es admirable. Claro, esta devoción a la especie será una de las características a las que aplicaremos condicionamiento negativo en Gr'ndl Prime.  Las Unidades automatizadas reportan la captura de cerca de trecientos humanos al rendirse y el doble de eso peleando.  Incluyendo a las bajas capturadas en la base, eso hace más de mil de los tuyos que han sido salvados.
+Cuando estés listo serás transportado a un sitio de confinamiento antes del criosueño y transferencia a la Unidad de Condicionamiento. 
 #LOGOFF 1605
 $C2fin.carrera
 #INTERLEVEL TELEPORT 20

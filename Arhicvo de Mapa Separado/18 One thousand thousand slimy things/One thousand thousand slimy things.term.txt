@@ -31,7 +31,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+conservar silencio en radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7a
@@ -52,7 +52,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+conservar silencio en radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7b
@@ -70,7 +70,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+conservar silencio en radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7c
@@ -88,7 +88,7 @@ destino: $C6unidad condicionada rebelde$C2
 ref: $C6genocidio$C2
 sello: $Iclemencia$i
 
-Muy sorprendente. La función primaria de la inteligencia es la subordinación de nuestros deseos instintivos, la marca de una especie fuerte. Lo cual es el por qué tu especie servirá bien a las necesidades del Criadero de La Última. La Última tiene una inteligencia tan vasta que abarca el alcance del Pfhor y para aquellos, el privilegio de servirle parece una locura. Esa es la función final del Rango de Comando, el pensamiento que mantenemos por siempre en nuestras mentes, que negamos nuestras egoístas, voluntarias necesidades, para que el Imperio sobreviva.
+Muy impresionante. La función primaria de la inteligencia es la subordinación de nuestros deseos instintivos, la marca de una especie fuerte. Lo cual es el por qué tu especie servirá bien a las necesidades del Criadero de La Última. La Última tiene una inteligencia tan vasta que abarca la totalidad del Pfhor y para aquellos privilegiados de servirle, nos parece demente. Esa es la función final del Rango de Comando, el pensamiento que mantenemos por siempre en nuestras mentes, que negamos nuestras egoístas, voluntarias necesidades, para que el Imperio sobreviva.
 #PICT 11112
 $C2unidad condicionada rebelde
 origen: $C6Alto Admirante Tfear (Comando)$C2
