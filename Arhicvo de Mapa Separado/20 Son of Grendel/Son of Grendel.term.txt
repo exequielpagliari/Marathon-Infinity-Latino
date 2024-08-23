@@ -10,7 +10,7 @@ $C2destino: $C6Unidades agregadas de patrullaje
 $C2ref: $C6unidad condicionada rebelde
 $C2sello: $Icontención$i
 
-Las Unidades Agregadas patrullando el Sector de Comando son notificadas de el estado prioritario de alerta y observación, para la localización y contención de la unidad condicionada rebelde.
+Las Unidades Agregadas patrullando el Sector de Comando son notificadas del estado prioritario de alerta y observación, para la localización y contención de la unidad condicionada rebelde.
 
 $C6^389433asaliskwl
 ^777373asaliskwl
@@ -22,7 +22,7 @@ $C2destino: $C6Unidades agregadas de patrullaje
 $C2ref: $C6unidad condicionada rebelde
 $C2sello: $Icontención$i
 
-La notificación enfática de la contención es declarada por la presente, y el comando permite hasta un 85% de casualidades aceptables y  motivar la persecución para una exitosa
+La notificación enfática de la contención es declarada por la presente, y el comando permite hasta un 85% de casualidades en unidades locales como aceptable y  motiva la persecución para una exitosa
 contención. Unidad de Aplicación 7b.oo en espera para transporte inmediato y 
 aniquilación voluntaria de la unidad rebelde.
 
@@ -49,9 +49,9 @@ $C1hilos  jalan
 					
 					enseñado la forma
 
-como gusta nuestro escondido
+como si fuese nuestro oculto
 
-vengar rápido el 
+rápido venga el 
 		
 		impetuoso aquí
 
@@ -193,7 +193,7 @@ $C2destino: $C6unidades de la guarnición
 $C2ref: $C6artefacto alienígena
 $C2sello: $Itransmisión$i
 
-En consecuencia del entierro y resello del artefacto alienígena desenterrado, todas las unidades sin un sello de patrullaje apropiado quedan restringidas al área inmediata. Comunicaciones futuras con respecto al artefacto alienígena se tomarán con sospecha por el Comando de la Guarnición y serán referidas a aplicación de enlace para evaluación y proceso. 
+En consecuencia del entierro y resello del artefacto alienígena desenterrado, todas las unidades sin un sello de patrullaje apropiado quedan restringidas al área inmediata. Comunicaciones futuras con respecto al artefacto alienígena se tomarán con sospecha por el Comando de la Guarnición y serán referidas a canales de ejecutores para evaluación y proceso. 
 
 #LOGOFF 1615
 #INTRALEVEL TELEPORT 148

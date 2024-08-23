@@ -21,7 +21,7 @@ somos renacidos
 tu y nosotros somos uno
                                                     n %
 #LOGOFF 1608
-linea.cifrado.cadencia
+linear.cifrado.cadencia
 #ENDTERMINAL 0
 ;
 #TERMINAL 1
@@ -49,7 +49,7 @@ ref: $C6unidades victoriosas$C2
 $C6Terminal referente a6 inter$C2$Bfer$bencia
 $C0demandando anulación
 
-De acuerdo a las leyendas de mil mundos de los cuales unos cuantos aún son habitables, los W'rkncacnter son esas cosas que viven en caos, creándolo a su alrededor. Al principio del universo, eran inconfundibles en sus entidades, pero conforme ha pasado el tiempo, su existencia se ha vuelto difícil de detectar entre los elementos caóticos del universo, escondidos en estrellas, atrapados en tormentas, por siempre mirando entre el horizonte de eventos de los agujeros negros. Liberar a uno en el espacio ordenado es difícil y una locura. 
+De acuerdo a las leyendas de mil mundos de los cuales sólo unos cuantos aún son habitables, los W'rkncacnter son esas cosas que viven en caos, creándolo a su alrededor. Al principio del universo, eran inconfundibles en sus entidades, pero conforme ha pasado el tiempo, su existencia se ha vuelto difícil de detectar entre los elementos caóticos del universo, escondidos en estrellas, atrapados en tormentas, por siempre mirando entre el horizonte de eventos de los agujeros negros. Liberar a uno en el espacio ordenado es difícil y una locura. 
 #PICT 11114
 $C2unidades victoriosas
 origen: $C6desconocido$C2
@@ -178,7 +178,7 @@ $C0
 
 K'lia ha entrado en el sistema y se mueve a orbita.
 
-La flota Pfhor está desordenada y Tfear ha desplegado el  $Itrih xeem$i, moviendo su nave capital a abordar la estación Yrro.
+La flota Pfhor está desordenada y Tfear ha desplegado el  $Itrih xeem$i, moviendo su nave capital para abordar la estación Yrro.
 
 Tienes que ayudar a los S'pht K'rr a activar su arma antigua, antes de que los Pfhor usen su nova temprana y desaten a los W’rkncacnter sobre todos nosotros.
 #LOGOFF 1615

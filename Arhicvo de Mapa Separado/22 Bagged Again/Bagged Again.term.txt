@@ -36,7 +36,7 @@ Suficientes desvaríos por ahora. Pronto serás destruido por la duda. Esta enti
 
 ¿Sabes qué tipo de sombrero uso?
 
-Uno de fiesta; tu no tienes uno. Será un honor esta fiesta, una fiesta en tu honor, para tu honor. Algunos de los guardias personales de Tfear estarán ahí. Te los presentarán pronto.
+Uno de fiesta; tú no tendrás uno. Será un honor esta fiesta, una fiesta en tu honor, para tu honor. Algunos de los guardias personales de Tfear estarán ahí. Te los presentarán pronto.
 
 Prepárate para morir.
 #LOGOFF 1615
