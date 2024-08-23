@@ -1,0 +1,327 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+$C3csecurgfeed.7
+#PICT 10801
+$C2Perimeter Station 7AF
+origin: $C6unknown$C2
+destin: $C6undetermined$C2
+ref: $C6Perimeter Station$C2
+$C3csecurefeed.7
+
+If there is an armpit to the Lh’owon garrison, this is it. Perimeter Station 7AF is separated from the Pfhor concept of civilization by 200 klicks of filth-ridden swamp, choked with a thousand hungry F'lckta and as many years of S'pht debris.
+
+It's also home to the Science Unit responsible for maintaining the water treatment facility for Planetary Command, and all of the Eastern Emplacements. My little group of humans can't hope to succeed unless the Pfhor ranks are in chaos. Sinking them under five meters of sludge should do the trick.
+#PICT 11112
+$C2Perimeter Station 7AF
+origin: $C6unknown$C2
+destin: $C6undetermined$C2
+ref: $C6Perimeter Station$C2
+$C3csecurefeed.7
+
+$3CThe base was established early in the recent wave of exploration of the planet, but operations were later moved north because of heavy surface radiation that interferes with transporters. The local soldiery are charged primarily with exterminating the F'lckta, who defend their ancestral wetlands with agonizing tenacity.
+#PICT 10801
+$C2Perimeter Station 7AF
+origin: $C6unknown$C2
+destin: $C6undetermined$C2
+ref: $C6Perimeter Station$C2
+$C3csecurefeed.7
+
+Find a Pfhor terminal with technical access to the main treatment plant, and we'll look for a weakness.
+
+This Resupply Platform is likely to be checked regularly by the Pfhor living here, so you’ll want to get out of the open quickly.
+
+Good luck. I'll transport in ammunition when I can, but we're spread thin. The scoutship spotted our trick with the Armor Platform and is closing fast. I'll have to teach its captain a lesson.
+#LOGOFF 1600
+$C3asecurmfeed.7.end
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1600
+$C3jsecurmfeed.7
+#PICT 11114
+$C3You must access all the terminals in the local network for information on the water treatment center.
+
+The scoutship was a trifle, but we've got bigger problems now. Long range sensors show several hundred discrete masses translating into the system. The Pfhor navy has arrived. Another thing——I've intercepted a signal from the disabled scoutship that leads me to believe that Tycho is in league with the bugs. Be careful.
+#LOGOFF 1600
+$C3csecurefeedm.7
+#END
+#FINISHED
+#LOGON 1600
+$C3asecurkfeedm.7
+#PICT 1604
+$C3Well done.
+
+I'll take a few milliseconds to analyze the files you uploaded while you transport down river. Then you'll crush the garrison guarding the waterway and destroy the dam system, opening the way for my commandos infiltrating the Pfhor defensive perimeter.
+#LOGOFF 1600
+$C3lusecurbonfeed.7
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1617
+$C27AF.eng.comm
+#PICT 10803
+$C2perimeter garrison 7AF
+origin: $C6Engineer 1st Class K’all$C2
+destin: $C6Unit Command$C2
+ref: $C6Alternate Footpath Resupply Tower 2$C2
+stamp: $Irequisition$i
+
+Humbly I request retooling of Engineering Unit cutterays for completion of Alternate Footpath project as outlined in proposal.49AB3
+
+{ error: proposal.49AB3 not found }
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Unit Command$C2
+destin: $c6enginneer 1st Class K’all
+ref: $C6Illegal Cutteray Requisition$C2
+stamp: $Ireprimand$i
+
+$C6{ cmd: append reply }$C2
+
+Request for misdirection of garrison resources for completion of unapproved proposal.49AB3 duly noted by Enforcement Liaison and report will be transmitted to Lh’owon Command with the endcycle packet.
+
+Engineer 1st Class K’all is hereby ordered to cease construction of Alternate Footpath to Resupply Tower 2 until stamp: Approval issued by Lh’owon Command.
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Unit Command$C2
+destin: $c6enginneer 1st Class K’all
+ref: $C6Illegal Cutteray Requisition$C2
+stamp: $Ireprimand$i
+
+$C6{ cmd: append reply }$C2
+
+Engineer 1st Class K’all is hereby ordered to report to Unit Command for restriction until endcycle round of scheduled demotions.
+
+{ error: proposal.49AB3 not found }
+#PICT 11114
+$C2Lh’owon command
+origin: $C6Lh’owon Command$C2
+destin: $C6Perimeter Garrison 7AF Unit Command$C2
+ref: $C6Proposal.49AB3$C2
+stamp: $Iapproval$i
+
+$C6{ cmd: ref appended }$C2
+
+This is in approval of proposal.49AB3 for Alternate Footpath to Resupply Tower 2, Perimeter Garrison 7AF.
+
+{ error: proposal.49AB3 not found }
+#PICT 11120
+$C2perimeter garrison 7AF
+origin: $C6Engineer 3rd Class K'all$C2
+destin: $C6personal log .49AF4$C2
+ref: $C6Alternate Footpath Project (Approved)$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+Alternate Footpath Project has been completed without use of functional cutterays. Substitution of garrison personnel demoted to Conditioned Rank (ref: psychiatric) into work detail increased efficacy of project.
+
+I await formal request for status report from Unit Command prior to opening footpath to garrison personnel.
+{ cmd: expunge proposal.49AB3 }
+#LOGOFF 1617
+$C2posal.49AB3
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1616
+$C2cmd: personal log file init
+#PICT 11118
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6native xenomorph$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+Their activity cycle coincides with the period of gestation of their young, which are carried to term in the maw of the creature for a period of 15-19 local days. While the mandible appears to have vestigial musculature indicative of mastication and forceful ingestion consistent with a predator, the gizzard terminates in a womb rather than the digestive tract.
+
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6native xenomorph$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+As field observations and several post-mortem examinations of fallen combatant members of Aggregate Rank indicate, the creatures attack with one favored foreclaw.
+
+The foreclaw and maw are both used for territorial competition and display, as the dominance of a particular creature is measured by both the size of its territory and the range of its wanderings.
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6native xenomorph$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+At the beginning of the mating cycle, approximately each 17th local day, the creatures release a cloud of eggs into their territorial waterway and begin a traverse of the surrounding region, battling with their neighbors for passage.
+
+Each creature swallows any eggs it finds during its circuit, with more dominant creatures gaining access to a greater variety of eggs. The eggs are drawn into the womb for fertilization and gestation.
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6native xenomorph$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+Unfortunately I have not been able to observe the birth or immature form of the creatures, as the parents chew their young rather than bring them to term in the holding pens.
+
+Next period of activity I inten...
+
+{ cmd: ... }
+#LOGOFF 1616
+$C2cmd: personal log file purge
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1615
+$C2son 7AF
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Unit Command$C2
+destin: $C6Terminal Display$C2
+ref: $C6Aggregate Restriction$C2
+stamp: $Ibroadcast$i
+
+All personnel of Aggregate Rank or less are restricted from the following areas: Science, Engineering, and Riverine unless on scheduled patrol.
+
+Personnel of Willful Rank or greater are advised to limit activity in the Riverine area until completion of Hostile Reduction Directive 11 and the waterway is sterilized of the bipeds.
+#PICT 11114
+$C2perimeter garrison 7AF
+origin: $C6Unit Command$C2
+destin: $C6Terminal Display$C2
+ref: $C6Endcycle Scheduled Demotions$C2
+stamp: $Ibroadcast$i
+
+It is with great shame and regret that Unit Command announces the following Scheduled Demotions for Endcycle:
+
+Engineer 1st Class K’all is hereby demoted to Engineer 3rd Class K’all.
+#LOGOFF 1615
+$C2rega490c.1
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 1617
+$C2r290c.29c.1a0z
+#PICT 10802
+$C2internal unit files (ref: science)
+origin: $C6Engineering Unit$C2
+destin: $C6Unit Command$C2
+ref: $C6Control Schematic Water Treatment19$C2
+stamp: $Irecords$i
+
+{ cmd: schematic appended }
+
+#LOGOFF 1617
+$C2r290c.29c.1a0z
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 1617
+$C2co0.2c9vklq
+#PICT 10762
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6Comparitive physiology$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+My repeated requests for classified files on the physiology of the Compiler Class (Conditioned Rank) have been denied, as have requisitions for incompletely encased Compiler bio components, hence I have been forced to greater resourcefulness, as is often the lot of the Science Unit at Perimeter Station 7AF. Our most critical requests are ignored by Unit Command, and so I am forced to commandeer local Compiler units without stamp: $Iapproval$i
+#PICT 10761
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6Comparitive physiology$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+The experiment to extract the Compiler bio component from the exoskeleton has been so far a failure, as the robotic casing is introduced early into the growth of the creature, and all Compilers destined for combat duty are protected by reinforced power armor.
+#PICT 10761
+$C2perimeter garrison 7AF
+origin: $C6Science Officer 2nd Class St’ngr$C2
+destin: $C6personal log file$C2
+ref: $C6Comparitive physiology$C2
+stamp: $Imonitored$i
+
+{ cmd: personal log file init }
+
+I have cannibalized a few elevators and constructed a more precise device with which to apply force to the exoskeleton, and hope to retrieve an intact bio component for a comparison with the native bipedal creature. Science Officer 1st Class W’rrl (Attentive Rank) has asked me to investigate a hypothesis that the Compiler creature is similar in certain basic features.
+
+#LOGOFF 1617
+$C2co0.2c9vklq
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 1615
+$C2coexolw.wo395.7af
+#PICT 11114
+$C2Garrison Security
+origin: $C6unit Command$C2
+destin: $C6unit broadcast$C2
+ref: $C6Garrison Security$C2
+stamp: $Ibroadcast$i
+
+Due to a security door failure rate of 35% in the Garrison Area, and the continuing nighttime aggression of the native bipeds inhabiting the Riverine Area, Patrol Units are hereby ordered to secure all Outer and Blast Doors until completion of Hostile Reduction Directive 11 and complete sterilization of the waterway.
+
+Quartermaster 5th Class Ssh’uph(Aggregate) has begun investigating the disappearance of local Compiler Units.
+
+#PICT 11114
+$C2Garrison Security
+origin: $C6unit Command$C2
+destin: $C6unit broadcast$C2
+ref: $C6missing units$C2
+stamp: $Ibroadcast$i
+
+{ broadcast notice appended }
+
+All local Units are required to post notice of Unit Reward 4th Class requisitioned for personnel providing intelligence pertinent to location and retrieval of Combatant 3rd Class Jrr’z (Aggregate) before endcycle.
+
+Combatant 3rd Class Jrr’z (Aggregate) last seen by Patrol Unit personnel conducting deep water visual survey in compliance with Hostile Reconnaissance Directive 4.
+#LOGOFF 1615
+$C2coexolw.wo395.7af
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 1617
+$C2codcoe.2wo5.7af
+#PICT 11120
+$C2internal unit communique
+origin: $C6Quartermaster 5th Class Ssh’uph$C2
+destin: $C6unit Command$C2
+ref: $C6Access Malfunction Resupply Tower 2$C2
+stamp: $Irequisition$i
+
+This is to humbly resubmit request for machinery and expertise from Garrison Command for repair of Access Door Mechanism on Resupply Tower 2. Requisitioned Compiler Units from Lh’owon Command inadvertently teleported to Resupply Tower 2 and rendered inaccessible. Previous request respectfully submitted to Perimeter Station 7AF Commander 5th Class Re’eer (Attentive) prior to untimely demise.
+#PICT 11114
+$C2internal unit communique
+origin: $C6unit Command$C2
+destin: $C6Quartermaster 5th Class Ssh’uph$C2
+ref: $C6Access Malfunction Resupply Tower 2$C2
+stamp: $Idefinition$i
+
+{ cmd: reply appended }
+
+In the wake of the untimely demise of Former Perimeter Station 7AF Commander 5th Class Re’eer (Attentive), and in a spirit of renewal for local personnel, Resupply Tower 2 is heretofore renamed Commemorative Resupply Tower Re’eer in honor of our fallen comrade.
+
+#LOGOFF 1617
+$C2codcoe.2wo5.7af
+#ENDTERMINAL 8

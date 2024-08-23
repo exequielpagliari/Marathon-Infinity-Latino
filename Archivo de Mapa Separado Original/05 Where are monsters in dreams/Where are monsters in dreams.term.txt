@@ -1,0 +1,46 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+$C11
+#PICT 10501
+
+$C1“Well, there was this knife, more aptly described as a broadsword, and I see, well, I was swinging down the street on my way to a movie and this guy, yeah.  He was about six foot eight and huge.  He was holding this knife, only to me, I would describe it as a broadsword, something from the Knights of the Round.  Before he can even open his mouth, he collapses.  Meanwhile, I can barely lift a finger to put the toupee back on his glossy head because I’m shaking so much.
+
+He was vomiting and I knew that he was alive because he kept saying something like ‘durability’ between convulsions.  What happened next was really bizarre.  Both ends of the street flood with black-suited men, just like in a movie.  
+#PICT 10501
+
+$C1These men look tough and pissed off, the eyes behind their sunglasses are probably cold as my hands are getting.  I feel like my heart has stopped, I’m so damn scared.  As they start to inundate the street in black, they move with one will.
+
+I figure that I’m dead anyway, so I reach down for the blade.  The blade is being covered by his vomit, but the hilt is clean. I can hear the men getting excited, but I can’t stop.  My fingers slide around the leather hilt which is oddly cold…
+#LOGOFF 1608
+$C11
+#END
+#FINISHED
+#LOGON 1608
+$C11.2
+#PICT 10502
+$C1Seven hundred and sixty one armless and legless corpses float inconspicuously around the inside of hangar ninety six.  I say that they are inconspicuous because it is their arms and legs which demand my attention.  I did this, or I could have stopped it.  Which is it?  It doesn’t matter now.  I did this and could have stopped it, but nothing in nature ever follows a gaussian curve.  Sure, they’ll tell you that it does.  They say that every five minutes someone dies in a car accident, but how often are there seven hundred and sixty one armless and legless corpses in one hangar?
+#LOGOFF 1608
+$C11.2
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1608
+$C11.1
+#PICT 10520
+
+
+$C1I’m in the same street, and as I reach into my pocket for my keys, my eyes follow the blackened streaks of gum that pock-mark the sidewalk.  The man is gone, and someone in sanitation cleaned up the aparitions and vomit in a real hurry.  I hurry down the stairs heading for the subway, but my keys aren’t in my pocket anymore.  I’ll have to get in through the side window.
+
+The subway station is very bright and shining from the sanitation team that has been sweeping a swath in front of me.  The concrete floor is losing years of tarnish, keeping only the protective layer of the gum streaks which make up constellations in an otherwise vacant sky.  
+#PICT 10506
+
+
+$C1The train arrives right on time, and just ahead of a mass of dark suited men who have been following me for what seems like years now.  Between the sanitation and the suits, I must be going colorblind, but the train is here now, and those men, no, they won’t catch me…
+#LOGOFF 1608
+$C11.1
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 1

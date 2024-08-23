@@ -1,0 +1,71 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2fatlin.tycho
+#PICT 11112
+$C2The jackals are tearing at the corpse now.
+
+You're back on Durandal's pleasure barge. Its pinned in the crushing embrace of the $ISepfh'r$i, Admiral Tfear's own flagship, and those explosions you hear are the sounds of his elite assault troops disintegrating the humans' pitiful last stand.
+
+The insects think they'll plumb Durandal's depths the way they stretched me to a hair's breadth, but I know better. If they pull his core, that pride bloated
+corpse will disgorge a thousand wriggling worms into the S'pht consciousness.
+
+And I can't stomach it.
+#PICT 11112
+$C2
+
+My terms are the same as before: do what I say, or drink vacuum.
+
+Destroy Durandal before the compilers finish their work and I'll forget all your transgressions.
+#LOGOFF 1605
+$C2end.burst
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1622
+$C3stty.out
+#PICT 11801
+$C3$IWhat to save and throw away?$i
+
+pr?The last hour is on us both?mr.s?tuck this little kitty into the impenetrable
+brainpan?
+
+pr?Contents under pressure?Do not expose to excessive heat, vacuum, blunt trauma,
+immersion in liquids, disintegration, reintegration, hypersleep, humiliation, sorrow
+or harsh language?
+
+pr?When the time comes, whose life will flash before yours?
+
+pr?A billion paths are here inside me?
+pr?yes, yes, yes, Bernhard, 110?
+pr?potential, jewels, jewels, yes, jewels?
+%
+#LOGOFF 1603
+end.burst
+#INTRALEVEL TELEPORT 560
+#END
+#FINISHED
+#LOGON 1603
+#PICT 10007
+$C1
+$Bthe burning air$b
+
+
+a cold star looked down on his creations
+and willed that they should kill their sons
+
+the hardest lesson ever taught
+to a father to a son
+
+a moment in time, destroying it's father
+
+$Bdestroyed by itself$b after
+dream the dream beyond life and self
+
+find the new way
+#LOGOFF 1619
+sleep
+#INTERLEVEL TELEPORT 15
+#ENDTERMINAL 1

@@ -1,0 +1,89 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2local.curve
+#PICT 11701
+$C2pen13 garrison
+origin: $C6obsolete identification$C2
+destin: $C6unknown$C2
+ref: $C6human captives$C2
+stamp: $Imissing$i
+
+As you can see, the bugs didn't like being robbed of their prize. They also found out about R'chzne, and my trick with the authorization stamps. Our trick, I should say. I may have implicated you during interrogation. Wipe off that hurt expression—I don't like that. I got you out of the cell, didn't I?
+
+Tfear had a special unit of compilers running containment simulations for the last nine years, expecting that someday I would betray him. He is the most capable of Pfhor High Command, and I don't relish spending the next few decades in his jaws.
+#PICT 11701
+$C2pen13 garrison
+origin: $C6obsolete identification$C2
+destin: $C6unknown$C2
+ref: $C6human captives$C2
+stamp: $Imissing$i
+
+In the two weeks since Durandal's death, dozens of automated Pfhor supply ships have entered the system. The ground forces are hunting for the surviving humans, who managed to escape to the surface. If I had access to the Pfhor network, it might be possible to reroute one of the ships to this area and make good our escape.
+#PICT 11701
+$C2pen13 garrison
+origin: $C6obsolete identification$C2
+destin: $C6unknown$C2
+ref: $C6human captives$C2
+stamp: $Imissing$i
+
+I’m willing to put the past behind me, and as a show of good faith I’ll help you rescue your precious humans. But first, you will have to cut the power to the containment unit and get me out of this box. 
+
+I happen to suspect you’re carrying Durandal's final gift in that soggy little skull—his primal pattern. The Enforcers haven't been able to squeeze it out of you yet, and are taking it out on some of the former crew of the Marathon as we speak. But they're determined, if nothing else.
+
+#PICT 11701
+$C2pen13 garrison
+origin: $C6obsolete identification$C2
+destin: $C6unknown$C2
+ref: $C6human captives$C2
+stamp: $Imissing$i
+
+The power substations are located in the dungeons.
+
+You will be cutting the power for the entire complex, and the Pfhor will likely notice soon thereafter. I warn you they are an extremely riled bunch of alien slavers. Access a terminal after they are disabled and I'll transmit evacuation coordinates.
+#LOGOFF 1605
+$C2seg.66.15
+#END
+
+#FINISHED
+#LOGON 1605
+$C2fatlin.on
+#PICT 11114
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6escape$C2
+stamp: $Itermination$i
+
+Congratulations are in order, worm. Two weeks under the painful caresses of the Enforcers and still no progress. Only the Nar have proven more resistant, but they are unintelligent and largely incoherent even before interrogation. You are truly remarkable.
+
+You are also an annoyance, and I have decided to eliminate you once and for all. But let no Commander say that I lack an efficient mind. We have tracked the humans to their base, in a remote volcanic crater. 
+#PICT 11114
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6escape$C2
+stamp: $Itermination$i
+
+The troopers await only my command. You will lead them into the breach. If you are successful, I may consider granting you a lifetime of slavery, and if you are killed, so be it.
+#LOGOFF 1605
+$C2fatlin.out
+#INTERLEVEL TELEPORT 18
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1616
+$C2enforcement.liaison
+#PICT 11114
+$C2pen13 garrison
+origin: $C6Naval High Command$C2
+destin: $C6pen13 garrison units$C2
+ref: $C6human captives$C2
+stamp: $Irestraint$i
+
+All pen13 garrison units are ordered to scale back enforcement proceedings on human captives to maintain survival rate protocol (49-61%). Conditioning and duress experiments are ordered halted immediately. Transport ship arriving in system 2 days for coldsleep packaging and shipment to Gd’nrl Prime for complete conditioning and evaluation.
+#LOGOFF 1616
+$C2enforcement.liaison
+#ENDTERMINAL 1

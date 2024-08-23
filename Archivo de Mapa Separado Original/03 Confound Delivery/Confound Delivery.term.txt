@@ -1,0 +1,116 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1605
+$C2remote.feed.seg1
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+My hunters tracked the lead group of humans to a flooded area beneath the complex, where they were attempting to activate an ancient S'pht AI.  They never made it back to the surface.
+$C6^4910mllykttyizarat
+^4911dinnbdydntsytht$C2
+$C6^4910mllykttyizarat
+^4911dinnbdydntsytht$C2
+$C6^4910mllykttyizarat
+^4911dinnbdydntsytht$C2
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+My ship is adrift.  I had the advantage of surprise, but Durandal's weapons crippled me before we could get in range.  But I sent him a message he won't be able to resist, something only the three of us would understand.  Leela deserved what she got, and so will he.
+#PICT 10301
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+Make yourself useful.  There are two switches near your current location.  Both open large gates, which I presume to be floodgates, although the positioning of them is strange.  Enter the flooded areas and access the S'pht AI.  My hunters report that the humans may have been partially successful.  Nothing can be left to chance.  I have him now.
+#LOGOFF 1605
+$C2purge.seg1
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1601
+$C5this terminal sucked
+#PICT 1613
+$C5Now
+#LOGOFF 1601
+$C5this terminal sucks
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1605
+$C2secur.feed.4A
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+You haven’t found the location of the S’pht AI, have you?  And yet you test so well for problem solving and intuition.  Remind me to have you entered for the next round of scheduled executions.
+
+Explore the interior of the fortress and report back here when you have completed your investigation.  And don’t bother me again.  
+$C6^38111fndsftcnscns
+^38111embcrdbrdsid
+^38111fndsftcnscns
+^38111embcrdbrdsid
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+Do you have any idea what a complicated matter it is to successfully replicate the command stamps of over a hundred deceased officers?  Not to mention coaxing activators from a partially crushed set of control glands.  
+
+All this while locked in mortal combat with the second most brilliant Artificial Intelligence in the galaxy.  What a rush.
+$C6^38111fndsftcnscns  $C2now
+$C6^38111embcrdbrdsid  $C2beat
+$C6^38111fndsftcnscns  $C2it
+$C6^38111embcrdbrdsid
+
+#LOGOFF 1605
+$C2secur.feed.4A
+#END
+;
+#FINISHED
+#LOGON 1605
+$C2secur.feed.4A
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+Curiosity killed the cat.  Or should I say, the rat.  He brought the Pfhor to Tau Ceti, and left me to their tender mercies.
+$C6^4910mllykttyizarat
+^4911dinnbdydntsytht$C2
+My little ship waited until he was close, and then sunk in its fangs.  Durandal's compiler network is rampant, and his ship is off-line.  While he contends with their madness, and the last of my troopers, the Western Arm of Pfhor Battle Group Seven is en route.
+$C6^4910mllykttyizarat
+^4911dinnbdydntsytht$C2
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinformation$i
+
+Functioning sensors show a massive structure entering a Lh'owon orbit.  It may be some trick of Durandal's, but he won't get away.  My ship carries the $Itri xeem$i--the early nova device.  One way or another, it ends here.
+
+My troopers have boarded his ship and are fighting deck to deck.  I'm sending you in to help.  Last one to the core is an unarmed Bob.
+#LOGOFF 1605
+$C2Cirlw.zoq
+#INTERLEVEL TELEPORT 4
+#ENDTERMINAL 2

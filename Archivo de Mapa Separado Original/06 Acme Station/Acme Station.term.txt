@@ -1,0 +1,84 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1600
+D. Re-cognizant 39clflash
+#PICT 10601
+
+This is a scanning buoy in a deep Lh’owon orbit.  The station is obviously not of Pfhor construction, but they are using it for a sensor relay station.  You must destroy three panels at key locations around the station to cripple their warning system.
+
+You’d better hurry up, because you will run out of oxygen if you take too long, and I am only willing to transport you two oxygen recharge canisters.  Otherwise, we might alert the scout ship that's been tailing us for the last several years, and if that happens you will be spending your time drying out in the glow of Lh’owon’s sun.
+
+When you’re finished come back here.  Then we go atmosphere surfing.
+#LOGOFF 1600
+furnish 20-a
+#END
+;
+#FINISHED
+#LOGON 1600
+furnish 20-a
+#PICT 10601
+Well done, its old hat from here, Bernhard was constantly having me do redirect-subterfuge work back on Mars, it was easy then, and its only gotten easier.
+
+Somehow the Pfhor have built a ship even faster than mine, and its hiding out now over the southern pole of Lh'owon, waiting for us.  I guess its captain underestimated the sensitivity of my sensors.  The Pfhor have been following me around for the last several years, trying to capture the ship, or perhaps wondering what I'm up to.  Lately they've been staying very close.  They know I'm on to something.
+
+Anyway, get back here and get strapped down, because our captured Pfhor scoutship wasn’t designed for comfort during high speed atmospheric excursions.  We're going to give the Pfhor a surprise.
+#LOGOFF 1600
+<dlci3.ci3.21>
+#INTERLEVEL TELEPORT 7
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1617
+$C2W-a !29931
+#PICT 11118
+$C2Aggregate Station Units
+origin: $C6station willful unit Hrled$C2
+destin: $C6Aggregate station units$C2
+ref: $C6scheduled cycle demotions$C2
+stamp: $Ienforcement$i
+
+Station aggregate units are hereby commissioned to retrieve and execute scheduled tasks per notice.  
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+All tasked units are hereby demoted one class by stamp: $Ienforcement$i until receipt of stamp: $Ireceipt$i.
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#LOGOFF 1617
+$C2W-a !29931
+#END
+
+#FINISHED
+#LOGON 1618
+$C2req.932l1
+#PICT 11120
+$C2Anonymous Notice
+origin: $C6aggregate Tenstcel fourth class$C2
+destin: $C6station willful unit Hrled$C2
+ref: $C6scheduled cycle demotions$C2
+stamp: $Ipostponement$i
+
+$C6stamp: $Ianonymous$i issued by station enforcement unit 3190-f$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+Units aggregate hereby request postponement of scheduled demotions due to parity error in posting of scheduled tasks.  Error of type eight is cause expiration with no recordable backlog of data loss.
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#PICT 11120
+$C2Anonymous Notice
+origin: $C6aggregate Tenstcel fourth class$C2
+destin: $C6station willful unit Hrled$C2
+ref: $C6scheduled cycle demotions$C2
+stamp: $Ipostponement$i
+
+Units aggregate humbly request re-posting of scheduled tasks for next cycle to be completed concurrently with tasks posted concurrently.
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+$C6^28199bfubrictefxal
+^28199thdmncobwbsnw$C2
+#LOGOFF 1618
+$C2req.932l1
+#ENDTERMINAL 1

@@ -1,0 +1,71 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 10701
+$C1>>---Incoming message---<<
+
+$C2Time for you to prove to yourself that you are in fact a true VID-Master. Prepare to embark into the Vidmaster's Challenge!
+
+Go and kill everything you find, and $C5I mean EVERYTHING$C2. You will need to use your skill in killing and destruction to get your butt safely out of this place. 
+     
+Once you kill everything, I will send you out from another terminal, so don't be coming back here for escape.
+
+$C5Go kick some Pfhor Butt!
+
+$C6PS: No Pattern Buffers are working, so you will have to be really good and not slip up or it's all over for you.
+#LOGOFF 1001
+#END
+#FINISHED
+#LOGON 1000
+#PICT 1000
+$C2Good job. But your at the WRONG terminal. 
+
+Can't follow directions?!?!?!
+You wannabe VidBoy!?! 
+Get outta my sight!!!
+
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 27
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2Well you found the right terminal, finally, but you haven't killed everything in this place!
+
+Get back out there and kill those nasties!
+
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 4
+#END
+#FINISHED
+#LOGON 1000
+#PICT 1003
+$C1>>---Incoming message---<<
+
+$C2Great job, and you have passed the first test.
+
+Prepare for your demise.
+
+$C0
+     ---<>>-Jump Pad--Activated-<<>---
+   ---<>>DESTINATION: THE GAUNTLET<<>---
+#LOGOFF 1001
+#INTERLEVEL TELEPORT 31
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1002
+#PICT 1613
+$C1>>---Incoming message from Bungie---<<
+
+$C2What possessed you to go way out there in the lava and then find this spot? Did you remember it from two years ago or something?
+
+The mark of a true Vidmaster... keep it up!
+#LOGOFF 1002
+#ENDTERMINAL 2

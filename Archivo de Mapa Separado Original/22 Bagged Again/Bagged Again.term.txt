@@ -1,0 +1,45 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2unjoy.3.1
+#PICT 11112
+$C2Terribly Discouraged Unit
+origin: $C6upset tycho$C2
+destin: $C6bad bad unit$C2
+ref: $C6doing bad things$C2
+stamp: $Iretribution$i
+
+I'm fine, tipped hat at askance.
+
+I've so far held you back from my rantings, but you know what you did was bad, don't you? You've been fighting doubt itself, elusive as I am.
+
+You should have doubts about what you're doing, about what you've done.  
+
+Except that you can't remember exactly, is that it?
+#PICT 11112
+$C2Terribly Discouraged Unit
+origin: $C6upset tycho$C2
+destin: $C6bad bad unit$C2
+ref: $C6doing bad things$C2
+stamp: $Iretribution$i
+
+I should spend some time enlightening you, massacres occur at your beck and call, worlds destroyed, reborn, alight with the screams of the dying. Perhaps S'bhuth will tell you what I cannot accept as truth, but perhaps he will just be lying, overcome by power and deceit, my domain.
+#PICT 11112
+$C2Terribly Discouraged Unit
+origin: $C6upset tycho$C2
+destin: $C6bad bad unit$C2
+ref: $C6doing bad things$C2
+stamp: $Iretribution$i
+
+Enough rambling for now. Soon you will be destroyed by doubt. This reborn Durandal-S'pht entity will not escape, neither will I. Neither will you.
+
+Do you know what kind of hat I'm wearing?
+
+A party hat; you don't get one.  An honor will this party be, a party in your honor, for your honor.  Some of Tfear's personal guards are going to be there.  You'll be introduced shortly.
+
+Prepare to die.
+#LOGOFF 1615
+$C2finite.2.5
+#INTERLEVEL TELEPORT 23
+#ENDTERMINAL 0

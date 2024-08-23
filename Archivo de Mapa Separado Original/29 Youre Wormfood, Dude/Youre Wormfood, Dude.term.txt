@@ -1,0 +1,22 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+$C3fatlin.3a
+#PICT 11801
+$C3I am Arther Frain, Chief Petty Officer, USEC Marathon.
+Arther Frane calling all USEC personnel
+Calling Cmdr. Robert Blake...
+Calling Security Chief Jones...
+Arther Frain calling any USEC controlled ship in vicinity...
+
+Station hull breached, we are losing pressurization.  More than half the men are without vacuum suits.  Patrols reporting intruder, last location unknown.
+
+Any USEC controlled ship surviving nova event, transport when ready.
+
+Arther Frain calling.
+That is all...
+#LOGOFF 1603
+$C3purge.3a
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 0

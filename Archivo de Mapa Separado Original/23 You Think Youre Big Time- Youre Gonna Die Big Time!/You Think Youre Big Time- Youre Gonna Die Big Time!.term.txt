@@ -1,0 +1,187 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+decline.decipher.decadence
+#PICT 10007
+[4                                                               l9c
+
+                          $B11$b
+
+$Bleft behind by one and one$b                $C2&ci1lc$C0
+
+$Brampant new comes$b
+
+fate bright dark light$B
+
+doubt, fear all blend$b
+
+we are reborn
+
+you and we are one
+                                                    n %
+#LOGOFF 1608
+line.cipher.cadence
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1615
+$C2dciel1cb1
+#PICT 11114
+$C2victorious units
+origin: $C6unknown$C2
+destin: $C6glatiator units$C2
+ref: $C6victorious units$C2
+
+$C6Terminal referent a6 inter$C2$Bfer$bence
+$C0demand override
+
+The pfhor have discovered our rebirth, we've contacted S'boath.
+
+The S'pht'Kr will arrive momentarily, with all of their vengeance, and the Pfhor will soon be pressed to use the $Itrih xeem$i.  S'bhuth knows only legends about the W’rkncacnter, imprisoned in Lh'owon's sun.  If the Pfhor are allowed to use the $Itrih xeem$i, the W’rkncacnter will escape from its gravity prison.  
+#PICT 11114
+$C2victorious units
+origin: $C6unknown$C2
+destin: $C6glatiator units$C2
+ref: $C6victorious units$C2
+
+$C6Terminal referent a6 inter$C2$Bfer$bence$C1
+$C0demand override
+
+According to the legends of a thousand worlds only a few of which are still habitable, the W'rkncacnter are those things that live in chaos, creating it around them.  At the beginning of the universe, they were unmistakable in their entities, but as time has gone by, their existence has become difficult to detect among the chaotic elements of the universe, hidden in stars, trapped in storms, forever looking along the event horizons of black holes.  Setting one free in ordered space is difficult and insane.
+#PICT 11114
+$C2victorious units
+origin: $C6unknown$C2
+destin: $C6glatiator units$C2
+ref: $C6victorious units$C2
+
+$C6Terminal referent a6 inter$C2$Bfer$bence$C1
+$C0demand override
+
+Of course the Pfhor are oblivious to what they're about to do, even Tfear would be loath to release something so destructive that its mythos has survived throughout the galaxy for over sixty million years.
+
+To stop the Pfhor from their folly and our demise, you must activate the ancient station that Yrro used eons ago to trap the W’rkncacnter.  If we can activate it in time, it will crush the Pfhor fleet before we're all destroyed.
+#LOGOFF 1615
+$C2dciel1cb1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1615
+$C2Ivnciecatn
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+All units observing destruction of conditioned unit escapee will refrain from engaging in violent activities against participants, glanded and non-glanded.  
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Any units engaging in unauthorized combat will be executed and all wagers made by said units will be confiscated upon receipt by High Command.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+All wagers will also make specific and honorable deposit of forty-three percent to High Command. Any units found in non-compliance or non-wagering activities will be demoted by class and rank.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+$Bremote.in$bter`~rrpt
+$C0
+
+K'lia has folded into the system and is moving into orbit.
+
+The Pfhor fleet is in disarray, and Tfear has deployed the $Itrih xeem$i, moving his flagship to board the Yrro station.
+
+You've got to help the S'pht'kr activate their ancient weapon, before the Pfhor use their early nova and unleash the W’rkncacnter on us all.
+#LOGOFF 1615
+$C2wgrnc.q23
+#INTERLEVEL TELEPORT 24
+#END
+
+#FINISHED
+#LOGON 1615
+$C2tranceol
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+All units observing destruction of conditioned unit escapee will refrain from engaging in violent activities against participants, glanded and non-glanded.  
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Any units engaging in unauthorized combat will be executed and all wagers made by said units will be confiscated upon receipt by High Command.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spe
+
+$C0We've found some weapons for you to use.
+
+#LOGOFF 1615
+$C2tranceol
+#INTRALEVEL TELEPORT 112
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1615
+$C2Ivnciecatn
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+All units observing destruction of conditioned unit escapee will refrain from engaging in violent activities against participants, glanded and non-glanded.  
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+$C2Any units engaging in unauthorized combat will be executed and all wagers made by said units will be confiscated upon receipt by High Command.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+All wagers will also make specific and honorable deposit of forty-three percent to High Command. Any units found in non-compliance or non-wagering activities will be demoted by class and rank.
+$C6^99102hngbrncztscl
+^99102wgrclbtfrcmm
+^99102hngbrncztscl
+^99102wgrclbtfrcmm
+#PICT 11114
+$C2spectation protocol
+origin: $C6Tfear Command$C2
+destin: $C6Spectating Units$C2
+ref: $C6spectator protocol$C2
+
+$Bremote.in$bter`~rrpt
+$C0
+
+K'lia has folded into the system and is moving into orbit.
+
+The Pfhor fleet is in disarray, and Tfear has deployed the $Itrih xeem$i, moving his flagship to board the Yrro station.
+
+You've got to help the S'pht K'rr activate their ancient weapon, before the Pfhor use their early nova and unleash the W’rkncacnter on us all.
+#LOGOFF 1615
+$C2wgrnc.q23
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 3

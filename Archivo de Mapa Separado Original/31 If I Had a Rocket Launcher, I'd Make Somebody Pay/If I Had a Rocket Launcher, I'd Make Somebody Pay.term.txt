@@ -1,0 +1,48 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2Ah, so you think your a bad-ass for getting past the first test huh? Well you will most certainly DIE NOW!
+
+This test is easy, get to the end of the Gauntlet, it's that simple. 
+     
+Don't think to stand your ground, because it won't help you any.
+
+$C5RUN, RUN FOR YOUR LIFE! HAHAha...
+
+$C0---<>> Jump Pad Activated <<>---
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 25
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2Half way through Wuss-Boy. Did you like those A-Bobs? I know you probably had an explosive relationship.
+
+
+#LOGOFF 1001
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2What's that I hear? Is someone sighing relief?
+
+Don't go and get yourself all relaxed or anything like that, you are about to witness something that no mortal has ever seen!
+
+
+$C0    ---<>>-Jump Pad Activated-<<>---
+   ---<>>DESTINATION: THE ARENA<<>---
+#LOGOFF 1001
+#INTERLEVEL TELEPORT 32
+#ENDTERMINAL 2

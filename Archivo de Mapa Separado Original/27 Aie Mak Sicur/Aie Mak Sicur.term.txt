@@ -1,0 +1,32 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2~5.98|term.out
+#PICT 11114
+$C2term.out
+origin: $C6High Admiral Tfear$C2
+destin: $C6$Iundef$i$C2
+stamp: $C6terminus$C2
+
+The $Itrih xeem$i broke against my dying vessel and smashed a fine patina across the mystery shields of this station.  My crew battled the aliens during the blast, and thesilence which came after was sullen and deafening--the pure silence of victory.
+$C6^^^alks897
+^^^^rwx777
+^^rw-664$C2
+But the trackless whisper chattering through the hollow space in these cursed walls buzzes and threatens madness.  The abomination cracked the shells of my crew and sucked the husks, tossing them unseen and shattering the spindle like a dried creche.
+#PICT 11114
+$C2term.out
+origin: $C6High Admiral Tfear$C2
+destin: $C6$Iundef$i$C2
+stamp: $C6terminus$C2
+
+The shields are gone, not down, but gone, and so are the engineers.  It's coming back, I'm sure: and my last mercy is immolation.
+
+Great Mother crouched behind the Throne, I make this wrong right.
+$C6^^^alks897
+^^^^rwx777
+^^rw-664$C2
+#LOGOFF 1615
+$C2^^^EOf
+#INTERLEVEL TELEPORT 6
+#ENDTERMINAL 0

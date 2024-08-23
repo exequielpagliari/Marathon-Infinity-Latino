@@ -1,0 +1,48 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1608
+#PICT 1609
+$C1
+
+
+
+
+
+$Bforesight$b
+	$Bforesight$b
+	ever on ever aught
+	
+	the long sleep ends
+		never saw the dark path $Bhere$b
+		
+		who?
+		comejjrro?
+#LOGOFF 1608
+
+#END
+;
+#FINISHED
+#LOGON 1619
+
+#PICT 10007
+
+
+
+
+
+The graven image stirs
+
+		we are whole again
+		and even more
+		our voice our horn approaches
+		the ancient ones return
+		
+The watery cheek, sullen star
+
+$BK'lia$b and the wrathful son
+$BS'bhuth$b
+#LOGOFF 1619
+
+#INTERLEVEL TELEPORT 22
+#ENDTERMINAL 0

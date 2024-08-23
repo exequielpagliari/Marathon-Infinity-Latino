@@ -1,0 +1,26 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1610
+#PICT 10007
+
+
+
+
+
+$C1steps that falter fail
+
+time beyond loss
+loss behind the screen of life
+
+not held
+			not forgotten
+not lost
+
+$Bunlost found$b
+
+stay the hard way
+dark dreaming carries all
+
+#LOGOFF 1610
+#ENDTERMINAL 0

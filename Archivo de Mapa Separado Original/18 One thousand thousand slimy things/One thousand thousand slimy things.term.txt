@@ -1,0 +1,105 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+
+#PICT 11801
+
+
+
+
+Pfhor strike teams have entered the base.
+All personnel are ordered to fall back through the tunnels and regroup at
+the western edge of the crater.
+
+Eliminate the captives and destroy munitions likely to fall into enemy hands.
+#LOGOFF 1603
+$C3connection.reset
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1603
+$C3jump.term7a
+#PICT 11802
+
+
+
+
+$C3jump terminal 7a
+authorization key required
+priority transports only
+magnetic seals and coils prohibited
+
+observe radio silence at all times
+...
+#LOGOFF 1603
+$C3jump.powerup7a
+#INTRALEVEL TELEPORT 264
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1603
+$C3jump.term7b
+#PICT 11802
+
+
+
+
+$C3jump terminal 7b
+authorization key required
+priority transports only
+magnetic seals and coils prohibited
+
+observe radio silence at all times
+...
+#LOGOFF 1603
+$C3jump.powerup7b
+#INTRALEVEL TELEPORT 167
+#END
+
+
+
+#FINISHED
+#LOGON 1603
+$C3jump.term7c
+#PICT 11803
+$C3jump terminal 7c
+authorization key required
+priority transports only
+magnetic seals and coils prohibited
+
+observe radio silence at all times
+...
+#LOGOFF 1603
+$C3jump.powerup7c
+#INTRALEVEL TELEPORT 493
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1605
+$C2handl.remote
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6genocide$C2
+stamp: $Ileniency$i
+
+Very impressive. The primary function of intelligence is the subordination of our instinctive desires, the mark of a strong species. Which is why your kind will serve well the needs of the Hindmost Creche. The Hindmost is of an intelligence so vast, it encompasses the span of the Pfhor, and to those privilege to serve Her, appears insane. That is the final function of the Commanding Rank, the thought that we keep forever in our minds, that we deny our selfish, willful needs, so that the Empire will survive.
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6genocide$C2
+stamp: $Ileniency$i
+
+The humans are escaping through the cone of the volcano, where they have activated containment fields to suppress the lava floe. I want nothing more than to cut them off so they can be captured, for long, useful lives in the conditioned ranks.
+
+The containment fields are powered by multiple, redundant sources throughout the cone. You will have to deactivate them all.
+#LOGOFF 1605
+$C2
+#INTERLEVEL TELEPORT 19
+#ENDTERMINAL 3

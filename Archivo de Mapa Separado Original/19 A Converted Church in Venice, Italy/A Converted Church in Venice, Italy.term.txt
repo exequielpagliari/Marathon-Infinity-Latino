@@ -1,0 +1,90 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1603
+$C3Blake.evac
+#PICT 11801
+$C3We've been cut off from the surface, and Pfhor dropships have entered the cone.  Send all fusion units to the towers to harass Pfhor units assaulting the field power generators.  Hagakure Base is overrun, and the last transmission was over twenty minutes ago.  All transporter relays have been destroyed, and the network is about to be compromised.
+
+The magma tunnels are our only hope.  Durandal indicated the huge alien fortress to the west might be reachable through the volcano.  Let's hope he was right.
+
+We'll hold the containment fields as long as we can.
+Blake out.
+end.record
+#LOGOFF 1603
+$C3shu.bn'gg.rth
+#END
+
+#FINISHED
+#LOGON 1605
+$C2lin.direct
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6confinement$C2
+stamp: $Ileniency$i
+
+Your devotion to saving the humans is admirable.  Of course, that devotion to species will be among the first of your traits conditioned out on Gr'ndl Prime.  Automated units report capture of over three hundred surrendering human troops, and twice that number fighting.  Including casualties captured in the base, that is over one thousand of your kind saved.
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6confinement$C2
+stamp: $Ileniency$i
+
+When ready, you may transport to a place of confinement before coldsleep and transfer to Conditioning Unit.
+#LOGOFF 1605
+$C2end.run
+#INTERLEVEL TELEPORT 20
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1605
+$C2dread.lin
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6genocide$C2
+stamp: $Ileniency$i
+
+The humans are escaping through the chamber below the lava floe.  I don't know if there is an exit, and I honestly don't care.  Once the area is secure, I've given orders to release the lava and bury the survivors under a few thousand tons of molten rock.
+
+Think of it as a chance to save what little remnant of your species still lives.  There are thirty power switches throughout the cone.  You must deactivate them all to access the basement level, where the master generator is located.  I can't justify sacrificing any of my troops to assist you, but if you seal the tunnel, the fleeing humans will almost certainly surrender.
+#PICT 11112
+$C2rogue conditioned unit
+origin: $C6High Admiral Tfear (Command)$C2
+destin: $C6rogue conditioned unit$C2
+ref: $C6genocide$C2
+stamp: $Ileniency$i
+
+If you survive the flooding of the chamber, I will transport you out from any terminal.
+#LOGOFF 1605
+$C2lin.purge
+#END
+;
+#FINISHED
+#LOGON 1608
+#PICT 1609
+
+
+
+
+
+
+
+$C1the long sleep ends
+
+your construct
+
+bethought itself higher
+
+awaiting far beneath
+
+my fate was written
+#LOGOFF 1608
+
+#INTERLEVEL TELEPORT 20
+#ENDTERMINAL 1

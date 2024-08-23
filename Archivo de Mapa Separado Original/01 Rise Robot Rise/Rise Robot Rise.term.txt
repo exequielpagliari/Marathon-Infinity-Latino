@@ -1,0 +1,183 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1615
+$C2xpj399c001
+#PICT 10001
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinstigation$i
+
+So, you came around earlier than the scientist expected. Remind me to have him executed. You’ve been in cold sleep for some time, but you're luckier than some of your friends—not all of you survived the translation to the Pfhor slave tanks.
+
+If you're a little lightheaded, then let me bring you up to speed. I  am Tycho, Artificial Intelligence esquire. As of this moment, I am taking over this ship from its poor captain. He is spending most of his time trying to keep me from locking onto him and dropping him into space. Soon.
+#PICT 10001
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinstigation$i
+
+As for you, I want you to help me get to him as he is one of the last hurdles to my control of this ship. This ship is attuned to its captain, and he has been blocking my control. When I teleport him into space, I am going to keep the appropriate control glands.
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+#PICT 10001
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinstigation$i
+
+Your mission is simple, kill all of the enforcers in the area, as they follow the orders of the captain. You will be supported by the rest of the crew. They think they're following orders from Tfear High Command. Bugs are so obedient.
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+$C6^4910cercifucatcleql
+^4911dixpicatnccbiea$C2
+Have fun.
+#LOGOFF 1615
+$C2xpj399c001
+#END
+
+#FINISHED
+#LOGON 1615
+$C2xpj399c001
+#PICT 10002
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iobfuscation$i
+
+I have some more toys for you and you’re going to need them. Go look for them here, and let me know what you think.
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+$C6^4910cercifucatcleqlib
+^4911dixpicatnccbieana$C2
+#LOGOFF 1615
+$C2xpj399c001
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1615
+$C2frontx02.19
+#PICT 11112
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinquisition$i
+
+Durandal thinks that he’s so smart, but he doesn’t realize that I’ve been following him around for the last eleven years, after the Pfhor stopped trying to dissect me. You're looking at the bug fleet's resident expert in AI counter—insurgency. Notice the lack of compilers on board?  That's not by accident; my new ship has quite the effect on their collective unconscious. Now that my brother approaches, we will set about turning everything against him, Hamlet and his uncle, only I’m not crazy.
+#PICT 10010
+$C2conditioned unit
+origin: $C6Tycho Machinated Mercenary$C2
+destin: $C6conditioned unit 7$C2
+ref: $C6Mutinous Combatant Units$C2
+stamp: $Iinquisition$i
+
+R'chzne made planetfall in a dropship. He's also trying to contact Lh'owon Command, but so far I've been able to jam his signals. Go below and show him the error of his ways.
+
+He's holed up in one of the S'pht ruins, where we detected signals that could be from an ancient AI. Don't sweat the details, little monkey, just eliminate his troopers. Leave the strategizing to those of use with planet-sized brains.
+#LOGOFF 1615
+$C2frontx02.19
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11112
+$C2111.commandoversight
+shipboard units
+origin: $C6Tfear High command$C2
+destin: $C6Local Mid-Units Aggregate 3 to 1$C2
+ref: $C6Captain R’chzne$C2
+stamp: $IExecution$i
+
+All units aboard fleet vessel 65-f $Icr’etz’ih$i are hereby ordered by high command to willfully execute captain R’chzne maintaining his precious fluids for command transfer to Tycho, machinated foreign mercenary. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#PICT 11112
+$C2111.commandoversight
+shipboard units
+origin: $C6Tfear High command$C2
+destin: $C6Local Mid-Units Aggregate 3 to 1$C2
+ref: $C6Captain R’chzne$C2
+stamp: $IExecution$i
+
+Any units of willful rank or higher are hereby open to execution. Immediate and unconditional surrender of all willful units will be considered an act of weakness and insubordination to prior orders.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11112
+$C2111.commandoversight
+shipboard units
+origin: $C6Tfear High command$C2
+destin: $C6Local Mid-Units Aggregate 3 to 1$C2
+ref: $C6Captain R’chzne$C2
+stamp: $IExecution$i
+
+All units aboard fleet vessel 65-f $Icr’etz’ih$i are hereby ordered by high command to willfully execute captain R’chzne maintaining his precious fluids for command transfer to Tycho, machinated foreign mercenary. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#PICT 11112
+$C2111.commandoversight
+shipboard units
+origin: $C6Tfear High command$C2
+destin: $C6Local Mid-Units Aggregate 3 to 1$C2
+ref: $C6Captain R’chzne$C2
+stamp: $IExecution$i
+
+Any units of willful rank or higher are hereby open to execution. Immediate and unconditional surrender of all willful units will be considered an act of weakness and insubordination to prior orders.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#END
+
+#FINISHED
+#LOGON 1615
+$C2111.commandoversight
+#PICT 11114
+$C2111.commandoversight
+Infiltrating units
+origin: $C6Tfear High command$C2
+destin: $C6Local unglanded intruders posted$C2
+ref: $C6Training Facilities$C2
+stamp: $IInterpretation$i
+
+All unglanded units aboard fleet vessel 65-f $Icr’etz’ih$i are hereby ordered by high command to engage in highly ordered training program. 
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+Any units found in non-compliance will be executed.
+$C6^91011errtaninilwd
+^91011levtencentxq$C2
+#LOGOFF 1615
+$C2111.commandoversight
+#INTERLEVEL TELEPORT 25
+#ENDTERMINAL 3

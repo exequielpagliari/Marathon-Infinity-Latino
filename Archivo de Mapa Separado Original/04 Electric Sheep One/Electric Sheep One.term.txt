@@ -1,0 +1,20 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1619
+#PICT 10007
+
+
+
+$C1$Bthe hard path of thought$b
+
+[o..s%^^66
+(k33)oee.*
+$Byour former 		self destroyed$b
+
+the dreaming way is eased
+
+down to the crushing center
+			and spared the dance of forever
+#LOGOFF 1619
+#ENDTERMINAL 0

@@ -1,0 +1,26 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1619
+#PICT 10007
+
+
+
+$C1the way grows 
+						dim
+
+$Bhungry chaos lurks$b behind the
+bright corona
+
+dream ahead beyond the falling path
+a billion S'pht lie yet unborn
+
+our own $Bdeath fortold$b
+
+$Byour dark mind cutting through$b
+the deeping sky
+
+another time
+another time
+#LOGOFF 1619
+#ENDTERMINAL 0

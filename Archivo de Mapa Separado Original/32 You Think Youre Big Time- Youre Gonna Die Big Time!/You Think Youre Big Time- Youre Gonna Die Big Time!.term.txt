@@ -1,0 +1,91 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2Gee, seems like the pfhor found out what steroids are!
+
+Welcome to the Arena, you will die before you even get to the second door. You are weak, and unprepared for what is about to happen to you.
+
+Imagine if you will, you're standing on a grade of finely processed salt in a salt factory. Now, there is a very large rusty blade flying towards you at a very high speed. Imagine now, the feeling you will have as you fall into that salt after you are run through with that blade.
+
+$C5That is going to be your pain in a few minutes, Mortal.
+
+#LOGOFF 1001
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 1000
+#PICT 1000
+$C1>>---Incoming message---<<
+
+$C2Your not out of the salt pile yet, boy.
+
+$C5Watch out for that big nasty thing that kicks your ass.
+
+#LOGOFF 1001
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 1000
+#PICT 1003
+$C1>>---Incoming message---<<
+
+$C2Life is easy isn't it? NO!
+
+You only think you have completed this test... well you're wrong.
+
+$C5The circuits are our friends.
+
+$C0
+    ---<>>-Jump Pad--Activated-<<>---
+  ---<>>DESTINATION: DOWN TO HELL<<>---
+#LOGOFF 1001
+#INTRALEVEL TELEPORT 112
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 1000
+#PICT 1004
+$C1>>---Incoming message---<<
+
+$C2Most excellent work VidBoy!
+
+After getting through all of that alive, you can now call yourself a Vidmaster of the Marathon. With blood dripping from your boots, and that piece of Pfhor stuck between your teeth, what are you going to do now?
+
+$C5"I'M GOING TO DIZZY-LAND!!!"$C2
+
+No... now you must face the wrath of the NET-Vidmaster Challenge! It's a whole different ball game there pilgram. Go grab all your peers and beat each other senseless in the vast gut wrenching arenas, and see who's King of Carn. It will then be the only way you can truly call yourself a True VID-Master of Marathon!!!
+
+
+$C6Your venture isn't over yet, Mortal.
+
+$C0
+    ---<>>-Jump Pad--Activated-<<>---
+    ---<>>DESTINATION: STARSIDE<<>---
+#LOGOFF 1002
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 1000
+#PICT 1004
+$C1>>---Incoming message---<<
+
+$C2Most excellent work VID-Boy!
+
+HAHAHAHAhahaha...
+
+Go over to that terminal across the way there to get out of this hell hole.
+
+$C6::snicker::
+
+
+#LOGOFF 1001
+#ENDTERMINAL 4
