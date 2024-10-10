@@ -12,9 +12,9 @@ el núcleo(corazón) del sol y la flamante prisión de el W'rcacnter$b(duda) $Bd
 					 0394yh...e.e.
 desentrañan pensamientos excesivos
 
-$BEl activador de la red de energía está localizado aquí, en el anillo exterior, el cual deberás acceder para poner en linea la estación.$b
+$BEl activador de la red de energía está localizado aquí, en el anillo exterior, el cual deberás acceder para encender la estación.$b
 #PICT 12402
-$BLa maya necesita circuitos de patrón $Iyrro$b(echadolejos)$i $Bpara funcionar.  Los Pfhor han recuperado uno aquí, en el hangar principal de la estación y lo están preparando para transportarlo a $IK’fiva$i.$b
+$BLa malla necesita circuitos de patrón $Iyrro$b(echadolejos)$i $Bpara funcionar.  Los Pfhor han recuperado uno aquí, en el hangar principal de la estación y lo están preparando para transportarlo a $IK’fiva$i.$b
 #LOGOFF 1610
 tat.iana
 #END
@@ -24,7 +24,7 @@ end
 #PICT 12403
 Lo has hecho.
 
-La estación jjarro está en linea y estamos atrapando a la nova en sus campos de contención.  La criatura o criaturas que S'bhuth teme están dormidas o son un mito--no hemos visto 
+La estación jjarro está en linea y estamos atrapando a la nova en sus campos de contención.  La criatura o criaturas que S'bhuth teme están dormidas o son un mito--no hemos visto nada que justifique su terror.
 
 Los S'pht’Kr han enrutado al Pfhor, capturando su nave insignia y obligando a su Gran Almirante a huir del sistema, lo poco que queda de él. Los S'pht se están preparando para despedirse de su amada casa para siempre, mientras el sol se derrumba sobre sí mismo y las marismas solitarias se desvanecen en el crepúsculo cada vez más profundo.
 #PICT 12403
