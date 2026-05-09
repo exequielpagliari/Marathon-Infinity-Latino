@@ -10,7 +10,7 @@ declinar.descifrar.decadencia
 
 $Bdejado atrás por uno y uno$b                $C2&ci1lc$C0
 
-$Bnuevo rampante llegas$b
+$Bnuevo rampante llega$b
 
 destino brillante luz oscura$B
 

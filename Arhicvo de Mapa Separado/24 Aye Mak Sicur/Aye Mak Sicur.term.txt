@@ -14,7 +14,7 @@ desentrañan pensamientos excesivos
 
 $BEl activador de la red de energía está localizado aquí, en el anillo exterior, el cual deberás acceder para poner en linea la estación.$b
 #PICT 12402
-$BLa maya necesita circuitos de patrón $Iyrro$b(echadolejos)$i $Bpara funcionar.  Los Pfhor han recuperado uno aquí, en el hangar principal de la estación y lo están preparando para transportarlo a $IK’fiva$i.$b
+$BLa red necesita circuitos de patrón $Iyrro$b(exiliado)$i $Bpara funcionar.  Los Pfhor han recuperado uno aquí, en el hangar principal de la estación y lo están preparando para transportarlo a $IK’fiva$i.$b
 #LOGOFF 1610
 tat.iana
 #END
@@ -24,7 +24,7 @@ end
 #PICT 12403
 Lo has hecho.
 
-La estación jjarro está en linea y estamos atrapando a la nova en sus campos de contención.  La criatura o criaturas que S'bhuth teme están dormidas o son un mito--no hemos visto 
+La estación jjarro está en linea y estamos atrapando a la nova en sus campos de contención.  La criatura o criaturas que S'bhuth teme están dormidas o son un mito--no hemos visto nada que justifique su temor.
 
 Los S'pht’Kr han enrutado al Pfhor, capturando su nave insignia y obligando a su Gran Almirante a huir del sistema, lo poco que queda de él. Los S'pht se están preparando para despedirse de su amada casa para siempre, mientras el sol se derrumba sobre sí mismo y las marismas solitarias se desvanecen en el crepúsculo cada vez más profundo.
 #PICT 12403
@@ -49,7 +49,7 @@ Esta estación fue construida por los progenitores de los S'pht y utilizada para
 
 Los focos están a ambos finales de los husos y necesitan un segundo circuito insertado aquí, en este repetidor protegido por los guardias espirales élite de Tfear. 
 #PICT 12412
-El circuito está atrapado aquí, en un campo de contención que los Pfhor no han podido atravesar. Pensamos que serás capaz de alcanzarlo.  Los Pfhor excavados a su alrededor están luchando hasta la muerte.
+El circuito está atrapado aquí, en un campo de contención que los Pfhor no han podido atravesar. Pensamos que serás capaz de alcanzarlo.  Los Pfhor atrincherados a su alrededor están luchando a morir.
 
 La velocidad es de la esencia. 
 El $IW’rcacnter $i se queja debajo de su losa.
@@ -62,7 +62,7 @@ end
 #PICT 12403
 Lo has conseguido. 
 
-La estación jjarro está en linea y estamos envolviendo la nova en sus campos de contención.  La criatura, o criaturas que S'buth temía están durmiendo o son un mito--no hemos visto nada que justifique su terror.
+La estación jjarro está en linea y estamos envolviendo la nova en sus campos de contención.  La criatura, o criaturas que S'buth temía están durmiendo o son un mito--no hemos visto nada que justifique su temor.
 
 Los S'pht’Kr han enrutado al Pfhor, capturando su nave insignia y obligando a su Gran Almirante a huir del sistema, lo poco que queda de él. Los S'pht se están preparando para despedirse de su amada casa para siempre, mientras el sol se derrumba sobre sí mismo y las marismas solitarias se desvanecen en el crepúsculo cada vez más profundo.
 
@@ -716,7 +716,7 @@ alex, tuncer, janet, susan y montones de otra Gente Realmente Decente.
 ...como hamish, steve i, mr. welch, fm, omat, neon, sno, spy, arty, jk,
 wood, unya, xerx, brymen, squeaky, coog y ranmasan.
 
-al ultimo, gracias finales a mi mejor amigo bill ramsey (constante regañón a un lado)... cuyo mapa duality la rompe.
+al ultimo, gracias finales a mi mejor amigo bill ramsey (dejando de lado los constantes regaños)... cuyo mapa duality la rompe.
 
 paz,
 ydnar :)

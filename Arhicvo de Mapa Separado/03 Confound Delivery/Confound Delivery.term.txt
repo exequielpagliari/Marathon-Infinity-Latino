@@ -83,6 +83,7 @@ $C6^38111embcrdbrdsid
 #LOGOFF 1605
 $C2alimentación.seguridad.4A
 #END
+;
 #FINISHED
 #LOGON 1605
 $C2alimentación.seguridad.4A

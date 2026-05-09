@@ -6,7 +6,7 @@ $C1renaldo.luigi.fxo.1
 #PICT 10401
 $C1Busca el camino correcto en el laberinto, hacia la comida, después encuentra la salida.  Presiona el botón de salida.   Si la comida sabe horrible, no la comas, regresa y busca otro camino.  
 
-Ellos quieren lo mismo que tú, realmente, ellos quieren un camino, justo como tú.  Estás en un laberinto en un laberinto, pero, ¿Cuál vale? Tu laberinto, mi laberinto.  O, ¿son todos el mismo, definidos por los limites de sus caminos?
+Ellos quieren lo mismo que tú, realmente, ellos quieren un camino, justo como tú.  Estás en un laberinto en un laberinto, pero, ¿Cuál es el que cuenta? Tu laberinto, mi laberinto.  O, ¿son todos el mismo, definidos por los limites de sus caminos?
 
 #PICT 10401
 $C1La existencia es simple: encuentra la comida, presiona el botón, corre en la rueda. 
@@ -15,7 +15,7 @@ Pero a veces se vuelve mucho más difícil. A veces la comida te hace enfermar, 
 #PICT 10401
 $C1Sólo hay un camino y ese es el camino que tomas, pero puedes tomar más de un camino. 
 
-Cruza sobre las barras de la celda, encuentra un nuevo laberinto, haz el laberinto desde su camino, encuentra las barras de la celda, cruza las barras, encuentra un laberinto, haz el laberinto desde su camino, comete la comida, comete el camino. 
+Cruza sobre las barras de la celda, encuentra un nuevo laberinto, crea el laberinto desde su camino, encuentra las barras de la celda, cruza las barras, encuentra un nuevo laberinto, crea el laberinto desde su camino, comete la comida, comete el camino. 
 
 #LOGOFF 1608
 $C13

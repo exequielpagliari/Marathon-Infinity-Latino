@@ -29,7 +29,7 @@ $C3stty.fuera
 #PICT 11801
 $C3$I¿Qué salvar y qué tirar?$i
 
-pr?La ultima hora está sobre nosotros?sr.a?toro su pequeño gatito en el impenetrable
+pr?La hora final está sobre nosotros?sr.m?ete este pequeño gatito en el impenetrable
 cráneo?
 
 pr?Contenidos bajo presión?No exponer a calor excesivo, vacío, golpes,

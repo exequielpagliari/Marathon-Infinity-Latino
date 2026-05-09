@@ -31,7 +31,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+mantener silencio de radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7a
@@ -52,7 +52,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+mantener silencio de radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7b
@@ -70,7 +70,7 @@ clave de autorización requerida
 transportes prioritarios solamente
 prohibidos sellos magnéticos y bobinas 
 
-observar silencio radial en todo momento
+mantener silencio de radio en todo momento
 ...
 #LOGOFF 1603
 $C3mejora.salto7c

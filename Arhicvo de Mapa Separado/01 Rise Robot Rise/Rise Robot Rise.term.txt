@@ -95,9 +95,9 @@ $C2frontx02.19
 #TERMINAL 2
 #UNFINISHED
 #LOGON 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #PICT 11112
-$C2111.commandoversight
+$C2111.supervisióndecomando
 unidades a bordo
 origen: $C6Alto comando Tfear$C2
 destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
@@ -110,7 +110,7 @@ $C6^91011errtaninilwd
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #PICT 11112
-$C2111.commandoversight
+$C2111.supervisióndecomando
 unidades a bordo
 origen: $C6Alto comando Tfear$C2
 destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
@@ -123,15 +123,15 @@ $C6^91011errtaninilwd
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #LOGOFF 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #ENDTERMINAL 2
 ;
 #TERMINAL 3
 #UNFINISHED
 #LOGON 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #PICT 11112
-$C2111.commandoversight
+$C2111.supervisióndecomando
 unidades a bordo
 origen: $C6Alto comando Tfear$C2
 destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
@@ -144,7 +144,7 @@ $C6^91011errtaninilwd
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #PICT 11112
-$C2111.commandoversight
+$C2111.supervisióndecomando
 unidades a bordo
 origen: $C6Alto comando Tfear$C2
 destino: $C6Unidades Agregadas Medias Locales 3 a 1$C2
@@ -157,14 +157,14 @@ $C6^91011errtaninilwd
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #LOGOFF 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #END
 
 #FINISHED
 #LOGON 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #PICT 11114
-$C2111.commandoversight
+$C2111.supervisióndecomando
 Unidades de infiltración
 origen: $C6Alto comando Tfear$C2
 destino: $C6Intrusos locales no gladulados publicados$C2
@@ -178,6 +178,6 @@ Cualquier unidad que desobedezca será ejecutada.
 $C6^91011errtaninilwd
 ^91011levtencentxq$C2
 #LOGOFF 1615
-$C2111.commandoversight
+$C2111.supervisióndecomando
 #INTERLEVEL TELEPORT 25
 #ENDTERMINAL 3

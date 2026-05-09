@@ -22,7 +22,7 @@ $C2destino: $C6Unidades agregadas de patrullaje
 $C2ref: $C6unidad condicionada rebelde
 $C2sello: $Icontención$i
 
-La notificación enfática de la contención es declarada por la presente, y el comando permite hasta un 85% de casualidades aceptables y  motivar la persecución para una exitosa
+La notificación enfática de la contención es declarada por la presente, y el comando permite hasta un 85% de bajas locales aceptables y motiva a la persecución para una exitosa
 contención. Unidad de Aplicación 7b.oo en espera para transporte inmediato y 
 aniquilación voluntaria de la unidad rebelde.
 
@@ -49,9 +49,9 @@ $C1hilos  jalan
 					
 					enseñado la forma
 
-como gusta nuestro escondido
+como si fuera nuestro escondido
 
-vengar rápido el 
+venga rápido el 
 		
 		impetuoso aquí
 
@@ -124,7 +124,7 @@ $C2destino: $C6unidad de patrulla de vigilancia
 $C2ref: $C6retirada
 $C2sello: $Iexpedir$i
 
-Unidades patrulla de vigilancia son ordenadas a purgar, requemar tiendas locales para quemar inmediatamente y retirarse a las cortes interiores.  Explosión aérea después de recibir el sello de verificación de la unidad local conforme a la esterilización de las áreas exteriores.
+Unidades patrulla de vigilancia son ordenadas a purgar, requemar almacenes locales a cenizas inmediatamente y retirarse a las cortes interiores.  Explosión aérea después de recibir el sello de verificación de la unidad local conforme a la esterilización de las áreas exteriores.
 $C6^654204sprdnksprdnk
 ^092969zpzpzpzpzpzp
 ^090472tlboitlboitl

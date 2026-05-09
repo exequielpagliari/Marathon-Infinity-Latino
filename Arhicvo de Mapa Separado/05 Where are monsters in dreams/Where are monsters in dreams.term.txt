@@ -39,7 +39,7 @@ La estación de metro está muy brillante y reluciente debido al equipo de sanea
 #PICT 10506
 
 
-$C1El tren llega a tiempo y justo antes que una masa de hombres de traje oscuro que me han estado siguiendo durante lo que parecen años. Entre el saneamiento y los trajes, debo estar volviéndome  daltónico, pero el tren está aquí ahora y esos hombres, no, no me atraparán...
+$C1El tren llega a tiempo y justo antes que una masa de hombres de traje oscuro que me han estado siguiendo durante lo que parecen años. Entre el saneamiento y los trajes, debo estar volviéndome daltónico, pero el tren está aquí ahora y esos hombres, no, no me atraparán...
 #LOGOFF 1608
 $C11.1
 #INTERLEVEL TELEPORT 27

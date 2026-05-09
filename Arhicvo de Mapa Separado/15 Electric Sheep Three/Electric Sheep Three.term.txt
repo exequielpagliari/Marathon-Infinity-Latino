@@ -19,8 +19,8 @@ no perdido
 
 $Bdesperdido encontrado$b
 
-mantenerse en el camino difícil
-sueño oscuro llevando todo
+mantente en el camino difícil
+el sueño oscuro se lleva todo
 
 #LOGOFF 1610
 #ENDTERMINAL 0

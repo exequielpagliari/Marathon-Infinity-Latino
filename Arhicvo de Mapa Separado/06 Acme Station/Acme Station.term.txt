@@ -13,6 +13,7 @@ Cuando termines vuelve aquí. Entonces iremos a surfear en la atmósfera.
 #LOGOFF 1600
 amoblar 20-a
 #END
+;
 #FINISHED
 #LOGON 1600
 amoblar 20-a

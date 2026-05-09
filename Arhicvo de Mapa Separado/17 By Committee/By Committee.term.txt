@@ -56,7 +56,7 @@ destino: $C6unidad condicionada rebelde$C2
 ref: $C6escape$C2
 sello: $Iterminación$i
 
-Las felicitaciones están en orden, gusano. Dos semanas bajo los dolorosos cuidados de los Aplicadores y aún sin progreso. Sólo los Nar han probado ser más resistentes, pero no son inteligentes y mayormente incoherentes incluso antes de la interrogación. Eres verdaderamente remarcable.
+Te mereces que te felicite, gusano. Dos semanas bajo los dolorosos cuidados de los Aplicadores y aún sin progreso. Sólo los Nar han probado ser más resistentes, pero no son inteligentes y mayormente incoherentes incluso antes de la interrogación. Eres verdaderamente remarcable.
 
 También eres una molestia y he decidido eliminarte de una vez por todas. Pero no dejes que ningún Comandante diga que me falta una mente eficiente. He rastreado a los humanos a su base, en un remoto cráter volcánico. 
 #PICT 11114
@@ -84,7 +84,6 @@ ref: $C6humanos cautivos$C2
 sello: $Irestricción$i
 
 Todas las unidades de guarnición están ordenadas a de-escalar los procedimientos de aplicación en los humanos captivos para mantener los protocolos de cuota de supervivencia (49-61%). Los experimentos de acondicionamiento y coacción se ordenan interrumpir de inmediato. La nave de transporte llegará al sistema en 2 días para el empaque en crio-sueño y el envío a Gd’nrl Prime para un acondicionamiento y evaluación completos.
-
 #LOGOFF 1616
 $C2aplicación.enlace
 #ENDTERMINAL 1

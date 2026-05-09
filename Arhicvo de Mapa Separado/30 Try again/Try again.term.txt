@@ -22,7 +22,7 @@ $C6PS: Ningún Buffer de patrones funciona, así que deberás ser realmente buen
 $C2Buen trabajo. Pero estás en la terminal EQUIVOCADA. 
 
 ¿¡¿¡¿No puedes seguir instrucciones?!?!?
-¿¡¿¡¿Quieres ser un VidBoy?!?!?
+¿¡¿¡¿Eres un remedo de VidBoy?!?!?
 ¡¡¡Sal de mi vista!!!
 
 #LOGOFF 1001
@@ -37,7 +37,7 @@ $C1>>---Mensaje Entrante---<<
 
 $C2Bueno, has encontrado la terminal correcta al fin, pero, ¡no has matado todo en este lugar!
 
-¡Vuelve allá y mata a esos asquerosos!
+¡Vuelve allá y mata a esos malvados!
 
 #LOGOFF 1001
 #INTRALEVEL TELEPORT 4
