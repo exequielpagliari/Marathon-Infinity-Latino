@@ -624,7 +624,7 @@ def main() -> int:
 
     print()
     print("========================================")
-    print("Marathon 2 terminal validation summary")
+    print("Marathon Infinity terminal validation summary")
     print("========================================")
     print(f"Files:    {len(files)}")
     print(f"Errors:   {errors}")
